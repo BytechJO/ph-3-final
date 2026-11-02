@@ -1,0 +1,152 @@
+.survey_top {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 20px auto;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.survey_top_left {
+    flex: 1;
+}
+
+.survey_example_line {
+    font-size: 22px;
+    color: #1a1a1a;
+    margin-bottom: 6px;
+}
+
+.survey_indent {
+    margin-left: 90px;
+}
+
+.survey_label {
+    font-weight: bold;
+}
+
+.survey_speaker {
+    font-weight: bold;
+}
+
+.survey_red {
+    color: #c0392b;
+}
+
+.survey_asked_line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #fde3cd;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 16px;
+    font-size: 22px;
+}
+
+.survey_name_input {
+    flex: 1;
+    border: none;
+    border-bottom: 2px solid #1a1a1a;
+    background: transparent;
+    font-size: 22px;
+}
+
+.survey_name_input:focus {
+    outline: none;
+}
+
+.survey_asked_caption {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+    margin-top: 4px;
+}
+
+.survey_side_image {
+    width: 200px;
+    flex-shrink: 0;
+}
+
+.survey_side_image img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+/* ---------------- table ---------------- */
+.survey_table {
+    width: 100%;
+    max-width: 950px;
+    margin: 10px auto 0 auto;
+    border-collapse: collapse;
+}
+
+.survey_table thead th {
+    background-color: #f2a877;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.survey_col_num {
+    width: 50px;
+}
+
+.survey_col_yn {
+    width: 90px;
+    text-align: center;
+}
+
+.survey_table tbody td {
+    background-color: #fde3cd;
+    padding: 10px 14px;
+    font-size: 22px;
+    color: #1a1a1a;
+    border-bottom: 4px solid #ffffff;
+}
+
+.survey_example_row td {
+    background-color: #f7c9a3;
+}
+
+.survey_question_input {
+    width: 100%;
+    border: none;
+    background: transparent;
+    font-size: 22px;
+}
+
+.survey_question_input:focus {
+    outline: none;
+}
+
+.survey_yn_cell {
+    cursor: pointer;
+    height: 44px;
+}
+
+.survey_tick {
+    color: #c0392b;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .survey_top {
+        flex-direction: column;
+        align-items: center;
+    }
+    .survey_indent {
+        margin-left: 40px;
+    }
+    .survey_side_image {
+        width: 140px;
+    }
+    .survey_table thead th,
+    .survey_table tbody td {
+        font-size: 13px;
+        padding: 6px 8px;
+    }
+}

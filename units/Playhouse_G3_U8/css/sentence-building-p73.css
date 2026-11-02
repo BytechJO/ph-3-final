@@ -1,0 +1,20 @@
+
+.sbp73-panel {position:relative;width:92%;max-width:1100px;margin:10px auto 24px;}
+.sbp73-frame {display:block;width:100%;height:auto;}
+.sbp73-panel > img:not(.sbp73-frame),.sbp73-frog {position:absolute;height:auto;}
+.sbp73-examples {left:38%;top:30%;width:29%;}
+.sbp73-frog {top:42%;width:8%;padding:0;border:0;background:transparent;cursor:pointer;}
+.sbp73-frog img {display:block;width:100%;height:auto;}
+.sbp73-left {left:6%;}.sbp73-right {right:6%;}
+#sbp73-rule-left {left:14%;top:34%;width:23%;}
+#sbp73-rule-right {left:65%;top:29%;width:27%;}
+.sbp73-frog:focus-visible {outline:3px solid #f57c20;border-radius:8px;}
+.sbp73-frog:hover {filter:drop-shadow(0 0 5px #ffad51);}
+.sbp73-panel [hidden] {display:none !important;}
+.sbp73-panel ~ .activity_container .act_head_group > .audioIcon {display:none;}
+
+.sbp73-frog {z-index:2;}
+
+.sbp73-examples {left:35%;top:25%;width:30%;}
+#sbp73-rule-left {left:12%;top:38%;width:24%;}
+#sbp73-rule-right {left:65%;top:38%;width:25%;}

@@ -1,0 +1,61 @@
+.grid_columns_container {
+    position: relative;
+}
+
+.snap_group_all {
+    width: 100%;
+    position: absolute;
+}
+
+.ss_text {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.red_text {
+    color: red;
+}
+
+/* ===================================== */
+.textImg {
+    width: 1155px;
+    height: 351px;
+    box-shadow: 9px 9px 10px #ccc;
+    border-radius: 20px;
+    display: inline-block !important;
+}
+.textImg .snap_group_all {
+    width: 85%;
+    padding: 20px;
+    /* padding-left: 50px; */
+}
+.textImg .ss_text{
+    font-size: 28px;
+}
+.textImg .audioIcon {
+    margin-left: 0px !important;
+}
+
+.textImg .text_img {
+    position: absolute;
+    top: -27px;
+    right: -165px;
+    height: 172px;
+    border-radius: 10px;
+}
+/* =================================== */
+
+.phonics .ss_text {
+    /* opacity: 0.5; */
+}
+/* ================================= */
+.gridWithTick .ss_text{
+    font-size: 24px;
+}
+.gridWithTick .snap_group_all {
+    top: 74px;
+}
+
+.grid_img_text {
+    transform: scale(0.8);
+}

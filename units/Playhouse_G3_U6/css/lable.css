@@ -1,0 +1,16 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.lbl_input{
+
+    /* color: transparent; */
+    background-color: transparent;
+    border: none;
+    border-radius: 8px;
+}

@@ -1,0 +1,72 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.orange_text{
+    color: #f26521;
+}
+
+/* ---- picture with % positioned choice boxes ---- */
+.pwi_picture_wrap{
+    position: relative;
+    width: 95%;
+    max-width: 500px;
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid #f2a03d;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.pwi_choiceBox{
+    position: absolute;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+    padding: 6px 12px;
+    text-align: center;
+    z-index: 2;
+}
+
+.pwi_wordOpt{
+    font-family: Arcon;
+    font-size: 13px;
+    color: black;
+    padding: 2px 4px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+.pwi_wordOpt.pwi_selected{
+    background: #cfe9f7;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.que.pwi_right .pwi_choiceBox{
+    outline: 3px solid #2f9e44;
+    border-radius: 10px;
+}
+.que.pwi_wrong .pwi_choiceBox{
+    outline: 3px solid #d9364a;
+    border-radius: 10px;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .pwi_wordOpt{
+        font-size: 11px;
+    }
+    .pwi_choiceBox{
+        padding: 4px 8px;
+    }
+}

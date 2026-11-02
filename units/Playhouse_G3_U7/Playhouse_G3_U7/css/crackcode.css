@@ -1,0 +1,178 @@
+.all_cont{
+    /* height: 100%; */
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text{
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.cc_group{
+    width: 95%;
+    max-width: 950px;
+}
+
+/* ---- top row: mouse + key table ---- */
+.cc_top_row{
+    gap: 20px;
+    margin-bottom: 24px;
+}
+
+.cc_mouse_img{
+    flex: 0 0 140px;
+}
+.cc_mouse_img img{
+    width: 100%;
+    height: auto;
+}
+
+.cc_key_table{
+    flex: 1;
+    border: 2px solid #35a3d4;
+    border-radius: 14px;
+    padding: 10px;
+    background: #eaf7fc;
+}
+
+.cc_key_row{
+    justify-content: space-around;
+}
+.cc_key_row + .cc_key_row{
+    border-top: 1px dashed #35a3d4;
+    margin-top: 6px;
+    padding-top: 6px;
+}
+
+.cc_key_cell{
+    text-align: center;
+    min-width: 26px;
+}
+.cc_key_letter{
+    font-family: Arcon;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.cc_key_num{
+    font-family: Arcon;
+    font-size: 18px;
+    color: #2f6fb3;
+}
+
+/* ---- decode lines ---- */
+.cc_sentences{
+    width: 100%;
+    text-align: left;
+}
+
+.cc_sentence{
+    column-gap: 6px;
+    row-gap: 14px;
+    margin-bottom: 18px;
+}
+
+.cc_word{
+    column-gap: 4px;
+    margin-right: 10px;
+}
+
+.cc_letter_col{
+    text-align: center;
+    min-width: 30px;
+}
+
+.cc_letterInput,
+.cc_given{
+    width: 50px;
+    height: 42px;
+    border: none;
+    border-bottom: 2px solid #333;
+    background: transparent;
+    font-family: Arcon;
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    /* text-transform: uppercase; */
+}
+.cc_letterInput:focus{
+    outline: none;
+    border-bottom-color: #2f6fb3;
+}
+.cc_given{
+    border-bottom: 2px solid #333;
+    color: black;
+}
+
+.cc_number{
+    font-family: Arcon;
+    font-size: 20px;
+    color: black;
+    margin-top: 2px;
+}
+
+.cc_punct{
+    font-family: Arcon;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    align-self: flex-end;
+    margin-bottom: 8px;
+}
+
+/* ---- feedback + detective image ---- */
+.icon_wrap_holder{
+    margin-top: 10px;
+}
+.tick, .cross{
+    width: 34px;
+    display: none;
+}
+.tick img, .cross img{
+    width: 100%;
+}
+
+.cc_detective_img{
+     position: absolute;
+    bottom: 0%;
+    right: 30%;
+    width: 120px;
+}
+.cc_detective_img img{
+    width: 100%;
+}
+
+
+.cc_letter_col{
+    position: relative;   /* لازم موجودة أصلاً، تأكدي منها */
+}
+
+.cc_cell_icon_wrap{
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 16px;
+    height: 16px;
+}
+.cc_cell_tick,
+.cc_cell_cross{
+    display: none;
+    width: 16px;
+    height: 16px;
+}
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .cc_key_letter{ font-size: 12px; }
+    .cc_key_num{ font-size: 10px; }
+    .cc_letterInput, .cc_given{ font-size: 15px; width: 18px; }
+}

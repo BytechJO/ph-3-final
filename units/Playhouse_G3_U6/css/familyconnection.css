@@ -1,0 +1,105 @@
+.fam_group {
+    width: 100%;
+    max-width: 950px;
+    gap: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.fam_table_wrap {
+    flex: 1;
+    min-width: 320px;
+}
+
+.fam_table_title {
+    background-color: #fde3cd;
+    color: #e2571c;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px 10px 0 0;
+    border: 2px solid #f2b98a;
+    border-bottom: none;
+}
+
+.fam_table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #f2b98a;
+}
+
+.fam_table thead th {
+    background-color: #fff6ec;
+    color: #2b2b2b;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px 6px;
+    border: 1px solid #f2b98a;
+    text-align: left;
+}
+
+.fam_table th.fam_row_action_col {
+    width: 30px;
+}
+
+.fam_table td {
+    border: 1px solid #f2b98a;
+    padding: 2px;
+}
+
+.fam_input {
+    width: 100%;
+    border: none;
+    background: transparent;
+    padding: 8px 6px;
+    font-size: 20px;
+}
+
+.fam_input:focus {
+    outline: none;
+    background-color: #fff6ec;
+}
+
+.fam_row_action_col {
+    text-align: center;
+}
+
+.fam_remove_row {
+    cursor: pointer;
+    color: #b3450f;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.fam_add_row_wrap {
+    text-align: center;
+    margin-top: 8px;
+}
+
+.fam_add_row {
+    border: 2px solid #25a4de;
+    background-color: #ffffff;
+    color: #25a4de;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 4px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.fam_add_row:hover {
+    background-color: #eef8fd;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .fam_group {
+        flex-direction: column;
+        align-items: center;
+    }
+    .fam_table_wrap {
+        width: 100%;
+        min-width: unset;
+    }
+}

@@ -1,0 +1,21 @@
+
+.sbp53-panel {position:relative;width:92%;max-width:1100px;margin:10px auto 24px;}
+.sbp53-frame {display:block;width:100%;height:auto;}
+.sbp53-panel > img:not(.sbp53-frame),.sbp53-frog {position:absolute;height:auto;}
+.sbp53-examples {left:38%;top:30%;width:29%;}
+.sbp53-frog {top:42%;width:8%;padding:0;border:0;background:transparent;cursor:pointer;}
+.sbp53-frog img {display:block;width:100%;height:auto;}
+.sbp53-left {left:6%;}.sbp53-right {right:6%;}
+#sbp53-rule-left {left:14%;top:34%;width:23%;}
+#sbp53-rule-right {left:65%;top:29%;width:27%;}
+.sbp53-frog:focus-visible {outline:3px solid #f57c20;border-radius:8px;}
+.sbp53-frog:hover {filter:drop-shadow(0 0 5px #ffad51);}
+.sbp53-panel [hidden] {display:none !important;}
+.sbp53-panel ~ .activity_container .act_head_group > .audioIcon {display:none;}
+
+.sbp53-frog {z-index:2;}
+
+.sbp53-examples {left:34%;top:34%;width:36%;}
+#sbp53-rule-left {left:14%;top:43%;width:19%;}
+#sbp53-rule-right {left:72%;top:29%;width:14%;}
+.sbp53-examples {left:35%;top:28%;width:33%;} #sbp53-rule-left {top:32%;} #sbp53-rule-right {left:70%;top:25%;width:17%;}

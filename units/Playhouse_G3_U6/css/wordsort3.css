@@ -1,0 +1,144 @@
+/* ---------------- numbered word bank ---------------- */
+.ws3_bank {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto 30px auto;
+    gap: 12px;
+}
+
+.ws3_bank_chip {
+    border: 2px solid #f2843f;
+    border-radius: 20px;
+    padding: 6px 18px;
+    font-size: 17px;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    cursor: grab;
+    user-select: none;
+}
+
+.ws3_num {
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.ws3_bank_chip.used_in_bank {
+    text-decoration: line-through;
+    opacity: 0.35;
+    cursor: default;
+    pointer-events: none;
+}
+
+.ui-draggable-dragging.ws3_bank_chip,
+.ui-draggable-dragging.placed_word {
+    background: #ffffff;
+    border: 2px solid #f2843f;
+    border-radius: 20px;
+    padding: 6px 18px;
+    font-size: 17px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    z-index: 1000;
+}
+
+/* ---------------- the 3 ruled tables ---------------- */
+.ws3_tables {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+    gap: 25px;
+}
+
+.ws3_table_wrap {
+    flex: 1;
+    min-width: 260px;
+    max-width: 320px;
+}
+
+.ws3_table_title {
+    background-color: #fde3cd;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 16px;
+    margin-bottom: -18px;
+    position: relative;
+    z-index: 2;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ws3_table_box {
+    display: grid;
+    border: 2px solid #f2843f;
+    border-radius: 18px;
+    background-color: #ffffff;
+    padding: 30px 14px 14px 14px;
+}
+
+.ws3_col {
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #f2b98a;
+}
+
+.ws3_col:last-child {
+    border-right: none;
+}
+
+.ws3_line {
+    height: 42px;
+    border-bottom: 1px solid #b3b3b3;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 4px;
+    margin: 0 6px;
+}
+
+.ws3_example_text {
+    color: #c0392b;
+    text-decoration: underline;
+    font-size: 15px;
+}
+
+.ws3_slot.ws3_slot_hover {
+    background-color: #eef8fd;
+}
+
+.placed_word {
+    font-size: 15px;
+    color: #1a1a1a;
+    cursor: pointer;
+}
+
+/* .placed_word.ws3_correct {
+    color: #1c9c4a;
+}
+
+.placed_word.ws3_incorrect {
+    color: #c0392b;
+} */
+
+.ws3_result_icon {
+    width: 15px;
+    height: 15px;
+    margin-left: 4px;
+    margin-bottom: 3px;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .ws3_bank_chip {
+        font-size: 13px;
+        padding: 4px 12px;
+    }
+    .ws3_table_title {
+        font-size: 14px;
+    }
+    .ws3_line {
+        height: 32px;
+    }
+}

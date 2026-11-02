@@ -1,0 +1,182 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    /* width: 80%; */
+    height: 100%;
+    position: relative;
+}
+
+.group_elm{
+    width: 300px;
+    margin-left: 50px;
+    justify-content: space-between;
+}
+
+.q_image {
+    height: 100%;
+}
+
+.q_image img {
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
+/* ==================================== */
+.q_order{
+    width: 50px;
+}
+/* ************************************** */
+.ques{
+    width: 400px;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+/* ==================================== */
+.q_box{
+    width:  45%;
+    margin: 15px 8px;
+    padding: 5px 10px; 
+}
+
+.fill_in .que {
+    width: 85%;
+    margin: 1px 0px;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 33.333%;
+}
+
+
+
+.txt-audioIcon{
+    padding-top: 0px;
+}
+
+
+
+.icon_wrap {
+    position: absolute;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+/* =========================== */
+/*  
+===============================*/
+
+.que[status="label"] {
+    border: 1px solid rgb(0, 185, 242);
+    border-radius: 10px;
+    background: #e1f4fd;
+}
+
+.que[status="label"] .blue_order {
+    width: 43px;
+    height: 43px;
+    border: 1px solid rgb(0, 185, 242);
+    background-color: #fff;
+    border-radius: 50px;
+    margin-right: 10px;
+    margin-left: -25px;
+    margin-top: 1px;
+    font-weight: bolder;
+}
+
+.que[status="fill"] .text_input_area {
+    width: 43px;
+    /* height: 43px; */
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    border: 2px solid #36a0c7;
+}
+
+.que[status="fill"] {
+    position: absolute;
+    width: fit-content;
+}
+
+.que[status="fill"] :focus{
+    outline: none;
+}
+
+.que[data-qno="6"]{
+    top: 17px;
+    left: 29px
+}
+
+.que[data-qno="7"] {
+    top: 30px;
+    left: 501px;
+}
+
+.que[data-qno="8"] {
+    top: 250px;
+    left: 24px;
+}
+
+.que[data-qno="9"] {
+    top: 292px;
+    left: 308px;
+}
+
+.que[data-qno="13"] {
+    top: 148px;
+    left: 407px;
+}
+
+.que[data-qno="10"] {
+    top: 272px;
+    left: 447px;
+}
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

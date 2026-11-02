@@ -1,0 +1,30 @@
+var _activity_json = 
+    {
+        "layout"                : 1,
+        "numinrow"              : [[1,1,1]],
+        "mainTitle"             : "../images/pages/sb-icons/word_main_title.png",
+        "mainTitleIcon"         : "../images/pages/sb-icons/word_main_title_icon.png",
+        "mainTitleIconPos"      : {"right": "-18px"},
+        "mainTitleAudio"        : "../audios/under.mp3",
+        "subTitleTextLeft"      : '<span class="blue_text">1</span> Answer it! Answer the questions in complete sentences.',
+        "subTitleTextRight"     : "",
+        "subTitleIcons"         : [],
+        "subTitleAudio"         : "../audios/under.mp3",
+        "image": "new_drag_drop.png",
+        "activityheading": "Look, read, and complete. Use the words from the box",
+        "activityheading_audio" : "../audios/under.mp3",
+        // "supHeading": "Qu’est-ce que c’est ?",
+        "type": "drag_drop",
+        "images": ["../images/pages/activities/p11_F_1.png","../images/pages/activities/p11_F_2.png","../images/pages/activities/p11_F_3.png","../images/pages/activities/p11_F_4.png","../images/pages/activities/p11_F_5.png"],
+        "questions": [
+            "Those are ___ in the tree.",
+            "Those are ___ in the sky. ",
+            "Those are ___ in the pond.",
+            "That is a ___ .",
+            "Those are dark ___ .",
+            // "<div class='i_container'><div class='i_row'><div class='l_col'><img src='../images/pages/page4-6.PNG' class='qus_img'></div><div class='r_col'><div class='droppable_text_div'>&nbsp;___&nbsp;</div></div></div></div>",
+        ],
+        "options": ["birds", "clock", "clouds", "ducks", "apples"],
+        "answers": ["apples", "birds", "ducks", "clock", "clouds"],
+        // "default_answer": {1:"apple"}
+    };

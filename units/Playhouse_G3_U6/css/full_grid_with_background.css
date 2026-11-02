@@ -1,0 +1,16 @@
+.full_grid_with_background_image .col_grid_container {
+    width: 95%;
+    position: relative;
+}
+
+.full_grid_with_background_image .snap_group_all {
+    width: 96%;
+    position: absolute;
+    top: 46px;
+    left: 48px;
+    text-align: left;
+    line-height: 45px;
+}
+.reading_slide .background_img{
+    height: 608px !important;
+}

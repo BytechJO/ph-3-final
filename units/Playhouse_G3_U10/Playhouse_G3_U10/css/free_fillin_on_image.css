@@ -1,0 +1,211 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    /* width: 80%; */
+    height: 100%;
+    position: relative;
+}
+
+.group_elm{
+    width: 300px;
+    margin-left: 50px;
+}
+
+.q_image {
+    height: 100%;
+}
+
+.q_image img {
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
+/* ==================================== */
+.q_order{
+    width: 50px;
+}
+/* ************************************** */
+.ques{
+    width: 400px;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+/* ==================================== */
+.q_box{
+    width:  45%;
+    margin: 15px 8px;
+    padding: 5px 10px; 
+}
+
+.fill_in .que {
+    width: 85%;
+    margin: 1px 0px;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 33.333%;
+}
+
+
+
+.txt-audioIcon{
+    padding-top: 0px;
+    height: 40px;
+}
+
+
+
+.icon_wrap {
+    position: absolute;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+/* =========================== */
+/*  
+===============================*/
+
+.que[status="label"] {
+    border: 1px solid rgb(0, 185, 242);
+    border-radius: 10px;
+}
+
+.que[status="label"] .blue_order {
+    width: 34px;
+    height: 34px;
+    border: 1px solid rgb(0, 185, 242);
+    background-color: #fff;
+    border-radius: 50px;
+    margin-right: 10px;
+    margin-left: -25px;
+    margin-top: 1px;
+    font-weight: bolder;
+}
+
+.que[status="fill"] .text_input_area {
+       width: 34px;
+    height: 34px;
+    text-align: center;
+    border: none;
+    border-radius: 50px;
+    border: 2px solid #36a0c7;
+}
+
+.que[status="fill"] {
+    position: absolute;
+    width: fit-content;
+}
+
+.que[status="fill"] :focus{
+    outline: none;
+}
+
+.que[data-qno="12"]{
+  top: 20%;
+    left: 29%;
+}
+
+.que[data-qno="13"] {
+  top: 31%;
+    left: 45%;
+}
+
+.que[data-qno="14"] {
+       top: 43%;
+    left: 36%;
+}
+
+.que[data-qno="15"] {
+   top: 53%;
+    left: 27%;
+}
+
+.que[data-qno="16"] {
+  top: 36%;
+    left: 25%;
+}
+
+.que[data-qno="17"] {
+     top: 17%;
+    left: 23%;
+}
+
+.que[data-qno="18"] {
+   top: 80%;
+    left: 34%;
+}
+
+.que[data-qno="19"] {
+       top: 92%;
+    left: 27%;
+}
+
+.que[data-qno="20"] {
+   top: 59%;
+    left: 19%;
+}
+
+.que[data-qno="21"] {
+  top: 54%;
+    left: 13%;
+}
+
+.que[data-qno="22"] {
+      top: 56%;
+    left: 2%;
+}
+
+
+
+
+
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

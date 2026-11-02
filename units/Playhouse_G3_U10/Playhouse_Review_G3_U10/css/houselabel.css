@@ -1,0 +1,108 @@
+.hl_wordbank {
+    background-color: #fde3cd;
+    border-radius: 14px;
+    padding: 10px 20px;
+    gap: 6px 40px;
+    max-width: 600px;
+    margin: 10px auto 20px auto;
+}
+
+.hl_wordbank_item {
+    font-size: 20px;
+    color: #1a1a1a;
+}
+
+.all_cont{
+        margin-bottom: 53px;
+}
+.hl_img_wrap {
+    position: relative;
+    width: 50%;
+    /* max-width: 420px; */
+    margin: 0 auto;
+    /* border: 2px dashed #f2843f; */
+    border-radius: 14px;
+    padding: 10px;
+}
+
+.hl_bg_image {
+    width: 100%;
+    display: block;
+}
+
+.hl_blank {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 34px;
+    height: 34px;
+    border: 2px solid #f2843f;
+    border-radius: 50%;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hl_input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: lowercase;
+    position: relative;
+    z-index: 2;
+}
+
+.hl_input:focus {
+    outline: none;
+}
+
+/* .hl_blank.hl_correct {
+    border-color: #1c9c4a;
+}
+
+.hl_blank.hl_correct .hl_input {
+    color: #1c9c4a;
+}
+
+.hl_blank.hl_incorrect {
+    border-color: #c0392b;
+}
+
+.hl_blank.hl_incorrect .hl_input {
+    color: #c0392b;
+} */
+
+.hl_blank .icon_wrap {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    pointer-events: none;
+}
+
+.hl_blank .tick,
+.hl_blank .cross {
+    width: 16px;
+    display: none;
+}
+
+.hl_blank .tick img,
+.hl_blank .cross img {
+    width: 100%;
+}
+
+@media (max-width: 767.98px) {
+    .hl_wordbank_item {
+        font-size: 13px;
+    }
+    .hl_blank {
+        width: 26px;
+        height: 26px;
+    }
+    .hl_input {
+        font-size: 13px;
+    }
+}

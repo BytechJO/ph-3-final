@@ -1,0 +1,239 @@
+.cont_ht_sf {
+  width: 100%;
+}
+
+.img_space {
+  height: 30vh;
+  width: intrinsic;
+  width: -moz-max-content;
+  width: -webkit-max-content;
+  width: max-content;
+  min-height: 200px;
+  max-height: 400px;
+  margin: 10px;
+}
+
+.img_space img {
+  height: 100%;
+}
+
+.content_space,
+.ques_part_space {
+  min-height: 200px;
+}
+
+.screan_elements {
+  width: 90%;
+  height: 100%;
+}
+
+.all_cont {
+  height: 100%;
+  align-items: center;
+}
+
+.options {
+  height: 450px;
+}
+
+
+.fill_box {
+  min-height: 42px;
+  margin-top: 6px;
+}
+
+.q_num_space {
+  min-width: 20px;
+  width: 20px;
+  margin-left: 11px;
+}
+
+.sta_txt_cont {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.text {
+  min-width: 175px;
+}
+
+.group_elm {
+  width: 70%;
+  margin-bottom: 10px;
+  flex-direction: unset;
+  padding: 4px;
+  height: 100%;
+}
+
+.ques_part_space {
+  width: 100% !important;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.fill_content {
+  height: 86px;
+  width: 43%;
+}
+
+.que {
+  position: relative;
+  align-items: center;
+}
+
+
+#shakingImage {
+  height: 150px;
+}
+
+.right-image-container {
+    margin-top: 0px;
+    margin-right: 35px;
+    position: relative;
+    display: none;
+}
+
+.right-image {
+    width: 350px;
+}
+
+.textOnImage-container {
+    position: absolute;
+    top: 54px;
+    left: 103px;
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.right_title {
+    color: #fff;
+    margin-left: 35px;
+    font-size: 26px;
+}
+
+.icon_wrap {
+  align-self: center;
+  margin-left: 20px;
+  position: absolute;
+  right: -33px;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+
+.pick {
+  width: 180px;
+  height: 180px;
+  text-align: center;
+  min-width: 150px;
+  border: 2px solid rgb(255, 255, 255);
+  padding: 10px 15px;
+  color: #f26521;
+}
+
+.roundedCorners {
+  border-radius: 10px;
+}
+
+.i_cross {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.right_title {
+  color: #fff;
+  margin-left: 28px;
+}
+
+.textOnImage-container .red_text {
+  font-weight: bolder;
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {
+
+  .content_space,
+  .ques_part_space {
+    width: intrinsic;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+    width: max-content;
+  }
+
+  .group_elm {
+    flex-direction: row;
+  }
+
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+@media (max-width: 1199.98px) {
+  .fill_box {
+    width: 440px;
+  }
+
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {
+
+  .fill_box {
+    width: 340px;
+  }
+
+
+}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 779.98px */
+/* ------------------------------------------------*/
+@media (max-width: 779.98px) {
+
+  .content_space,
+  .ques_part_space {
+    width: 100%;
+  }
+
+  .fill_box {
+    width: 100%;
+  }
+
+  .group_elm {
+    flex-direction: column;
+  }
+
+}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+@media (max-width: 575.98px) {
+
+  .fillin_wrap {
+    margin-right: 31px;
+  }
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+@media (max-width: 475.98px) {
+
+
+}
+
+@media (max-width: 320px) {}

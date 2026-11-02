@@ -1,0 +1,116 @@
+.all_cont {
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.screen_elements {
+  width: 90%;
+  height: 100%;
+}
+
+.blue_text {
+  color: rgb(0, 185, 242);
+  font-size: 27px;
+}
+
+.ciw_group {
+  width: 95%;
+  max-width: 900px;
+  gap: 30px 20px;
+  margin-top: 70px;
+  justify-content: center;
+}
+
+.ciw_item {
+  width: 220px;
+  text-align: center;
+}
+
+.ciw_imgWrap {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+}
+
+.ciw_numBadge {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid #35a3d4;
+  background: #fff;
+  color: #2f6fb3;
+  font-family: Arcon;
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.ciw_img {
+     width: 100%;
+    height: 150px;
+    object-fit: contain;
+    border: 2px solid #35a3d4;
+    border-radius: 12px;
+    /* background: #eee;*/
+}
+
+.ciw_svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.ciw_answer_row {
+  margin-top: 10px;
+  gap: 6px;
+  justify-content: center;
+}
+
+.ciw_input {
+  width: 140px;
+  height: 30px;
+  border: none;
+  border-bottom: 2px solid #595a5a;
+  background: transparent;
+  font-family: Arcon;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+}
+.ciw_input:focus {
+  outline: none;
+}
+
+.icon_wrap_holder {
+  flex-shrink: 0;
+}
+.tick,
+.cross {
+  width: 24px;
+  display: none;
+}
+.tick img,
+.cross img {
+  width: 100%;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px) {
+  .ciw_item {
+    width: 45%;
+  }
+}

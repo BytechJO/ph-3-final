@@ -1,0 +1,168 @@
+.ml_headphone {
+  width: 26px;
+  margin-right: 10px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.ml_headphone img {
+  width: 100%;
+}
+
+.ml_match_wrap {
+  position: relative;
+  width: 100%;
+  max-width: 950px;
+  margin: 20px auto 0 auto;
+  min-height: 340px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ml_svg_layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.ml_line {
+  stroke: #f2843f;
+  stroke-width: 2;
+}
+
+.ml_locked_line {
+  stroke: #e2574c;
+}
+
+.ml_correct_line {
+  stroke: #1c9c4a;
+}
+
+.ml_incorrect_line {
+  stroke: #c0392b;
+}
+
+.ml_col {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+      align-items: center;
+  gap: 22px;
+}
+
+.ml_left_col {
+  width: 32%;
+}
+
+.ml_mid_col {
+  width: 26%;
+  justify-content: center;
+  gap: 40px;
+}
+
+.ml_right_col {
+  width: 38%;
+}
+
+.ml_row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  font-size: 20px;
+  color: #1a1a1a;
+}
+.ml_text{
+    width: 150px;
+}
+.ml_left_row {
+  justify-content: flex-start;
+}
+
+.ml_mid_row {
+  justify-content: space-between;
+}
+
+.ml_num,
+.ml_letter {
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.ml_dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: #f2843f;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.ml_left_row .ml_dot {
+  /* margin-left: auto; */
+}
+
+.ml_mid_box {
+  background-color: #fde3cd;
+  border: 2px solid #f2843f;
+  border-radius: 10px;
+  padding: 4px 14px;
+  font-size: 20px;
+  text-align: center;
+  flex: 1;
+  margin: 0 8px;
+}
+
+.ml_dot.ml_selected {
+  background-color: #25a4de;
+  box-shadow: 0 0 0 4px rgba(37, 164, 222, 0.3);
+}
+
+.ml_dot.ml_used {
+  background-color: #e2574c;
+}
+
+.ml_dot.ml_correct {
+  background-color: #1c9c4a;
+}
+
+.ml_dot.ml_incorrect {
+  background-color: #c0392b;
+}
+
+.ml_char_image {
+  position: absolute;
+      bottom: -53px;
+    right: -80px;
+  width: 170px;
+  z-index: 2;
+}
+
+.ml_char_image img {
+  width: 100%;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+  .ml_match_wrap {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .ml_left_col,
+  .ml_mid_col,
+  .ml_right_col {
+    width: 100%;
+  }
+  .ml_row {
+    font-size: 13px;
+  }
+  .ml_char_image {
+    width: 100px;
+    right: 0;
+  }
+}

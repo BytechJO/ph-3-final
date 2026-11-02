@@ -1,0 +1,202 @@
+/* //  ****************************************** // */
+/* //  SnapshotCSS - Version no: R-02
+/* //  Date created - July 10, 2020 
+/* //  ****************************************** // */
+
+
+.snap_card { 
+  /* width: 250px; */
+  /* position: relative; */
+}
+.snap_group_all {
+  width: 100%;
+}
+.snap_card .ss_word{   
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+.snap_card .ss_word{  
+  height: 126px;
+  width: 190px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+.word {
+  position: absolute;
+  
+}
+.snap_card img{
+  z-index: -2;
+}
+.qusBtn{
+	position:fixed;
+	bottom:90px;
+	right:19%;
+	width: 66px;
+	margin: auto;
+	margin-right: 0;
+	z-index: 1;
+}
+.to_know_img img{
+  height: 70px;
+}
+
+.to_know_Panel .modal-content{
+  max-width: 445px;
+  max-height: 600px;
+  margin:auto; 
+}
+.to_know_Panel .modal-body{
+  position: relative;
+  font-family: Arcon;
+  font-size: 22px;
+  color: black;   
+  background-color: white;
+  -moz-box-shadow:    inset 0 0 25px 21px #a9e0f9;
+  -webkit-box-shadow: inset 0 0 25px 21px #a9e0f9;
+  box-shadow: inset 0 0 25px 21px #a9e0f9; 
+  margin-top: -6px;    
+  padding: 23px 20px 11px 18px;
+}
+.to_know_Panel .modal-header{
+  background-color: #25ace3;    
+  background-image:
+      linear-gradient(
+      to right, 
+      #00b0ef, 
+      #a9e0f9
+      );
+  position: relative;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px;
+  padding-left: 20px;
+  font-family: Arcon;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  z-index: 1;
+  border: none; 
+  z-index: 1;   
+}
+.modal-header .close {
+  background-color: white;
+  opacity: 1;
+  padding: 9px;
+  padding-top: 3px;
+  padding-bottom: 7px;
+  margin-right: 1px;
+  margin-top: 0px;
+  border-radius: 2px;
+  width: 34px;
+  height: 34px;
+}
+.font_coming{
+  font-family:ComingSoon; 
+  font-size:24px
+}
+.to_know_Panel .modal-body ul{
+  padding-left: 25px;
+}
+
+/**End**/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+@media (max-width: 1799.98px) {    
+  .snap_card{
+    /* width: 170px; */
+  }
+  .snap_card .ss_word{
+    height: 120px;
+    width: 118px;
+  }  
+  .content_bg{ 
+    background-size: 226px;
+  }  
+  
+
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+@media (max-width: 1199.98px) {
+  /* .snap_group_all {
+    margin-top: 7vh;
+  } */
+  .qusBtn{
+    right:14%;
+  }
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+@media (max-width: 767.98px) {
+  .content_bg{
+    background-size: 260px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 150px;
+    background-position-x: 90%;
+  }  
+  .qusBtn {
+    right: 16%;
+}   
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+@media (max-width: 575.98px) {
+  .to_know_Panel .modal-body {
+    font-size: 18px;
+  }    
+  .to_know_Panel .modal-header{
+    font-size: 94%;
+  }
+  .to_know_Panel .modal-content {
+    max-width: 400px;
+  }
+  .font_coming {
+    font-size: 18px;
+  }
+  .to_know_img img{
+    height: 55px;
+  }
+  .qusBtn {
+    right: 4%;
+}
+    
+
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+@media (max-width: 475.98px) {
+  /* .to_know_Panel .modal-body {
+    font-size: 14px;
+    padding: 0px 9px;;
+  }     */
+  .to_know_Panel .modal-content {
+    max-width: 307px;
+  }
+  /* .font_coming {
+    font-size: 16px;
+  } */
+  .to_know_img img{
+    height: 45px;
+  }
+  /* .modal-header .close {
+    padding: 0px 8px;
+} */
+}
+@media (max-width: 320) {
+  .content_bg{
+    background-size: 100%;
+    background-position: center;
+  }
+}

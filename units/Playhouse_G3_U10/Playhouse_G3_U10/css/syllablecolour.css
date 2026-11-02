@@ -1,0 +1,100 @@
+.sc_title_icon {
+    width: 34px;
+    margin-left: 10px;
+}
+
+.sc_group {
+    width: 100%;
+    max-width: 700px;
+    margin: 10px auto 0 auto;
+    gap: 26px;
+}
+
+.sc_row {
+    justify-content: space-between;
+}
+
+.sc_word_label {
+    font-size: 29px;
+    color: #1a1a1a;
+    min-width: 140px;
+}
+
+.sc_num {
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.sc_choices {
+    gap: 40px;
+}
+
+.sc_choice_wrap {
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* hollow / outline number look, like the reference image */
+.sc_choice_num {
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS', 'Segoe Print', cursive, sans-serif;
+    color: transparent;
+    -webkit-text-stroke: 1.6px #1a1a1a;
+    text-stroke: 1.6px #1a1a1a;
+    text-shadow:
+        -1px -1px 0 #1a1a1a,
+         1px -1px 0 #1a1a1a,
+        -1px  1px 0 #1a1a1a,
+         1px  1px 0 #1a1a1a;
+    user-select: none;
+}
+
+@supports (-webkit-text-stroke: 1px black) or (text-stroke: 1px black) {
+    .sc_choice_num {
+        text-shadow: none;
+    }
+}
+
+/* coloured (selected) number becomes a solid fill instead of hollow */
+.sc_choice_wrap.sc_coloured .sc_choice_num {
+    color: #e2231a;
+    -webkit-text-stroke: 0;
+    text-stroke: 0;
+    text-shadow: none;
+}
+
+.sc_choice_wrap .icon_wrap {
+    position: absolute;
+    top: -8px;
+    right: -14px;
+    pointer-events: none;
+}
+
+.sc_choice_wrap .tick,
+.sc_choice_wrap .cross {
+    width: 20px;
+    display: none;
+}
+
+.sc_choice_wrap .tick img,
+.sc_choice_wrap .cross img {
+    width: 100%;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .sc_word_label {
+        font-size: 15px;
+        min-width: 100px;
+    }
+    .sc_choice_num {
+        font-size: 32px;
+    }
+    .sc_choices {
+        gap: 22px;
+    }
+}

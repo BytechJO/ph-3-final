@@ -1,0 +1,60 @@
+var stereo_data = {
+    "audio":"",
+    "exist":true,
+    "bgColor_rgb":"rgb(242, 101, 33)",
+    "playListData" : [
+        {
+          'audiourl': 'www.mfiles.co.uk/mp3-downloads/korobeiniki.mp3',
+        },
+        {
+          'url': '',
+        },
+        {
+          'url': '',
+        },
+        {
+          'url': '',
+        }
+    ],
+  }
+var reading_data = {
+    "mainTitle": "../images/icons/conv_main_title.png",
+    "mainTitleIcon": "../images/pages/sb-icons/conv_main_title_icon.png",
+    "mainTitleIconPos": {"right": "100px"},
+    "mainTitleAudio": "../audios/under.mp3",
+    "subTitleTextLeft": "<span class='orange_text'>2</span> You do it.",
+    "subTitleTextRight": "<span class='orange_text'>Talk about what you do on your birthday.</span>",
+    "subTitleIcons": ["../images/pages/sb-icons/conv_3_icon.png"],
+    "subTitleAudio": "../audios/under.mp3",
+    "slides": [
+        {
+            "mainTitle": "../images/pages/page-2/1-title_1.png",
+            "mainTitleAudio": "../audios/under.mp3",
+            "subTitleTextLeft": "<span class='orange_text'>1</span> Listen and read. Then act it out.",
+            "subTitleTextRight": "",
+            "subTitleIcons": ["../images/pages/page-2/1-title-icon.png", "../images/pages/page-2/1-title-icon.png", "../images/pages/page-2/1-title-icon.png"],
+            "subTitleAudio": "../audios/under.mp3",
+
+            "layout": "text_on_image",
+            "parentClass":"imageOnTextCake",
+            "mainImage": "../images/pages/page-2/part-2-background.png",
+            "convImage": [
+                {
+                    "img": "../images/pages/page-2/part-2-conv-1.png",
+                    "audio": "../audios/in.mp3",
+                    "imgPos": {"top": "290px", "left": "-5px"}
+                },
+                {
+                    "img": "../images/pages/page-2/part-2-conv-2.png",
+                    "audio": "../audios/under.mp3",
+                    "imgPos": {"top": "425px", "left": "48px"}
+                },
+                {
+                    "img": "../images/pages/page-2/part-2-conv-3.png",
+                    "audio": "../audios/under.mp3",
+                    "imgPos": {"top": "358px", "left": "290px"}
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+/**************** general ***************/  
+.screen_numbering{
+  background-color: #ffffff;
+  border: 2px solid #a6321c;
+  padding: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-size: 20px;
+    width: intrinsic;           /* Safari/WebKit uses a non-standard name */
+width: -moz-max-content;    /* Firefox/Gecko */
+width: -webkit-max-content; /* Chrome */
+width:max-content;
+  float: right;
+}
+.goTo_container{
+	left: 712px; 
+	top:629px; 
+	font-family: Arcon;
+	font-size: 26px
+}
+#txt_num{
+  width: 45px;
+  height: 35px;
+   font-weight: 400;
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-size: 25px;
+   text-align: center;
+   border: 1px solid;
+   padding:0px;
+   text-rendering: optimizeLegibility;
+   
+}
+#gotoBtn{
+	cursor: pointer;
+	vertical-align: text-bottom;
+}
+.cont_ht_sf{
+  /* height: 100%; */
+}
+
+/**************** general ***************/ 
+.sub_footer{
+  position: fixed;
+  right: 0;
+  bottom: 57px;
+  left: 0;
+  z-index: 1065;    
+  padding: 1px 0px 1px;
+}
+.sub_footer_icon,
+.ctrlIcon img{
+  width:90px;
+  height:90px;     
+}
+.sub_footer_icon{
+  cursor:pointer;  
+  position: absolute;
+  top: 45%;
+  z-index: 50000;
+}
+.sub_footer_icon_left{
+  left: 0;
+}
+.sub_footer_icon_right{
+  right: 0;
+}
+.slide {
+  text-align: -webkit-center;
+}
+.sub_footer_icon img{
+  width:100%;
+  vertical-align: top;
+}
+.sub_footer_icon.act_showall{
+  padding:3px;
+}
+.read_img_box {  
+  /* margin: auto; */
+  width: 50%;
+  height:64vh;
+}
+.read_img_box img {
+  border-radius: 25px;
+  height: 90%;
+}
+.red_cont{
+  height: 100%;
+}
+.callout {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+.text_cont{ 
+  height:64vh;
+  overflow-y: auto;
+  position: relative;
+  border:1px solid transparent;
+}
+.text_cont_half{
+  width:50%;
+}
+.text_cont_full{
+  width:90%;
+}
+.read_img_box{
+  background-size: contain;
+}
+.read_img_box_half{
+  width:50%;
+}
+.read_img_box_full{
+  width:90%;
+}
+.text_grp{
+  /* height: 100%; */
+  padding: 38px 38px 38px 2px;
+  max-height: intrinsic;
+  height: -moz-max-content;
+  height: -webkit-max-content;
+  height: max-content;
+}
+.tall_txt{
+  height:100%;
+}
+.small_txt{
+  height: intrinsic;
+height: -moz-max-content;
+height: -webkit-max-content;
+height: max-content;
+}
+.content {
+  font-weight:normal; 
+  max-height: 94%;
+  max-width: 94%;
+  overflow-y: auto;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.85);
+  box-shadow: 0px 0px 10px 14px rgba(255, 255, 255, 0.85);
+}
+ .text_base{
+ display: none;
+} 
+.slides{
+  width: 100%;
+}
+
+
+/*end*/
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+  .text_cont,
+  .read_img_box {
+    height: 61vh;
+  }
+  
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  
+  
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) { 
+  .read_img_box{
+    width: 100%;
+    height: 40vh;
+  }
+  .text_cont{
+    width: 100%;
+   /* height: intrinsic;
+height: -moz-max-content;
+height: -webkit-max-content;
+height: max-content;*/
+    height: intrinsic;           /* Safari/WebKit uses a non-standard name */
+height: -moz-max-content;    /* Firefox/Gecko */
+height: -webkit-max-content; /* Chrome */
+height:max-content;
+  }
+.content {
+  /* height: intrinsic;
+height: -moz-max-content;
+height: -webkit-max-content;
+height: max-content;*/
+    height: intrinsic;           /* Safari/WebKit uses a non-standard name */
+height: -moz-max-content;    /* Firefox/Gecko */
+height: -webkit-max-content; /* Chrome */
+height:max-content;
+  max-height: auto;
+}
+.text_base { 
+  height: 86%;
+}
+
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {  
+
+
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 691.98px */
+/* ------------------------------------------------*/
+@media (max-width: 691.98px) {
+  
+
+  
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 576*/
+@media (max-width: 575.98px) {
+ 
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {
+  .text_base { 
+    height: 95%;
+    width: 73%;
+  }
+  
+}
+@media (max-width: 319.98px) {
+  .text_base { 
+    height: 97%;
+  }
+  
+}

@@ -1,0 +1,221 @@
+.all_cont {
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+
+.group_elm {
+    width: 95%;
+    height: 100%;
+    margin: 0px auto;
+}
+
+.tick_group {
+    height: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.que_box {
+    width: 360px  !important;
+    margin: 10px;
+    /* border:1px solid #ececec; */
+    border-radius: 5px;
+    position: relative;
+    font-size: 28px;
+    align-items: center;
+}
+
+.q_part {
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+    color: rgb(0, 190, 255);
+    justify-content: center;
+}
+
+.q_num_space {
+    width: 27px;
+    font-weight: bolder;
+}
+
+.img_space {
+    width: 210px;
+    height: 150px;
+}
+
+.q_part img {
+    height: 130px;
+}
+
+.img_space img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.pick .txt{
+    width: 50px;
+    height: 50px;
+    margin: 3px;
+    text-align: center;
+    font-weight: bold;
+    color: #00c0f3;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    border: 1px solid #000;
+}
+
+.pick {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+
+}
+
+.selectedDefault {
+    border-color: #ffc107 !important;
+}
+
+.picks_grp {
+    width: 250px;
+    flex: 1;
+    justify-content: center;
+}
+
+.pick img {
+    width: 65% !important;
+    height: 100% !important;
+    padding: 0px 5px;
+    object-fit: contain;
+}
+
+.default .icon_wrap {
+    display: none;
+}
+
+.icon_wrap {
+    position: absolute;
+    top: 50px;
+    right: -15px;
+}
+
+.tick,
+.cross {
+    width: 25px;
+    height: 25px;
+}
+
+
+.image-container {
+    height: 170px;
+    margin-right: -50px;
+
+}
+
+.image-container img {
+    height: 100%;
+    object-fit: contain;
+}
+
+
+
+.right-image-container {
+    margin-top: 0px;
+    margin-right: 35px;
+    position: relative;
+}
+
+.right-image {
+    width: 350px;
+}
+
+.textOnImage-container {
+    position: absolute;
+    top: 54px;
+    left: 107px;
+    /* width: 200px; */
+    font-size: 23px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.right_title {
+    color: #fff;
+    margin-left: 35px;
+    font-size: 26px;
+}
+
+.textOnImage-container .orange_text {
+    font-weight: bolder;
+}
+
+.red_text {
+    font-weight: bolder;
+}
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {
+    .que {
+        padding: 10px;
+    }
+
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+    .que {
+        padding: 4px;
+    }
+
+    .q_part {
+        /* margin-bottom: 20px; */
+    }
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+@media (max-width: 575.98px) {}
+
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {
+    .tickBox {
+        height: 36px;
+        width: 36px;
+        min-width: 36px;
+    }
+}

@@ -1,0 +1,110 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text{
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.scu_group{
+    width: 95%;
+    max-width: 1000px;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+/* ---- story card ---- */
+.scu_story_card{
+    flex: 1.4;
+    background: #eaf7fc;
+    border: 2px solid #35a3d4;
+    border-radius: 16px;
+    padding: 18px 22px;
+    box-sizing: border-box;
+}
+
+.scu_para{
+    font-family: Arcon;
+    font-size: 20px;
+    line-height: 2.1;
+    color: black;
+    text-align: left;
+    margin: 0;
+}
+
+.scu_plainWord{
+    margin-right: 3px;
+}
+
+.scu_wordWrap{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    margin-right: 3px;
+    padding: 0 2px;
+}
+
+.scu_word{
+    position: relative;
+    z-index: 1;
+}
+
+.scu_svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    pointer-events: none;
+}
+/* 
+.scu_wordWrap.scu_right .scu_word{ color: #2f9e44; }
+.scu_wordWrap.scu_wrong .scu_word{ color: #d9364a; } */
+
+.icon_wrap_holder{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 4px;
+}
+.icon_wrap .tick,
+.icon_wrap .cross{
+    display: none;
+    width: 20px;
+}
+.icon_wrap .tick img,
+.icon_wrap .cross img{
+    width: 100%;
+    vertical-align: middle;
+}
+
+/* ---- illustration ---- */
+.scu_image_col{
+    flex: 1;
+}
+.scu_image_col img{
+    width: 100%;
+    height: auto;
+    border-radius: 14px;
+    border: 2px solid #35a3d4;
+}
+
+/* ************************************************* */
+@media (max-width: 767.98px){
+    .scu_group{
+        flex-direction: column;
+    }
+    .scu_para{
+        font-size: 15px;
+        line-height: 1.9;
+    }
+}

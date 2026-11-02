@@ -1,0 +1,81 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.orange_text{
+    color: #f26521;
+}
+
+.wp_group{
+    width: 95%;
+    max-width: 850px;
+    row-gap: 26px;
+}
+
+.wp_item{
+    width: 100%;
+    column-gap: 22px;
+    row-gap: 10px;
+}
+
+.q_num_space{
+    width: 26px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.wp_word{
+    font-family: Arcon;
+    font-size: 19px;
+    color: black;
+    white-space: nowrap;
+}
+
+.wp_gap{
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #cfcfcf;
+    background: transparent;
+    font-family: Arcon;
+    font-size: 17px;
+    color: black;
+    text-align: center;
+}
+.wp_gap:focus{
+    outline: none;
+    border-bottom-color: #2f6fb3;
+}
+
+.icon_wrap_holder{
+    margin-left: auto;
+    flex-shrink: 0;
+}
+.tick, .cross{
+    width: 28px;
+    display: none;
+}
+.tick img, .cross img{
+    width: 100%;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .wp_item{
+        column-gap: 12px;
+    }
+    .wp_word{
+        font-size: 17px;
+    }
+    .wp_gap{
+        width: 46px;
+    }
+}

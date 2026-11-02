@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        Playhouse
+    </title>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+    <style id='ui_style'>
+    </style>
+   <link rel="stylesheet" href="../css/all.min.css">
+    <link rel="stylesheet" href="../css/all.min.css">
+    <!-- Font Awesome -->
+    <!-- <script src="https://use.fontawesome.com/46af14eb3c.js"></script> -->
+    <link rel="stylesheet" href="../css/draw.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/unit_styles.css">
+    <link rel="stylesheet" href="../css/intro_2.css">
+    <!-- <link rel="stylesheet" href="../css/audio.css"> -->
+    <!-- for sub footer -->
+    <!-- <link rel="stylesheet" href="../css/reading_ui.css">
+    <link rel="stylesheet" href="../css/reading.css"> -->
+
+    <link rel="stylesheet" href="../css/snapshot_ui.css">
+    <link rel="stylesheet" href="../css/snapshot.css">
+    <!-- <link rel="stylesheet" href="../css/welcome.css"> -->
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../js/bootstrap/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js" text="text/javascript"></script>
+    <!-- [ Data for Header and Footer ] -->
+    <script src="../js/data/templateData.js" type="text/javascript"></script>
+    <!-- [ / Data for Header and Footer ] -->
+    <script src="../js/data/activityList.js" type="text/javascript"></script>
+    <script src="../js/data/snapshotData.js" type="text/javascript"></script>
+    <script src="../js/build/jsonRender.js"></script>
+</head>
+
+<body>
+    <div class="mask_parent">
+        <div class="mask_left"></div>
+        <div class="mask_right"></div>
+    </div>
+    <div class='loading'>
+        <div class="loader"></div>
+    </div>
+    <header class='fixed-top'></header>
+    <!-- What I want to Know starts here  -->
+    <div class="modal fade to_know_Panel" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <div>What I Want to Know:</div>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-question">
+                    <!-- Modal Content -->
+                </div>
+                <div class="modal-squirrel">
+                    <!-- Modal Content -->
+                </div>
+                <div class="modal-vocabulary">
+                    <!-- Modal Content -->
+                </div>
+                <div class="modal-listen">
+                    <!-- Modal Content -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- // What I want to Know ends here  -->
+    <div class='mainContent'>
+        <div class='slides'>
+            <div class='slide slide_1'>
+                <div class="container content_wrap content_bg snapshot_container snapShotLoader">
+                    <!-- <div class="qusBtn pop_launcher" data-toggle="modal" data-target=".to_know_Panel">
+                        <img class="w-100" src="../images/pages/snapshots/snapshot_question_icon.png">
+                    </div> -->
+                    
+
+                    <!-- <div class="image_with_text">
+                        <div class="main_image">
+                            <img src="../images/pages/snapshots/page-2/image page 2.png" height="400px"/>
+                        </div>
+                        <div class="top_image_audio">
+                            <img src="../images/pages/snapshots/page-2/conv page 2.png" height="150px"/>
+                        </div>
+                        <div class="buttom_image_audio">
+                            <img src="../images/pages/snapshots/page-2/squirrel.png" height="200px"/>
+                        </div>
+                    </div> -->
+                </div>
+                <!-- ///////////////////////////////////////////////// -->
+                
+                <!-- // read with highlights panel ends here  -->
+                <!-- read with highlights panel starts here  -->
+                <div class="modal fade readHilightsPanel_1" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <!-- Modal Header -->
+                            <!-- <div class="modal-header">
+                                <h4 class="modal-title">Read with Highlights&nbsp;&nbsp;</h4>
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            </div> -->
+                            <!-- Modal body -->
+                            <div class="modal-body">
+                                <!-- <img class="background" src="../images/pages/snapshots/page-1/popup 3 backgroung.png" alt=""> -->
+                                <!-- <p class="readHilightsPanel-header">Listen and read along.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- // read with highlights panel ends here  -->
+                <!-- read with highlights panel starts here  -->
+                <div class="modal fade readHilightsPanel2_1" tabindex="-1" role="dialog" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <!-- Modal Header -->
+                            <!-- <div class="modal-header">
+                                <h4 class="modal-title">Read with Highlights&nbsp;&nbsp;</h4>
+                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            </div> -->
+                            <!-- Modal body -->
+                            <div class="modal-body">
+                                <!-- <img class="background" src="../images/pages/snapshots/page-1/popup 3 backgroung.png" alt=""> -->
+                                <!-- <p class="readHilightsPanel-header">Listen and read along.</p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- // read with highlights panel ends here  -->
+
+                <div class="container content_wrap">
+                    <!-- <div class="wel_but_grup d-flex flex-row flex-md-column justify-content-center">
+                        <div class="highlightsIcon">
+                            <img class='w-100' src="../images/icons/highlights_icon.png">
+                        </div>
+                        <div class="apkBtn pop_launcher" data-toggle="modal" data-target=".apkPanel">
+                            <img class='w-100' src="../images/icons/welcome_question_icon.png">
+                        </div>
+                        <div class="apkBtn pop_launcher" data-toggle="modal" data-target=".ccssPanel">
+                            <img class='w-100' src="../images/icons/ccss_btn.png">
+                        </div>
+                    </div> -->
+                </div>
+
+                <div class="read_highlights_wrap fixed-bottom" style='margin-top:5px; top: 145px;'>
+                    <!-- <div class="read_highlights_line"></div> -->
+                    <div class="container d-flex justify-content-between popups-container">
+                        <div class="readHighlightsBtn pop_launcher modal-dialog-bottom" data-toggle="modal"
+                            data-target=".readHilightsPanel_1">
+                            <img class='w-100' src="../images/pages/page-1/popup-icon-1.png">
+                        </div>
+                        <div class="readHighlightsBtn pop_launcher modal-dialog-bottom" data-toggle="modal"
+                            data-target=".readHilightsPanel2_1">
+                            <img class='w-100' src="../images/pages/page-1/popup-icon-2.png">
+                        </div>
+                    </div>
+                    </br>
+                </div>
+            </div>
+        </div>
+        <!-- //////////////////////////////////////////////////// -->
+    </div>
+    <!-- <div class="sub_footer"></div> -->
+    <!-- <div class="sub_footer">
+        <div class='container'>
+            <div class="d-flex justify-content-center">
+                <div class="d-flex align-self-end nav_ctrls">
+                    <div class="sub_footer_icon subFooterNav backNav mx-1">
+                        <img src='../images/icons/back_btn.png' />
+                    </div>
+                    <div class ="screenNumber"><span class="curSlideNum"></span>/<span class="totalSlideNum"></span></div>
+                    <div class="sub_footer_icon subFooterNav nextNav mx-1">
+                        <img src='../images/icons/next_btn.png' />
+                    </div>
+                    <div class="goTo_container">
+                    <input id="txt_num"  type="text" autocomplete="off" pattern="\d*" maxlength="2" /> <img id="gotoBtn" src="./../images/icons/GoTo.png"  alt="" height="35px">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <footer class='fixed-bottom'></footer>
+    <script>
+        var _mediaList = {
+            "image": [],
+            "audio": [],
+            "video": []
+        };
+    </script>
+    <script src='../js/build/toolbar.js' type='text/javascript'></script>
+    <script src="../js/build/template.js" type="text/javascript"></script>
+    <script src="../js/build/snapshotTemplate.js" type="text/javascript"></script>
+    <script src="../js/snapshot.js" type="text/javascript"></script>
+    <script src='../js/generalfunctions.js' type='text/javascript'></script>
+    <script src="../js/build/audio.js"></script>
+    <script src='../js/build/radio_build.js' type='text/javascript'></script>
+    <script src='../js/loading.js' type='text/javascript'></script>
+    <script src='../js/sketchpad.js' type='text/javascript'></script>
+</body>
+
+</html>

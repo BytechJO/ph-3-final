@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        Playhouse 
+    </title>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css"> 
+    <style id='ui_style'>
+    </style>
+   <link rel="stylesheet" href="../css/all.min.css">  
+    <link rel="stylesheet" href="../css/all.min.css">  
+    <link rel="stylesheet" href="../css/unit_styles.css">	
+
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/activities.css">
+    <link rel="stylesheet" href="../css/circle_word_in_sentence.css">
+
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript"></script>    
+    <script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../js/bootstrap/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js" text="text/javascript"></script> 
+    <!-- [ Data for Header and Footer ] -->
+    <script src="../js/data/templateData.js" type="text/javascript"></script>
+    <!-- [ / Data for Header and Footer ] -->   
+    <!-- [ Data containing all activity files ] -->
+    <script src="../js/data/activityList.js" type="text/javascript"></script>
+    <script src="../js/data/circle_word_in_sentence_data.js" type="text/javascript"></script>
+	<script src="../js/data/popupData.js" type="text/javascript"></script>
+    <!-- [ / Data containing all activity files ] --> 
+</head>
+<body>
+    
+    <div class="mask_parent">
+        <div class="mask_left"></div>
+        <div class="mask_right"></div>
+    </div>
+    <div class='loading'><div class="loader"></div></div>
+    <header class='fixed-top'></header>
+    <div class='mainContent'>
+        <div id="feedbackPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div>
+                        <button type="button" class="close closeFeedback" data-dismiss="modal">
+                            &times;</button> 
+                    </div>
+                    <div class="modal-body">
+                        <video id="video_1" src="../videos/goodjob.mp4" preload></video> 
+                        <video id="video_2" src="../videos/tryagain.mp4" preload></video>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="container content_wrap activity_wrap">  
+            <!-- screen numbering starts here  -->  
+            <div class='fixed-top screen_numbers_wrap'></div>   
+            <!-- // screen numbering ends here  -->
+            <!-- activity panel content starts here  --> 
+            <div class='activity_buts d-none' data-buttons='ccss,link,tips,homework'>
+                <div class='ccss_content' data-height=''>L.1.1 d</div>
+                <div class='link_content' data-height=''>
+                    <a href='../../../ARC_1_1_SB/ARC_1_1_SB_U3/index.html' target="blank">Playhouse
+                        Unit 3 &ndash; All Aboard!</a>
+                </div>
+                <div class='tips_content' data-height=''>
+                    <span class="pop_title">Personal Pronouns                    </span><br />
+                    <span><span style="font-weight: bold;">Personal Pronouns
+                    </span> are words used instead of names. Some personal pronouns are “I,” “me,” “you,” “she,” and “he.”
+
+                    <br> Example: Tom went to the park.</span><br /><span style="font-weight: bold;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; He</span> went to the park.
+
+                </div>
+                <div class='homework_content' data-height=''>
+                    Have your child read to you the personal pronouns.                </div>
+            </div>
+            <div class="activity_area">               
+                
+            </div>
+            <!-- // activity interactive area ends here -->
+        </div><!-- / container content_wrap -->      
+    </div>
+    
+  <!-- activity panel popup starts here  -->
+  <div class="modal fade activityCtrlPanel" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+      <div class="modal-content ">
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <div class="ctrlIcon">
+          </div>
+          <h4 class="modal-title"></h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <!-- Modal body -->
+        <div class="modal-body">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- // activity panel popup ends here  -->
+    <div class="sub_footer">        
+       
+        
+        <!-- // activity panel popup ends here  -->
+        <!-- the sub-footer starts here  -->
+        <div class='container sub_footer_buttons_wrap'></div>
+        <!-- // the sub-footer ends here  -->
+    </div>
+    <footer class='fixed-bottom'></footer>
+    <script>        
+        var _mediaList = {
+            "image" : [],
+            "audio" : [],
+            "video" : []
+        }
+    </script>
+
+    <script src="../js/build/template.js" type="text/javascript"></script>
+    <script src='../js/generalfunctions.js' type='text/javascript'></script>
+    <script src="../js/build/circle_word_in_sentence.js" type="text/javascript"></script>
+    <script src="../js/activity/mcq_choose_g5.js" type="text/javascript"></script>
+    <script src="../js/activities.js" type="text/javascript"></script>     
+    <script src='../js/loading.js' type='text/javascript'></script>
+</body>
+</html>

@@ -1,0 +1,253 @@
+.all_cont {
+  /* height: 100%; */
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.screen_elements {
+  justify-content: center;
+}
+
+.group_elm {
+  width: 100%;
+  font-size: 25px;
+}
+
+.audio_icon {
+  height: 39px;
+  padding: 1px;
+}
+
+.image_gap {
+  height: 100%;
+  width: intrinsic;
+  width: -moz-max-content;
+  width: -webkit-max-content;
+  width: max-content;
+}
+
+.img_fillin_gr {
+  width: 320px;
+  position: relative;
+  /* height: 460px; */
+  margin: 15px;
+  font-size: 28px;
+  align-items: center;
+}
+
+.image_space {
+  width: fit-content;
+  height: 157px;
+  position: relative;
+}
+
+.image_space img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.fillin_gr {
+  position: absolute;
+  bottom: 17px;
+}
+
+.textFront{
+  margin: 2px auto;
+  font-weight: bolder;
+  font-size: 32px;
+}
+
+.fillin_set {
+  width: 100%;
+  /* margin-top: 10px; */
+  font-size: 28px;
+  position: relative;
+  text-align: center !important;
+}
+.q_space{
+  margin: 0px auto;
+}
+
+.fillin_set .txt-audioIcon {
+  margin-bottom: -50px;
+  margin-left: 20px;
+}
+
+.fillin_gr input {
+  width: 150px;
+  /* flex: 1; */
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  text-align: center;
+  font-size: 33px;
+  height: 40px;
+  /* margin: 7px 3px; */
+}
+
+.fillin_gr input:focus {
+  outline: none;
+}
+
+.fillin_gr .icon_wrap_holder {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+
+
+.icon_wrap {
+  position: absolute;
+  bottom: 0;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+
+.clue_word {
+  margin: 6px;
+  color: #000;
+}
+
+.word_options {
+  width: 90%;
+  border: 2px solid var(--temp);
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  font-size: 20px;
+}
+
+.word_opt_sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    padding: 2px 27px;
+    font-size: 22px;
+}
+
+.word_options {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #c3f4ff8c;
+}
+
+.word_opt_sticky {
+    width: 100%;
+    margin: 0px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+    border: 2px solid var(--temp);
+    border-radius: 10px;
+}
+
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.image-container{
+    position: absolute;
+    right: 260px;
+    bottom: 50px;
+    
+}
+
+.image-container img{
+    width: 300px;
+    height: 210px;
+    margin: 0px 70px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid #36a0c7;
+}
+
+/**** popup window ***/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1400px) */
+@media (max-width: 1399.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .word_options {
+    margin-bottom: 1vh;
+  }
+
+  .img_fillin_gr {
+    width: 100%;
+  }
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+@media (max-width: 575.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {}

@@ -1,0 +1,87 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text {
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.cn_group{
+    width: 95%;
+    max-width: 700px;
+    margin: 0 auto;
+    row-gap: 22px;
+}
+
+.cn_item{
+    width: 100%;
+    padding: 6px 0;
+}
+
+.q_num_space{
+    width: 28px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.cn_sentence{
+    flex: 1;
+    column-gap: 6px;
+    row-gap: 6px;
+}
+
+.cn_wordWrap{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+
+.cn_word{
+    font-family: Arcon;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    z-index: 1;
+}
+
+.cn_svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    pointer-events: none;
+}
+
+.icon_wrap_holder{
+    margin-left: 10px;
+    flex-shrink: 0;
+}
+
+.tick,
+.cross{
+    width: 28px;
+}
+
+.tick img,
+.cross img{
+    width: 100%;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .cn_word{
+        font-size: 18px;
+    }
+}

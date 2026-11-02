@@ -1,0 +1,297 @@
+body {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Chrome/Safari/Opera */
+  -khtml-user-select: none; /* Konqueror */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently supported by any browser but < IE9 */
+}
+
+:root{
+  --temp: #6d6d6d;
+}
+
+.all_cont{
+  align-items: center;
+}
+
+.options {
+  position: relative;
+  margin-top: 50px;
+  padding: 5px 30px;
+  /* border: 4px dashed #00aeef;
+  background: #fff;
+  border-radius: 20px; */
+}
+
+.q_img {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+}
+
+/* ----------------------------------- */
+.box{
+  width: 70%;
+  border: 2px solid var(--temp);
+}
+.ITEM{
+  width: 50%;
+  border-bottom: 1px solid var(--temp);
+  border-right: 1px solid var(--temp);
+}
+.item{
+  width: 33%;
+  text-align: center;
+  height: 88px;
+}
+
+.pre_image img{
+  width: 55px;
+}
+
+.post_image img{
+  width: 130px;
+}
+.ITEM .text {
+  font-weight: bold;
+  height: fit-content;
+}
+/* ----------------------------------- */
+.drop_grp {
+  position: relative;
+  height: 100%;
+  /* margin-bottom: 12px; */
+}
+
+.txtHolder {
+  width: fit-content;
+  padding: 8px;
+  font-size: 30px;
+}
+
+.drag .txtHolder {   
+  width: 348px;
+}
+
+.drop .txtHolder {
+  padding: 7px;
+  text-align: center;
+  /* margin-left: 5px;
+  margin-top: 25px; */
+}
+
+.drag .imgHolder {
+  /* overflow: hidden;
+  position: relative;
+  width: 320px; */
+}
+
+.drag .txtHolder {
+  /* position: absolute;
+  font-size: 24px;
+  width: 100%;
+  left: 20px;
+  margin-bottom: 15px; */
+}
+
+.dragger {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+
+.drop .txtHolder {
+  border-radius: 15px;
+  border: 1px solid transparent;
+  /* color: #d2232a; */
+  width: 261px;
+}
+
+.node {
+  position: relative;
+  top: 0;
+  width: 15px;
+  height: 15px;
+  min-width: 15px;
+  max-width: 15px;
+  min-height: 15px;
+  max-height: 15px;
+  border-radius: 50px;
+  cursor: pointer;
+  /* background-color: var(--temp) !important; */
+  border: 3px solid transparent;
+}
+.drag_wrap{
+  height: 450px;
+}
+.icon_wrap_holder {
+  position: absolute;
+  right: -14px;
+  top: -9px;
+}
+.droppers {
+  margin-left: 443px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.drag {
+  height: 66px;
+  margin: 1vh 0;
+}
+.drop {
+  /* height: 93px; */
+  margin: 1vh 0;
+}
+
+.imgHolder {
+  height: 100px;
+  width: 110px;
+  margin: 0 10px;
+}
+.imgHolder img {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  margin: auto;
+}
+
+.line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid var(--light) !important;
+  background-color: #6d6d6d !important;
+}
+.tick,
+.cross {
+  width: 25px;
+  height: 25px;
+  margin-top: 15px;
+}
+
+.cont_ht_sf {
+  height: 62vh;
+}
+
+/* ================================================= */
+
+.right-image-container {
+  margin-top: 0px;
+  margin-right: 35px;
+  position: relative;
+}
+
+.right-image {
+  width: 350px;
+  margin-left: 30px;
+}
+
+.textOnImage-container {
+  position: absolute;
+  top: 52px;
+  left: 138px;
+  /* width: 200px; */
+  font-size: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.right_title {
+  color: #fff;
+  margin-left: 35px;
+  font-size: 26px;
+}
+
+.textOnImage-container .red_text {
+  font-weight: bolder;
+}
+/* ========================================= */
+
+
+/**End**/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+
+@media (max-width: 1399.98px) {
+  .drag {
+    height: 66px;
+    margin: 1vh 0;
+  }
+  .drop {
+    /* height: 93px; */
+    margin: 1vh 0;
+  }
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {
+  .drop .txtHolder {
+    width: 100%;
+    min-width: 200px;
+  }
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+@media (max-width: 575.98px) {
+  .droppers {
+    margin-left: 100px;
+  }
+  .droppers {
+    margin-left: 70px;
+  }
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {
+  /* .txtHolder {
+        width:220px;
+        padding: 8px;        
+    } */
+  .drag {
+    height: 100px;
+  }
+  .drop {
+    height: auto;
+    margin: 10px 0;
+  }
+}
+@media (max-width: 332.98) {
+}
