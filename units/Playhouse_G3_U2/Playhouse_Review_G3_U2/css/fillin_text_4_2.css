@@ -1,0 +1,230 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 80%;
+    height: 100%;
+}
+
+.ques {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.group_elm{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.fillin_gr {
+    width: 100%;
+}
+
+.activityHeading b {
+    color: #000;
+}
+
+.func_ctrls{
+    /* display: none !important; */
+}
+
+.q_num_space{
+    width: 40px;
+    font-weight: bold;
+}
+
+.image_space {
+    width: 250px;
+    margin-right: 25px;
+    /* width: 75%; */
+    /* height: 342px; */
+    /* margin: 0px auto; */
+}
+  
+.image_space img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.q_order{
+    width: 50px;
+    font-weight: bolder;
+}
+
+.txt-audioIcon {
+    color: rgb(58, 58, 58);
+    font-size: 27px;
+}
+
+.ques{
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.q_image {
+    width: 520px;
+}
+
+.q_image img{
+    width: 100%;
+}
+
+.q_box{
+    width:  100%;
+    height: 70px;
+}
+
+.fill_in .img_fillin_gr {
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+
+.fillin_gr .q_space {
+    width: 100%;
+}
+.fillin_set {
+    font-family: Arcon;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.fillin_set input:focus{
+    outline: none;
+}
+
+.fillin_set input {
+    /* flex: 2 2 10px; */
+    width: 200px;
+    /* width: 180px; */
+    height: 35px;
+    color: black;
+    /* padding-left: 20px; */
+    border: none;
+    margin: 0px 15px;
+    border-bottom: 2px solid #595a5a;
+    background-color: transparent;
+}
+
+.text_End {
+    position: absolute;
+    font-size: 23px;
+}
+
+.icon_wrap {
+    /* position: absolute;
+    margin-top: -35px; 
+    right: 100px; */
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+    /* display: none; */
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    padding: 2px 27px;
+    font-size: 26px;
+}
+
+.word_options {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #aad5f1;
+    padding: 10px;
+}
+
+.word_opt_sticky {
+    width: 100%;
+    margin: 0px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+    border: 2px solid var(--temp);
+    border-radius: 10px;
+}
+
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.image-container{
+    position: absolute;
+    right: 260px;
+    bottom: 50px;
+    
+}
+
+.image-container img{
+    width: 300px;
+    height: 210px;
+    margin: 0px 70px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid #36a0c7;
+}
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .img_fillin_gr {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .img_fillin_gr {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .img_fillin_gr {
+        width: 200px;
+    } */
+}

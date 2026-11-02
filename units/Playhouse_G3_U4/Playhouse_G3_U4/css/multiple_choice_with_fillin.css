@@ -1,0 +1,207 @@
+.mcq_1_5_q_group {
+  border: 2px solid rgba(231, 231, 231, 0);
+}
+
+.selectedDefault {
+  /* border-color: rgb(202, 133, 13); */
+}
+
+
+.mcq_1_5_q_group {
+  text-align: center;
+  padding: 6px;
+  position: relative;
+}
+
+.sub_title,
+.txt_box {
+  text-align: left;
+
+}
+
+.q_num_space {
+  width: 20px;
+  margin-right: 10px;
+  /* display: none; */
+}
+
+
+.activityHeading {
+  font-family: arcon;
+}
+
+.selX {
+  height: 30vh;
+}
+
+.image_space {
+  width: 471px;
+  /* border: 1px solid red;  */
+  min-height: 200px;
+  margin: 10px auto;
+  position: absolute;
+  right: 40px;
+  bottom: 10px;
+}
+
+.image_space img {
+  height: 23vh;
+}
+
+.group_elm {
+  height: 100%;
+  flex-wrap: wrap;
+  padding: 4px;
+  align-content: center;
+}
+
+.ques_part_space {
+  /* border: 1px solid green;  */
+  min-height: 200px;
+  padding: 27px;
+}
+
+
+.que {
+  position: relative;
+  height: 75px;
+  width: 500px;
+}
+
+.cont_group {
+  box-shadow: 2px 3px 11px #c9c9c9;
+  border-radius: 19px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  padding: 4px;
+}
+
+.cont_group .audioIcon {
+  position: absolute;
+  bottom: 80px;
+}
+
+.icon_wrap_holder {
+  height: 42px;
+  width: 42px;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+.fill-group{
+  /* margin-right: -90px; */
+  /* position: absolute; */
+  /* right: 0; */
+  /* top: 10px; */
+  /* border-radius: 12px; */
+  /* border: 2px solid #00b7ce; */
+
+}
+.fill-group input {
+  text-align: center;
+  width: 150px;
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid black;
+}
+
+.fill-group input:focus {
+  outline: none;
+}
+
+.image_space {
+  width: auto;
+
+}
+
+.popup_img img {
+  width: 33%;
+  margin-top: -37px;
+}
+
+.ques_part_space {
+  min-height: fit-content;
+  justify-content: center;
+}
+.img_Hint {
+  margin-top: 20px;
+}
+
+.img_Hint img{
+  margin: 0px 20px;
+}
+
+
+
+/**End**/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+@media (max-width: 1999.98px) {}
+
+@media (max-width: 1199.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+@media (max-width: 768.98px) {
+  .image_space {
+    width: 315px;
+  }
+
+  .popup_img img {
+    width: 50%;
+    margin-top: 14px;
+  }
+}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+@media (max-width: 575.98px) {
+  .cont_group {
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+
+  .q_num_space {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .group_elm {
+    width: 100%;
+  }
+
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+@media (max-width: 475.98px) {
+  /* .mcq_1_5_q_group {  
+      width: 100%;
+      min-width: 100%;
+      height: intrinsic;
+height: -moz-max-content;
+height: -webkit-max-content;
+height: max-content; 
+    } */
+
+}
+
+@media (max-width: 320px) {}

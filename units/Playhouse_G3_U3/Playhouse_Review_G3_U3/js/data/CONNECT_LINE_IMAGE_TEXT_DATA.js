@@ -1,0 +1,127 @@
+var stereo_data = {
+    "audio":"",
+    "exist":false,
+    "bgColor_rgb":"rgb(210, 35, 42)",
+    "type":"text",
+    "playListData" : [
+        {
+          'audiourl': '../audios/demo.mp3',
+        },
+        {
+          'url': '',
+        },
+        {
+          'url': '',
+        },
+        {
+          'url': '',
+        }
+    ],
+  }
+var linedraw_data = {    
+    "layout"                : 1,
+    "mainTitle": "",
+    "mainTitleIcon": "",
+    "mainTitleAudio": "../audios/under.mp3",
+    "subTitleTextLeft"      : "<span class='orange_text'>1</span> Match.",
+    "subTitleTextRight"     : "",
+    "subTitleIcons"         : [],
+    "subTitleAudio"         : "",
+    "activitysubheading"    : "",
+    "activityicon"          : "",
+    "connect"               : "single", // single (or) multiple
+    "linecolor"             : "#0000ff",
+    "path"                  : "line",
+    "strokewidth"           : "4",
+    "nodecolor"             : "rgb(250, 163, 97)",
+    "nodeselectioncolor"    : 'rgb(250, 112, 0)',
+	"ontextaudioplay": '',
+    "onimgaudioplay": '',
+    "questions"             : {
+        "drags"             : [
+            {
+                "text"          : "play football",
+                "image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+            
+                "text"          : "eat out",
+				"image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+               
+            },
+            {
+            
+                "text"          : "go swimming",
+                "image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "visit the zoo",
+                "image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "go to the cinema",
+                "image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "ride bikes",
+                "image"         : "no",
+                "audio"         : "../audios/under.mp3",
+                "audioenable"   : "default", // correct (or) default
+            }
+        ],
+        "drops"                 : [
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_20.png",
+                "answer"        : [6],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_21.png",
+                "answer"        : [5],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_22.png",
+                "answer"        : [3],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_23.png",
+                "answer"        : [2],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_24.png",
+                "answer"        : [1],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            },
+            {
+                "text"          : "",
+                "image"         : "../images/pages/activities/Asset_25.png",
+                "answer"        : [4],
+                "audio"         : "",
+                "audioenable"   : "default", // correct (or) default
+            }
+        ],
+    }
+}               

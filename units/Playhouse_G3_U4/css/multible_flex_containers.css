@@ -1,0 +1,28 @@
+.multible_boxes_container {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 89%;
+    height: fit-content;
+}
+
+.word_with_image {
+    width: min-content;
+    margin: auto;
+}
+
+.word_with_image .audioIcon {
+    margin: auto;
+}
+
+.box_container {
+    width: 350px;
+}
+
+
+.box_image {
+    height: 150px;
+}
+.box_word {
+    height: 70px;
+}

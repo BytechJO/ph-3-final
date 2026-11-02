@@ -1,0 +1,120 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text {
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.crossoutgrid_group{
+    width: 95%;
+    max-width: 950px;
+    gap: 25px;
+    align-items: flex-start;
+}
+
+/* ---- letter grid ---- */
+.cog_grid{
+    flex: 1.2;
+    display: grid;
+    gap: 0;
+    border: 2px solid #35a3d4;
+    border-radius: 14px;
+    /* overflow: hidden; */
+    aspect-ratio: 9 / 10;
+}
+
+.cog_cell{
+    position: relative;
+    border: 1px solid #bfe3f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background: #ffffff;
+    box-sizing: border-box;
+}
+
+.cog_letter{
+    font-family: Arcon;
+    font-weight: bold;
+    font-size: 2.2vw;
+    color: black;
+    position: relative;
+    z-index: 1;
+}
+
+/* the cross-out mark: a diagonal line drawn through the letter */
+.cog_cell.cog_crossed::after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    width: 84%;
+    height: 2px;
+    background: #2f6fb3;
+    transform: rotate(-25deg);
+}
+
+.cog_cell.cog_wrong.cog_crossed::after{
+    background: #d9364a;
+}
+
+.cog_cell.cog_wrong:not(.cog_crossed){
+    background: rgba(217,54,74,0.12);
+}
+
+/* ---- story column ---- */
+.cog_story_col{
+    flex: 1;
+    text-align: left;
+}
+
+.cog_story_lines{
+    margin-bottom: 16px;
+}
+
+.cog_story_line{
+    font-family: Arcon;
+    font-size: 19px;
+    color: black;
+    padding: 6px 0;
+}
+
+.cog_story_img{
+    text-align: center;
+}
+
+.cog_story_img img{
+    max-width: 180px;
+    width: 100%;
+    height: auto;
+}
+
+/* ************************************************* */
+@media (max-width: 767.98px){
+    .crossoutgrid_group{
+        flex-direction: column;
+        align-items: center;
+    }
+    .cog_grid{
+        width: 100%;
+        max-width: 420px;
+    }
+    .cog_letter{
+        font-size: 4vw;
+    }
+    .cog_story_col{
+        width: 100%;
+        text-align: center;
+    }
+}

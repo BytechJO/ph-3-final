@@ -1,0 +1,231 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.with-background {
+    background-color: deepskyblue;
+    margin: 0 10px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.group_elm{
+    width: 95%;
+    height: 100%;
+    margin: 0px auto;
+}
+
+
+.clue_word {
+    padding: 2px 27px;
+    font-size: 26px;
+}
+
+.word_options {
+    width: 80%;
+    border-radius: 10px;
+    background-color: #aad5f1;
+}
+
+.word_opt_sticky {
+    width: 50%;
+    margin: 0px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+    border: 2px solid var(--temp);
+    border-radius: 10px;
+}
+
+.activityHeading b {
+    color: #000;
+}
+
+.img-container {
+    width: 300px;
+}
+
+.q_array_images img {
+    margin: 0px 20px;
+}
+
+.array_images_p16_2 img {
+    height: 113px;
+}
+
+.image_space {
+    width: 190px;
+    float: left;
+    margin: 0px auto;
+}
+  
+.image_space img {
+    width: 100%;
+    height: 135px;
+    object-fit: contain;
+}
+
+.q_order{
+    width: 50px;
+    font-weight: bolder;
+}
+
+.ques{
+    /* width: 70%; */
+    /* height: 83%; */
+    gap: 20px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.txt_wrap   {
+    width: 100%;
+}
+
+.q_box{
+    width:  65%;
+    /* height: 130px; */
+}
+
+.fill_in .with_Img {
+    /* width: 75%;
+    float: right; */
+    display: flex;
+    align-items: center;
+}
+.fill_in .without_Img {
+    width: 100%;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.txtBox input:focus{
+    outline: none;
+}
+
+.txtBox input {
+    flex: 1;
+    height: 40px;
+    color: black;
+    padding-left: 20px;
+    border: none;
+    font-size: 27px;
+    border-bottom: 2px solid #7e7e7e;
+    background-color: transparent;
+}
+
+.icon_wrap {
+    position: absolute;
+    margin-top: -35px; 
+    right: 468px;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    margin: 5px;
+    padding: 0px 12px;
+}
+
+.word_options {
+    width: 100%;
+    font-size: 23px;
+    border: 2px solid var(--temp);
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.image-container{
+    position: absolute;
+    right: 260px;
+    bottom: 50px;
+    
+}
+
+.image-container img{
+    width: 300px;
+    height: 210px;
+    margin: 0px 70px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid #36a0c7;
+}
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

@@ -1,0 +1,344 @@
+ .bgimg_wrap{
+    /* max-width:1024px; */
+    width: 100%;
+    height:100%;    
+    max-width: 1140px;
+    overflow:hidden;
+    background-color:#676464;
+}
+
+.modal-header .close {
+    background-color: white;
+    opacity: 1;
+    padding: 9px;
+    padding-top: 3px;
+    padding-bottom: 7px;
+    margin-right: 1px;
+    margin-top: 0px;
+    border-radius: 2px;
+    width: 34px;
+    height: 34px;
+}
+.welcome-content {
+    position: fixed;
+    bottom: 140px;
+    /* width: 60%; */
+    left: 0;
+    right: 0;
+    margin: auto;   
+    padding: 7px;    
+}
+.wel-scr-text{
+    text-align: center;
+    font-size: 32px;    
+    margin: auto;
+    letter-spacing: 2.5px;    
+}
+/***************** read with highlights *********************/
+.wel_but_grup{
+    width: 108px;
+    margin-top: 9vh;
+}
+.highlightsIcon{
+    width: 108px;
+    height: 45px;
+    margin: auto;
+}
+.apkBtn{
+    margin: auto;
+}
+.highlightsIcon img{	
+    vertical-align: baseline;	
+}
+/* .read_highlights_wrap{
+    bottom: 80px;
+} */
+.read_highlights_line{
+    height: 5px;
+    width: 1010;
+    background-color: #9FCDD6;
+    border-radius: 5px;
+}
+.readHighlightsBtn{
+    width:162px;    
+    margin: -35px auto;
+    border-radius: 51%;
+}
+.readHighlightsBtn:hover{    
+    box-shadow: 0 0 15px #0f6b75;
+}
+.readHighlightsPanel{
+    width: 390px;
+    height: auto;
+    background-color: #d3d3d3;   
+    margin: auto;
+    z-index: 1;    
+}
+.readHilightsPanel .modal-dialog {     
+    font-family:TwCenMT;
+    width: intrinsic;
+width: -moz-max-content;
+width: -webkit-max-content;
+width:max-content;
+    margin: auto; 
+}
+.readHilightsPanel .modal-header{
+    font-family: Arcon;
+    font-size: 24px;
+    color: black;
+    letter-spacing: 1px;
+    background-color: #0f89ca;    
+    padding: 7px;
+}
+.readHilightsPanel .modal-body{
+    background-color: white;
+    color: black;
+    padding: 7px 15px;
+}
+.readHilightsPanel .modal-title{
+    margin-left: 10px;
+}
+/**************** words to know *************/
+.wtk_wrap{
+    height:100%;
+}
+.wordsToKnowParent{    
+    overflow: hidden;    
+    width: 224px;
+    height:40px;
+    margin-top: 5px;
+    border: 4px solid #F04931;
+    background-color: #fff;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 60px;
+}
+.wordsToKnowHeader{
+    cursor:pointer;    
+    text-align:center;
+    line-height:40px; 
+    background-color: #FBBDA5;
+    font-family: RifficFree;
+    letter-spacing: 1px; 
+    font-size: 24px;
+    color:#4C96D1;
+}
+.wordsToKnowBody .wordsList_wrap{    
+    max-height: 240px;
+    overflow-y: auto;
+    width: 90%;
+    margin: auto;
+}
+.wordsList{
+    margin:6px 0;    
+    text-align:center;
+    line-height:40px;
+    background-color: #FFF9B4;
+    font-family: Arcon;    
+    letter-spacing: 1px; 
+    cursor:pointer;
+}
+/***************** apk *********************/
+.css_img_holder{
+    width: 54px;
+}
+.css_img_holder img{
+    width: 100%;
+}
+.apkBtn{
+    width: 80px;    
+}
+
+.apkPanel .modal-header{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgb(19, 88, 152) 0%, rgb(110, 150, 206) 35%, rgb(171, 200, 234) 100%);
+    border-radius: 5px;
+    color: #fff;
+    padding: 5px;
+    font-family: Arcon;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    z-index: 1;
+}
+.apkPanel .modal-content{
+    width: 445px;
+    max-height: 600px;
+    margin:auto;  
+}
+.apkPanel .modal-body{
+    position: relative;
+    min-height:170px;
+    font-family: Arcon;
+    font-size: 22px;
+    color: rgb(15, 137, 202);   
+    background-color: white;
+    -moz-box-shadow:    inset 0 0 25px 16px #9cd255;
+    -webkit-box-shadow: inset 0 0 25px 16px #9cd255;
+    box-shadow: inset 0 0 25px 16px #9cd255; 
+    margin-top: -6px;  
+    padding: 23px 17px 6px 70px;
+}
+.apkPanel .modal-footer{
+    background-color: #49bb39;
+    background-image:
+        linear-gradient(
+        to right, 
+        #49bb39, 
+        #c8eabd
+        );
+    position: relative;
+    border: none;    
+}
+.apkPanel .modal-footer .css_boy{
+    position: absolute;
+    width: 64px;
+    left: 0;
+    bottom: 0;
+}
+.css_boy img{
+    width: 100%;
+}
+.css_ques_mark{
+    position: absolute;
+    width: 64px;
+    height: 87px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: -8px;
+    display: flex;    
+    z-index: 5;
+}
+.css_ques_mark img{
+    width: 100%;
+}
+/***************** ccss *********************/
+.bottom_btn_part{    
+    bottom:130px;
+}
+.ccssBtn{
+    float:right;
+    width: 80px;
+}
+.ccssPanel .modal-content {
+    max-width: 490px;     
+}
+.ccssPanel .modal-header{
+    background-color: #0f89ca;
+    padding: 6px;
+}
+/*.ccssPanel .modal-header .close{
+    color:white;
+}*/
+.ccss-body{
+    font-family: Arcon;
+    font-size: 18px;
+    color: rgb(15, 137, 202);
+    padding: 10px;
+    background-color: #d3d3d3;   
+}
+.ccss-body span{
+    color: rgb(210, 35, 42);
+}
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+   	
+    	
+}	
+@media (max-width: 1024.98px) {	
+    	
+    	
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {    
+    .readHighlightsBtn{
+        width: 132px;
+    }   
+    .readHilightsPanel .modal-dialog {       
+        font-size: 21px;       
+    }    
+    .apkBtn {
+        width: 60px;        
+    }    
+    #scrollview{
+		height: 170px;
+		
+	}
+    .welcome-content {
+        font-size: 18px;
+        text-align: center;
+        width: 89%;
+    }
+	
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {
+    .wel_but_grup {
+        width: 228px;
+        margin-top: 2vh;        
+    }
+    .apkBtn {
+        width: 60px;        
+    }
+    .apkPanel .modal-content {
+        width: 430px;     
+    }
+    .wordsList {        
+        line-height: 37px;
+    }
+		#scrollview{
+		height: 155px;
+		
+	}
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 691.98px */
+/* ------------------------------------------------*/
+@media (max-width: 691.98px) {
+    
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 576*/
+@media (max-width: 575.98px) {  
+    
+
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {    
+    
+    .readHighlightsBtn{
+        width:129px;
+        margin: -31px auto;
+    } 
+    .apkPanel .modal-content {
+        width: 300px;
+    }
+	#scrollview{
+		height: 85px;
+	}
+    .apkPanel .css_img_holder {
+        width: 50px;  
+        min-width: 50px;  
+    }
+    .apkPanel .modal-header {
+        font-size:79% ;      
+    }  
+}

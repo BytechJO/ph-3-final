@@ -1,0 +1,225 @@
+body {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Chrome/Safari/Opera */
+  -khtml-user-select: none;
+  /* Konqueror */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently supported by any browser but < IE9 */
+}
+
+:root {
+  --temp: #71bfe6;
+}
+
+.options {
+  position: relative;
+}
+
+.txtHolder {
+  min-width: 80px;
+  padding-left: 10px;
+}
+
+.drag .txtHolder {
+  width: 110px;
+  padding: 2px 25px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.drag {
+  height: 200px;
+  margin: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 25px 7px;
+}
+
+.node {
+  position: relative;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  max-width: 20px;
+  min-height: 20px;
+  max-height: 20px;
+  border-radius: 50px;
+  cursor: pointer;
+  background-color: var(--temp) !important;
+  border: 3px solid transparent;
+  margin: auto;
+}
+/* drop */
+
+.drop_grp {
+  /* position: relative; */
+}
+
+.drop .txtHolder {
+  padding: 8px;
+  width: 120px;
+  margin-top: 5px;
+}
+
+.drop .txtHolder {
+  border-radius: 15px;
+  background-color: #eee;
+  text-align: center;
+  overflow: hidden;
+  width: 110px;
+}
+
+.droppers {
+  margin-top: 50px;
+}
+
+.drop {
+  margin: 10px;
+}
+
+.icon_wrap_holder {
+  position: absolute;
+  right: -14px;
+  top: -9px;
+}
+
+.imgHolder {
+  width: 158px;
+  margin: 5px 10px;
+  height: 150px;
+}
+
+
+.imgHolder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: flex;
+  margin: auto;
+  /* border: 2px solid var(--temp); */
+  border-radius: 12px;
+}
+
+.drop .imgHolder{
+  width: 350px;
+}
+
+.line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid blue;
+  background-color: blue;
+}
+
+.tick,
+.cross {
+  width: 25px;
+  height: 25px;
+}
+
+/**End**/
+
+/* ====================================================== */
+
+/*              Media Queries Start                       */
+
+/* ====================================================== */
+
+/* ------------------------------------------------ */
+
+/*              M Q max-width: 1799.98px */
+
+/* ------------------------------------------------*/
+
+/* // Large devices (desktops, less than 1800px) */
+
+@media (max-width: 1799.98px) {
+  .drop {
+  }
+}
+
+/* ------------------------------------------------ */
+
+/*              M Q max-width: 1399.98px */
+
+/* ------------------------------------------------*/
+
+@media (max-width: 1399.98px) {
+  .drag {
+    height: 200px;
+  }
+}
+
+/* ------------------------------------------------ */
+
+/*              M Q max-width: 1199.98px */
+
+/* ------------------------------------------------*/
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+}
+
+/* ------------------------------------------------ */
+
+/*              M Q max-width: 991.98px */
+
+/* ------------------------------------------------*/
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+}
+
+/* ------------------------------------------------ */
+
+/* M Q max-width: 767.98px */
+
+/* ------------------------------------------------*/
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+}
+
+/* ------------------------------------------------ */
+
+/* M Q max-width: 575.98px */
+
+/* ------------------------------------------------*/
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+
+@media (max-width: 575.98px) {
+}
+
+/* ------------------------------------------------ */
+
+/*              M Q max-width: 475.98px             */
+
+/* ------------------------------------------------*/
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {
+  .txtHolder {
+    width: 220px;
+    padding: 8px;
+  }
+  .drag {
+    height: 125px;
+  }
+}
+
+@media (max-width: 332.98) {
+}

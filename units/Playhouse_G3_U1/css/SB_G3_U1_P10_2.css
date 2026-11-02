@@ -1,0 +1,211 @@
+.options {
+  width: 90%;
+}
+
+.all_cont {
+  height: 100%;
+  width: 100%;
+  display: flex !important;
+  justify-content: flex-start !important;
+}
+
+.screan_elements {
+  width: 100% !important;
+  height: 100%;
+}
+
+.group_elm {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+}
+
+.audio_icon {
+  height: 39px;
+  padding: 1px;
+}
+
+.story_gr {
+  width: 610px;
+  height: 559px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* align-items: center; */
+  background-image: url(../images/pages/activities/p18_back.png);
+  background-repeat: no-repeat;
+  background-size: 608px 555px;
+}
+
+.story {
+  margin-left: 40px;
+  font-size: 25px;
+}
+
+.img_q {
+  width: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img_q img {
+  height: 318px;
+  border-radius: 20px;
+  box-shadow: 8px 11px 10px #a3a2a2;
+}
+
+.storyText .right_text {
+  color: #e7751d
+}
+
+.storyText .left_text {
+  color: #000;
+  margin-right: 30px;
+}
+
+.textEnd {
+  font-size: 25px;
+  margin: 0px 20px;
+}
+
+.fillin_gr {
+  width: 100%;
+}
+
+.fillin_gr input {
+  width: 180px;
+  /* flex: 1; */
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid black;
+  margin: 1px;
+  text-align: center;
+  height: 35px;
+  margin: 0 10px;
+  /* font-size: 28px; */
+  /* font-weight: bold; */
+  padding-bottom: 10px;
+}
+
+.que[data-qno="3"] input,
+.que[data-qno="4"] input,
+.que[data-qno="5"] input {
+  flex: 1 !important;
+}
+
+.fillin_gr input:focus {
+  outline: none;
+}
+
+.img_fillin_gr {
+  position: relative;
+  width: 540px;
+  height: 50px;
+  justify-content: center;
+  padding: 0px 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.img_fillin_gr:last-child {
+  margin-bottom: 20px;
+}
+
+.fillin_set * {
+  display: inline-block;
+}
+
+.q_space,
+.fillin_set {
+  width: 100%;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+
+.clue_word {
+  margin: 15px;
+}
+
+
+
+.nextNav {
+  right: 0;
+}
+
+.backNav {
+  left: 0;
+}
+
+.images {
+  height: 200px;
+}
+
+.icon_wrap_holder {
+  position: absolute;
+  right: 10px;
+}
+
+.textEnd {
+  text-align: start;
+}
+
+/**** popup window ***/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1400px) */
+@media (max-width: 1399.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .word_options {
+    margin-bottom: 1vh;
+  }
+
+  .img_fillin_gr {
+    width: 100%;
+  }
+}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {}
+
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+@media (max-width: 575.98px) {}
+
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {}

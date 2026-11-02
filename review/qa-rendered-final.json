@@ -1,0 +1,302 @@
+[
+  {
+    "ID": "G3-01",
+    "Unit": "1",
+    "Section": "Student Book",
+    "Website page": "Page 4",
+    "Finding": "Grammar heading spells GRAMMER. The same spelling was observed across all 15 student book grammar sections.",
+    "Status": "Not reproduced: all 15 grammar images are identical and spell GRAMMAR correctly",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U1/views/slide_7.html",
+    "rendered": "Where Are You From?\n\n1 Read and say.\n\n\n\n\nG\nR\nA\nM\nM\nE\nR\nWh- and How Questions\nSlide 1\nSlide 2\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20\nPage 21"
+  },
+  {
+    "ID": "G3-02",
+    "Unit": "1",
+    "Section": "Student Book",
+    "Website page": "Page 5",
+    "Finding": "Conversation says “They are very nice friendly.” It also switches from living in America to moving to Australia without explanation.",
+    "Status": "Fixed missing and; America/Australia retained per book and user decision",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U1/views/SB_G3_U1_P6_2.html",
+    "rendered": "Where Are You From?\n\n2 Read and practise.\n\nComplete the conversation.\n\nA:\n  Hi\nis your name?\nB:\n  My name is Frederick\nA:\n \nare you?\nB:\n  I am fine, thank you.\nA:\n \nare you from?\nB:\n  I am from Colombia.\nA:\n \ndo you live?\nB:\n  I live in America.\nA:\n \ndid you move to Australia?\nB:\n  We moved because my father got a job in Australia\nA:\n \ndid you meet here?\nB:\n  I met Chris, Greg and Brian.\nA:\n \nare they like?\nB:\n  They are very nice and friendly.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20\nPage 21"
+  },
+  {
+    "ID": "G3-03",
+    "Unit": "1",
+    "Section": "Student Book",
+    "Website page": "Page 8",
+    "Finding": "Nationality endings are presented as universal rules. Examples do not support rules that cover every country.",
+    "Status": "Retained as printed; user requested book fidelity on 2026-10-21",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U1/views/slide_img_2.html",
+    "rendered": "Where Are You From?\n\n1 Learn about it.\n\n\n\n\nWhen we talk about where people are from, we talk about their ‘nationality’. To make a ‘nationality’, we must change the noun to an adjective. There are some rules for making nationalities.\n\nFor countries that end with -land, change the ending to -ish:\nIreland → Irish\nFinland → Finnish\nFor countries that end with an -n sound, add -ese to their names:\nSudan → Sudanese\nJapan → Japanese\nFor countries that end with vowel sounds, add -n to their names:\nKorea → Korean\nAustralia → Australian\nFor countries in the Persian Gulf, add -i to their names:\nYemen → Yemeni\nIraq → Iraqi\nThere are some irregular names:\nFrance → French\nDenmark → Danish\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20\nPage 21"
+  },
+  {
+    "ID": "G3-04",
+    "Unit": "1",
+    "Section": "Student Book",
+    "Website page": "Page 14",
+    "Finding": "Instruction contains “wordsin”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U1/views/SB_G2_U2_P20_2.html",
+    "rendered": "Where Are You From?\n\n2 Circle the ‘pl’ words in the poem.\n\n‘pl’ words\nGirls\nand\nboys,\ncome\nout\nto\nplay!\nSee\nthe\nplums,\nand\nsee\nthe\nants!\nThe\nsun\nis\nshining.\nIt’s\na\nwonderful\nday.\nPlanes\nflying\nplaces,\nunder\nthe\nsun.\nSee\nthe\nflowers,\nsee\nthe\nplants!\nIt’s\nthe\nplace,\nFor\nsummer\nfun!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20\nPage 21"
+  },
+  {
+    "ID": "G3-05",
+    "Unit": "2",
+    "Section": "Student Book",
+    "Website page": "Page 5",
+    "Finding": "First sentence has a stray comma before “a gift”.",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U2/views/SB_G3_U2_P14_2.html",
+    "rendered": "Let’s Celebrate!\n\n2 Read and choose.\n\n\n\n\n1.\nShe\ngive / gives\na gift to her mum on Mother’s Day.\n2.\nHe\nsing / sings\na song with his friends.\n3.\nThey\neat / eats\nbirthday cake.\n4.\nWe\nlike / likes\nthis party very much.\n5.\nI\nopen / opens\nmy birthday gifts.\n6.\nThey\ncome / comes\nto my birthday party every year.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18"
+  },
+  {
+    "ID": "G3-06",
+    "Unit": "2",
+    "Section": "Student Book",
+    "Website page": "Page 9",
+    "Finding": "Example asks “Do you wim after school?”",
+    "Status": "Code corrected; syntax checked; browser verified",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U2/views/SB_G3_U2_P15_3_reading.html",
+    "rendered": "Let’s Celebrate!\n\n3 Pair Work.\n\n\n\n\nDo you do any of these things after school or any other day of the week? Work in pairs and ask and answer questions.\n\nExample:   A:   Do you swim after school?\n  B:   No, I don't swim.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18"
+  },
+  {
+    "ID": "G3-07",
+    "Unit": "3",
+    "Section": "Student Book",
+    "Website page": "Page 13",
+    "Finding": "Instruction contains “wordsin”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U3/views/SB_G2_U2_P20_2.html",
+    "rendered": "On Mondays, We Play Tennis!\n\n2 Circle the ‘cl’ words in the poem.\n\n‘cl’ words\nWe like\nto\nclimb,\nWe\nhang\nour\nclothes\nand\nclap\nand\nclean\nin\nthe\ncloset,\ntoo.\nWe\nare\nclever\nand\nWe\nclown\naround,\nnever\nmean!\nthat’s\nwhat\nwe\ndo!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19"
+  },
+  {
+    "ID": "G3-08",
+    "Unit": "5",
+    "Section": "Student Book",
+    "Website page": "Page 13",
+    "Finding": "The selectable poem omits “is” from “Soon the food is ready”, which appears on Page 12.",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U5/views/multiple_choice_story.html",
+    "rendered": "Let's Cook\n\n2 Circle the ‘oo’ words in the poem.\n\nlong ‘oo’ sound\nI\nlike\nto\nmake\nfood\nusing\na spoon\nand\nI\nalways\ndo\nthis\nat 12 o’clock\nnoon!\nSoon\nthe\nfood\nis ready,\nI\nscoop\nit\non\nthe\nplate.\nI\nlet\nit\ncool\nand\ngive\na hoot,\n‘Hurray!’\nIt\ntastes\njust\ngreat!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19"
+  },
+  {
+    "ID": "G3-09",
+    "Unit": "6",
+    "Section": "Student Book",
+    "Website page": "Page 3",
+    "Finding": "Vocabulary prompt reads “arge piece of cheese”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U6/views/Group_work_reading.html",
+    "rendered": "We Need a Loaf of Bread\n\n2 Pair work.\n\n\n\n\nIn pairs, practise the conversation. Then try to use the words below to make a new conversation. Act it out for the class.\n\nhead of garlic\n\n100 grams of spices\n\nlarge piece of cheese\n\ntwo jars of jam\n\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-10",
+    "Unit": "6",
+    "Section": "Student Book",
+    "Website page": "Page 11",
+    "Finding": "Story introduces Ben and his family, then refers to “Greg’s sister, Layla”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U6/views/slide_reading.html",
+    "rendered": "We Need a Loaf of Bread\n\n1 Read. How many characters are in this story? Name the characters in this story.\n\n\n\n\nEvery week, Ben and his family go shopping. They usually drive to a big supermarket if the road is not busy,but sometimes they buy from the nearby grocery shop.When they get there, Ben likes to choose his own groceries. What do Ben and his family pick? Ben picks a box of cereal, a packet of biscuits, three litres of juice and 400 grams of cheese. Mum picks two cartons of milk,one tube of toothpaste, one box of washing powder, two bars of soap and a carton of eggs. Dad picks two loavesof bread, one kilogram of rice, five kilograms of vegetables and fruit, three kilograms of sugar and a kilogramof chicken. Ben’s sister, Layla, picks a bar of chocolate. When they finish shopping, they go home and cook a bigdinner!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-11",
+    "Unit": "6",
+    "Section": "Student Book",
+    "Website page": "Page 13",
+    "Finding": "Poem says “the goat went out the doar”; Page 14 uses “door”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U6/views/slide_img.html",
+    "rendered": "We Need a Loaf of Bread\n\n1 Listen, read and practise.\n\n\n\n\nlong o ‘oa’ words\nMy parents sent me to the shop to buy a loaf of bread.\n‘Get that toad out of here! By car, or bike or boat!’\nI came home with a baby goat and a big, green toad instead.\nThe toad chased my mum to the road, and the goat went out the door.\nMy mum, she went screaming as she put on her new coat.\nMy parents never let me do the shopping anymore.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-12",
+    "Unit": "10",
+    "Section": "Student Book",
+    "Website page": "Page 14",
+    "Finding": "Selectable poem omits words from “One day at dawn” and “my lawn” compared with Page 13.",
+    "Status": "Code corrected; syntax checked; browser text verified",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U10/views/multiple_choice_story.html",
+    "rendered": "The Time of the Ice Age\n\n2 Circle the ‘aw’ words in the poem.\n\n‘aw’ words\nOne\nday at\ndawn,\nI\nstood\nupon\nmy lawn.\nSo\nI\ncrawled\nbeneath\nthe\nbig oak\ntree,\nI\nwas\ntired\nand\nbegan\nto\nyawn,\nso\nnothing\nawful\nwould\nhappen\nto\nme.\nwhen\nall\nof\na sudden\nI\nsaw\na fawn!\nI\nlet\nout\na caw\nto\nscare\nthe\nhawk.\nThen\nat\nexactly\nsix\no’clock,\nwhat\ndid\nI see?\nIt\nwas\ngone\nby\nseven\no’clock!\nA beautiful\nhawk\nlooking\nat\nme!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-13",
+    "Unit": "10",
+    "Section": "Student Book",
+    "Website page": "Page 16",
+    "Finding": "Question 4 reads “It is still dark at (crawl / dawn) fly over the field.”",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U10/views/circle_word_in_sentence_2.html",
+    "rendered": "The Time of the Ice Age\n\n4 Read and choose.\n\n\n\n\nCircle the correct word. Then write the word in the blanks.\n\n1\nI walk on my front(\nclaw\n/\nlawn\n) next to the house.\n2\nI feel sick and (\ncaw\n/\nawful\n) today.\n3\nI watched the (\nhawk\n/\ndawn\n) fly over the field.\n4\nIt is still dark at (\ncrawl\n/\ndawn\n).\n5\nThe baby (\nsaw\n/\ncrawls\n) next to her mother.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-14",
+    "Unit": "10",
+    "Section": "Student Book",
+    "Website page": "Page 20",
+    "Finding": "Story reference includes “And hairer, too!”",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U10/views/circle_word_in_sentence_3.html",
+    "rendered": "The Time of the Ice Age\n\n2 Choose the correct answer. Then write it.\n\n\n\n\n1\nMs. Lopez takes her class to the\na parkb Natural History Museum\n2\nMax’s favourite Ice Age animal is the\na woolly mammothb sabre-toothed cat\n3\nYoshi’s favourite Ice Age animal is the\na woolly mammothb giant ground sloth\n4\nWhy did the animals have a lot of fur?\na To make them look good.b To keep them warm.\nFind in the story:\n✓It’s my favourite, too!\n✓ My favourite is the wooly mammoth.\n✓ And hairier, too!\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-15",
+    "Unit": "11",
+    "Section": "Student Book",
+    "Website page": "Page 10",
+    "Finding": "Question 5 attributes “greatest day ever” to Helen’s mother, although Helen says it in the reading. The options also omit “the”.",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U11/views/fillin_text_3.html",
+    "rendered": "Bugs, Big and Small\n\n2 Read and complete.\n\n\n\n\nFill in the blanks with the correct word.\n\n1.\nHelen and her mother were walking in the\n.\n(woods / field)\n2.\nThe caterpillar has many\n.\n(legs / eyes)\n3.\nThe caterpillar changes into a\n.\n(butterfly / bee)\n4.\nHelen thinks that the butterfly is\nbeautiful of all the bugs.\n(more / the most)\n5.\nHelen thinks that today is\nday ever!\n(greater / the greatest)\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18"
+  },
+  {
+    "ID": "G3-16",
+    "Unit": "12",
+    "Section": "Student Book",
+    "Website page": "Page 13",
+    "Finding": "Poem uses the unnatural phrase “give me a greet”.",
+    "Status": "Retained as printed; user requested book fidelity on 2026-10-21",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U12/views/slide_img.html",
+    "rendered": "Sea Creatures\n\n1 Listen, read and practise.\n\n\n\n\n‘ee’ sounds\nCan you see the creatures in the sea?\nAnd there’s the long and slippery eel,\nCan you spot the seagull in the tree?\nCurled up in a circle like a wheel.\nThe dolphin comes to give me a greet, as he swims beside my two little feet.\nI love to come and sit by the sea.\nThere’s a sea lion in the sea so deep.\nThere’s a seahorse fast asleep.\nThere are lots of creatures for me to see.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-17",
+    "Unit": "14",
+    "Section": "Student Book",
+    "Website page": "Page 6",
+    "Finding": "On-screen instruction says “dubbel click”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U14/views/index_practise.html",
+    "rendered": "Have You Ever?\n\n3 Practise. Read the sentences below. Circle the have/has. Underline the past participle verb form. Then practise the conversation.\n\n\n\n\nDouble-click to underline the past participle verb form\n\nA. Has\n he\n finished\n his\n homework?\nB. Yes,\n he\n has.\n He's\n also\n taken\n the\n test.\nA. Have\n you\n visited\n your\n grandma?\nB. No,\n I\n haven't,\n but\n I\n have\n called\n her.\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19\nPage 20"
+  },
+  {
+    "ID": "G3-18",
+    "Unit": "15",
+    "Section": "Student Book",
+    "Website page": "Page 8",
+    "Finding": "Instruction begins “ook at the picture”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U15/views/slide_without_background_2.html",
+    "rendered": "Walk Along This Street\n\n2 You do it.\n\n\n\n\nLook at the picture. Ask for directions and have a friend or classmate answer you.\n\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19"
+  },
+  {
+    "ID": "G3-19",
+    "Unit": "15",
+    "Section": "Student Book",
+    "Website page": "Page 14",
+    "Finding": "Abbreviation model shows “Drive → Or”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U15/views/fillin_complete_word.html",
+    "rendered": "Walk Along This Street\n\n3 Write the 'st' in each word under its picture.\n\nfa\nreet\nea\nfir\nS\ne\nn\nt\ne\nn\nc\ne\n \nB\nu\ni\nl\nd\ni\nn\ng\nAbbreviations for kinds of streets:\nStreet → St   Lane → Ln\nAvenue → Ave   Route → Rt\nRoad → Rd   Drive → Dr\n\nStudent Book Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13\nPage 14\nPage 15\nPage 16\nPage 17\nPage 18\nPage 19"
+  },
+  {
+    "ID": "G3-20",
+    "Unit": "1",
+    "Section": "Workbook",
+    "Website page": "Page 1",
+    "Finding": "Workbook title is “Good Morning, World!” while the student book unit is “Where Are You From?”. The workbook content concerns countries and nationalities.",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U1/Playhouse_G3_U1/views/WB_G3_U1_Q1.html",
+    "rendered": "Where Are You From?\n1 Look at each picture and write the Word Power word.\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11"
+  },
+  {
+    "ID": "G3-21",
+    "Unit": "2",
+    "Section": "Workbook",
+    "Website page": "Page 1",
+    "Finding": "Birthday definition reads “we one year older”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U2/Playhouse_G3_U2/views/WB_G3_U2_P9_1.html",
+    "rendered": "Let’s Celebrate!\n\n1 What’s the celebration? Read the descriptions of celebrations around the world. Label the pictures using the words in the box.\n\nNew Year’s\nMother’s Day\nbirthday\n1\nMany countries celebrate this day in March. On this day, we do nice things for our mothers.\n2\nPeople celebrate this day on the 1st of January.\n3\nEveryone has this day each year. This day means that we are one year older.\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12"
+  },
+  {
+    "ID": "G3-22",
+    "Unit": "2",
+    "Section": "Workbook",
+    "Website page": "Page 4",
+    "Finding": "Sentence reads “I clap my the hands.”",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U2/Playhouse_G3_U2/views/WB_G3_U2_P10_2.html",
+    "rendered": "Let’s Celebrate!\n\n2 Circle. Circle the simple present verbs.\n\n1.\nThey\neat\nlunch.\n2.\nHe\nsleeps\nat\nnine\no'clock\n3.\nShe\nwatches\nTV.\n4.\nHe\nsings\nsongs.\n5.\nIt\nsits\non\nthe\nmat.\n6.\nI\nclap\nmy\nhands.\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12"
+  },
+  {
+    "ID": "G3-23",
+    "Unit": "3",
+    "Section": "Workbook",
+    "Website page": "Page 6",
+    "Finding": "Instruction says “write a sentence that about how often you do it”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U3/Playhouse_G3_U3/views/fillin_columns.html",
+    "rendered": "On Mondays, We Play Tennis!\n\n3 Look at each picture and write a sentence about how often you do it. Use a simple present verb and an adverb of frequency\n\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13"
+  },
+  {
+    "ID": "G3-24",
+    "Unit": "3",
+    "Section": "Workbook",
+    "Website page": "Page 9",
+    "Finding": "Rule says adverbs of frequency come before “the verb”, without the exception for be.",
+    "Status": "Retained as printed; user requested book fidelity on 2026-10-21",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U3/Playhouse_G3_U3/views/fillin_text_P17_3.html",
+    "rendered": "On Mondays, We Play Tennis!\n\n3 Finish the rule.\n\nAdverbs of frequency come\nthe verb.\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12\nPage 13"
+  },
+  {
+    "ID": "G3-25",
+    "Unit": "4",
+    "Section": "Workbook",
+    "Website page": "Page 2",
+    "Finding": "Countable nouns are defined as nouns you can hold in your hand. This excludes valid examples such as houses and ideas.",
+    "Status": "Retained as printed; user requested book fidelity on 2026-10-21",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U4/Playhouse_G3_U4/views/slide_4.html",
+    "rendered": "That’s My Favourite Dish\n\nCountable nouns are nouns that you can hold in your hand and ‘count’. A countable noun can be singular or plural.\n    Example: apple, apples\nUncountable nouns are things that you cannot count, or they are too small to count.\nBecause we can’t count them, uncountable nouns are used as singular nouns.\n      Example: milk\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 7\nPage 8\nPage 9"
+  },
+  {
+    "ID": "G3-26",
+    "Unit": "6",
+    "Section": "Workbook",
+    "Website page": "Page 2",
+    "Finding": "Heading ends with “Measurementsl”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U6/Playhouse_G3_U6/views/slide_4.html",
+    "rendered": "We Need a Loaf of Bread\n\nUncountable Containers and Measurements\nWhen we need to count uncountable nouns, we use measurement words, piece words or container words to describe how much.\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11"
+  },
+  {
+    "ID": "G3-27",
+    "Unit": "7",
+    "Section": "Workbook",
+    "Website page": "Page 4",
+    "Finding": "The literal text “undefined” appears above the conversation.",
+    "Status": "Code corrected; syntax checked; browser text verified",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U7/Playhouse_G3_U7/views/dialoguecircle.html",
+    "rendered": "That’s a Nice House\n\n1 Read and circle the correct word to complete the conversation.\n\nBob: I have great news! We moved into a new house this weekend.\nJay: That is great news, Bob! Tell me about it.\nBob: It is a two-storey house. It is big! It is really (tiny\n / huge\n).\nJay: That sounds good. It is a two-storey house. It must have cost a lot of money. It sounds like the house is (expensive\n / cheap\n).\nBob: It wasn't. It is near our school. We live by the forest next to the park. It is a safe place and not (dangerous\n / nice\n).\nJay: Great! Do you like your room? Is it big or (little\n / expensive\n)?\nBob: It is very big. My sister likes her new room too because she feels it is (ugly\n / pretty\n). Please come to my house this weekend.\nJay: Okay. We can play football in the park!\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9"
+  },
+  {
+    "ID": "G3-28",
+    "Unit": "8",
+    "Section": "Workbook",
+    "Website page": "Page 3",
+    "Finding": "“A few” and “several” are assigned exact numeric ranges, despite the explanation saying the amount is not exact.",
+    "Status": "Retained as printed; user requested book fidelity on 2026-10-21",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U8/Playhouse_G3_U8/views/slide_remember_1.html",
+    "rendered": "It’s in the Kitchen\n\nAdjectives of Amount\nWe use adjectives of amount to describe the number of a noun, but not the exact amount. The adjective always comes before the noun.\na couple of = two\na few = three or four\nseveral = up to five or six\nmany, a lot of = a big amount\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12"
+  },
+  {
+    "ID": "G3-29",
+    "Unit": "8",
+    "Section": "Workbook",
+    "Website page": "Page 7",
+    "Finding": "Story reads “She needs to pick up.” after mentioning crayons.",
+    "Status": "Code corrected; syntax checked; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U8/Playhouse_G3_U8/views/circle_word_in_sentence.html",
+    "rendered": "It’s in the Kitchen\n\n2 Look at the picture and complete the story.\n\nThis is Karen’s bedroom. Karen and her family are going to the park, but not until Karen cleans her room.\nKaren’s room is messy! Karen has\na lot of\n/\na couple of\ncrayons on the floor.\nShe needs to pick them up. There are\na few\n/\na lot of\nbooks on her desk.\nShe needs to put them on the shelf. She has\na few\n/\na couple of\nshirts.\nShe needs to hang them up. She has\nmany\n/\na couple of\npillows.\nShe needs to put them on the bed. She has\nmany\n/\na few\nthings to do. Hurry up, Karen! Everyone is waiting!\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9\nPage 10\nPage 11\nPage 12"
+  },
+  {
+    "ID": "G3-30",
+    "Unit": "9",
+    "Section": "Workbook",
+    "Website page": "Page 1",
+    "Finding": "One option is spelled “gril”.",
+    "Status": "Code corrected; browser verification pending",
+    "Source URL": "https://playhouse-grade-3.vercel.app/units/Playhouse_G3_U9/Playhouse_G3_U9/views/multiple_choice.html",
+    "rendered": "It’s Over There\n\n1 Circle the correct word for each picture.\n\n1\noven gloves\nblender\ngrater\n2\nfrying pan\ngrill\nfood processor\n3\nmeasuring cups\ncutting board\nspatula\n4\ngrater\nfrying pan\npeeler\n5\nrolling pin\nfood processor\npot\n6\nblender\ncutting board\npeeler\n7\ntoaster\ngrill\nspatula\n8\ngrater\ntoaster\nblender\nWorkbook Pages\n×\nPage 1\nPage 2\nPage 3\nPage 4\nPage 5\nPage 6\nPage 7\nPage 8\nPage 9"
+  }
+]

@@ -1,0 +1,21 @@
+.boxe_list_container {
+    width: 350px;
+    text-align: center;
+}
+
+.list_container {
+    position: relative;
+}
+
+.list_under_image {
+    list-style: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+.box_with_list_image {
+    height: 350px;
+}

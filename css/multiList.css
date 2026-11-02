@@ -1,0 +1,318 @@
+#button-1,
+#button-2,
+#button-3,
+#button-4,
+#button-5,
+#button-6,
+#button-7,
+#button-8,
+#button-9,
+#button-10,
+#button-11,
+#button-12,
+#button-13,
+#button-14,
+#button-15,
+#button-16,
+#button-17,
+#button-18,
+#button-19,
+#button-20,
+#button-21,
+#button-22,
+#button-23,
+#button-24,
+#button-25,
+#button-26,
+#button-27,
+#button-28,
+#button-29,
+#button-30,
+#button-31,
+#button-32,
+#button-33,
+#button-Blus1,
+#button-Blus2,
+#button-Blus3,
+#button-Blus11,
+#button-Blus22,
+#button-Blus111,
+#button-Blus1111,
+#button-Blus11111,
+#button-Blus111111,
+#button-Blus1111111,
+#button-Blus222,
+#button-Blus2222,
+#button-Blus22222,
+#button-Blus222222,
+#button-Blus2222222,
+#button-Blus33333,
+#button-Blus333333,
+#button-Blus3333333,
+#button-Blus4444444,
+#button-Blus5555555,
+#button-Blus6666666 {
+  cursor: pointer;
+  display: none;
+}
+
+/* Some stylings to the buttons */
+#show-button,
+#show-button-2,
+#show-button-3,
+#show-button-4,
+#show-button-5,
+#show-button-6,
+#show-button-7,
+#show-button-8,
+#show-button-9,
+#show-button-10,
+#show-button-11,
+#button-1,
+#button-2,
+#button-3,
+#button-4,
+#button-5,
+#button-6,
+#button-7,
+#button-8,
+#button-9,
+#button-10,
+#button-11,
+#button-12,
+#button-13,
+#button-14,
+#button-15,
+#button-16,
+#button-17,
+#button-18,
+#button-19,
+#button-20,
+#button-21,
+#button-22,
+#button-23,
+#button-24,
+#button-25,
+#button-26,
+#button-27,
+#button-28,
+#button-29,
+#button-30,
+#button-31,
+#button-32,
+#button-33,
+#button-Blus1,
+#button-Blus2,
+#button-Blus3,
+#button-Blus11,
+#button-Blus22,
+#button-Blus111,
+#button-Blus1111,
+#button-Blus11111,
+#button-Blus111111,
+#button-Blus1111111,
+#button-Blus222,
+#button-Blus2222,
+#button-Blus22222,
+#button-Blus222222,
+#button-Blus2222222,
+#button-Blus33333,
+#button-Blus333333,
+#button-Blus3333333,
+#button-Blus4444444,
+#button-Blus5555555,
+#button-Blus6666666 {
+}
+
+#button-1,
+#button-2,
+#button-3,
+#button-4,
+#button-5,
+#button-6,
+#button-7,
+#button-8,
+#button-9,
+#button-10,
+#button-11,
+#button-12,
+#button-13,
+#button-14,
+#button-15,
+#button-16,
+#button-17,
+#button-18,
+#button-19,
+#button-20,
+#button-21,
+#button-22,
+#button-23,
+#button-24,
+#button-25,
+#button-26,
+#button-27,
+#button-28,
+#button-29,
+#button-30,
+#button-31,
+#button-32,
+#button-33,
+#button-Blus1,
+#button-Blus2,
+#button-Blus3,
+#button-Blus11,
+#button-Blus22,
+#button-Blus111,
+#button-Blus1111,
+#button-Blus11111,
+#button-Blus111111,
+#button-Blus1111111,
+#button-Blus222,
+#button-Blus2222,
+#button-Blus22222,
+#button-Blus222222,
+#button-Blus2222222,
+#button-Blus33333,
+#button-Blus333333,
+#button-Blus3333333,
+#button-Blus4444444,
+#button-Blus5555555,
+#button-Blus6666666 {
+  background: rgba(80, 200, 200, 0.4);
+}
+.b1,
+.b4,
+.b7,
+.b10,
+.b13,
+.b16,
+.b19,
+.b22,
+.b25,
+.b28,
+.b31 {
+  position: absolute;
+  top: 150px;
+  left: 450px;
+}
+.b2,
+.b5,
+.b8,
+.b11,
+.b14,
+.b17,
+.b20,
+.b23,
+.b26,
+.b29,
+.b32 {
+  position: absolute;
+  top: 200px;
+  left: 450px;
+}
+.b3,
+.b6,
+.b9,
+.b12,
+.b15,
+.b18,
+.b21,
+.b24,
+.b27,
+.b30,
+.b33 {
+  position: absolute;
+  top: 250px;
+  left: 450px;
+}
+
+.bBlus1,
+.bBlus11,
+.bBlus111,
+.bBlus1111,
+.bBlus11111,
+.bBlus111111,
+.bBlus1111111 {
+  position: absolute;
+  top: 300px;
+  left: 450px;
+}
+
+.bBlus2,
+.bBlus22,
+.bBlus222,
+.bBlus2222,
+.bBlus22222,
+.bBlus222222,
+.bBlus2222222 {
+  position: absolute;
+  top: 350px;
+  left: 450px;
+}
+
+.bBlus3,
+.bBlus33333,
+.bBlus333333,
+.bBlus3333333 {
+  position: absolute;
+  top: 400px;
+  left: 450px;
+}
+
+.bBlus4444444 {
+  position: absolute;
+  top: 450px;
+  left: 450px;
+}
+
+.bBlus5555555 {
+  position: absolute;
+  top: 500px;
+  left: 450px;
+}
+
+.bBlus6666666 {
+  position: absolute;
+  top: 550px;
+  left: 450px;
+}
+
+/* .b4 {
+  position: absolute;
+  top: 250px;
+  left: 450px;
+}
+.b5 {
+  position: absolute;
+  top: 325px;
+  left: 450px;
+}
+.b6 {
+  position: absolute;
+  top: 400px;
+  left: 450px;
+} */
+
+/* #button-l {
+  cursor: pointer;
+  display: none;
+  border-radius: 5px;
+  padding: 10px 50px;
+  background: rgba(80, 200, 200, 0.4);
+}
+
+.b1 {
+  position: absolute;
+  top: 250px;
+  left: 450px;
+}
+.b2 {
+  position: absolute;
+  top: 325px;
+  left: 450px;
+}
+.b3 {
+  position: absolute;
+  top: 400px;
+  left: 450px;
+} */

@@ -1,0 +1,94 @@
+.colourwords_group {
+    display: flex;
+    width: 70%;
+    gap: 25px;
+    align-items: center;
+}
+
+.cw_item {
+    width: 100%;
+    position: relative;
+}
+
+.cw_sentence {
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1.6;
+
+    /* hollow / outline text look, like the reference image */
+    color: transparent;
+    -webkit-text-stroke: 1.4px #8d8d8d;
+    text-stroke: 1.4px #8d8d8d;
+    /* fallback for browsers that don't support text-stroke */
+    text-shadow:
+        -1px -1px 0 #8d8d8d,
+         1px -1px 0 #8d8d8d,
+        -1px  1px 0 #8d8d8d,
+         1px  1px 0 #8d8d8d;
+}
+
+/* if text-stroke IS supported, turn off the text-shadow fallback so the
+   outline doesn't look doubled/blurry */
+@supports (-webkit-text-stroke: 1px black) or (text-stroke: 1px black) {
+    .cw_sentence {
+        text-shadow: none;
+    }
+}
+
+.cw_wordWrap {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    user-select: none;
+}
+
+/* forces every word after this point onto a new line, so the poem keeps
+   its original line breaks instead of running on as one paragraph */
+.cw_line_break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.cw_word {
+    transition: color 0.15s ease;
+}
+
+.cw_wordWrap.cw_coloured .cw_word {
+    color: #e2574c; /* falls back to red if no targetColour is set in the data */
+    -webkit-text-stroke: 0;
+    text-stroke: 0;
+    text-shadow: none;
+}
+
+.icon_wrap_holder {
+    position: absolute;
+    right: -45px;
+    top: 0;
+}
+
+.icon_wrap .tick,
+.icon_wrap .cross {
+    width: 32px;
+    display: none;
+}
+
+.icon_wrap .tick img,
+.icon_wrap .cross img {
+    width: 100%;
+}
+
+@media (max-width: 767.98px) {
+    .cw_sentence {
+        font-size: 19px;
+    }
+    .icon_wrap_holder {
+        right: -30px;
+    }
+    .icon_wrap .tick,
+    .icon_wrap .cross {
+        width: 24px;
+    }
+}

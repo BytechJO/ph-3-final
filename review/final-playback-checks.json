@@ -1,0 +1,17 @@
+[
+  {
+    "view": "units/Playhouse_G3_U8/views/slide_reading.html",
+    "control": "audioIcon contant audioQuestionTitle on",
+    "path": "../audios/qa-instructions/read-page-072.mp3"
+  },
+  {
+    "view": "units/Playhouse_G3_U15/views/slide_reading.html",
+    "control": "audioIcon contant audioQuestionTitle on",
+    "path": "../audios/qa-instructions/read-page-136.mp3"
+  },
+  {
+    "view": "units/Playhouse_G3_U15/views/readingcircle.html",
+    "control": "audioIcon contant audioQuestionTitle on",
+    "path": "../audios/qa-instructions/read-page-136.mp3"
+  }
+]

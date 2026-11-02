@@ -1,0 +1,160 @@
+.all_cont {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+.screan_elements {
+  width: 80% !important;
+}
+
+.group_elm {
+  width: 90%;
+  height: 100%;
+  margin: 0px auto;
+}
+
+.activityHeading b{
+  color: #000;
+}
+
+.audio_icon {
+  height: 39px;
+  padding: 1px;
+}
+
+.image_gap {
+  height: 100%;
+  width: intrinsic;
+  width: -moz-max-content;
+  width: -webkit-max-content;
+  width: max-content;
+}
+
+.img_fillin_gr {
+  width: 550px;
+  margin: 40px 30px;
+  position: relative;
+  height: 170px;
+  margin: 0px 5px;
+  font-size: 30px;
+}
+
+.fillin_set{
+  width: 100%;
+  margin: 30px 10px;
+  text-align: center !important;
+}
+
+.fillin_set .txt-audioIcon{
+  margin: 1px auto;
+}
+
+.fillin_gr input {
+  width: 90px;
+  flex: 1;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid black;
+  text-align: center;
+  padding-bottom: 12px;
+  height: 30px;
+  margin: 7px 3px;
+  font-size: 38px;
+}
+
+.fillin_gr input:focus {
+  outline: none;
+}
+
+.fillin_gr .icon_wrap_holder {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+
+.q_order{
+  width: 70px;
+}
+
+.icon_wrap{
+  margin-top: 40px;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+.clue_word {
+  margin: 6px;
+  color: #000;
+}
+.word_options {
+  width: 90%;
+  border: 2px solid var(--temp);
+  border-radius: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  font-size: 20px;
+}
+.word_opt_sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+
+/**** popup window ***/
+
+/* ====================================================== */
+/*              Media Queries Start                       */
+/* ====================================================== */
+/* ------------------------------------------------ */
+/*              M Q max-width: 1799.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1800px) */
+@media (max-width: 1799.98px) {
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1399.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 1199.98px */
+/* ------------------------------------------------*/
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .word_options {
+    margin-bottom: 1vh;
+  }
+  .img_fillin_gr {
+    width: 100%;
+  }
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 991.98px */
+/* ------------------------------------------------*/
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+@media (max-width: 991.98px) {
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 767.98px */
+/* ------------------------------------------------*/
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+@media (max-width: 767.98px) {
+}
+/* ------------------------------------------------ */
+/* M Q max-width: 575.98px */
+/* ------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+@media (max-width: 575.98px) {
+}
+/* ------------------------------------------------ */
+/*              M Q max-width: 475.98px             */
+/* ------------------------------------------------*/
+/* body working fine 320 to 475 */
+@media (max-width: 475.98px) {
+}

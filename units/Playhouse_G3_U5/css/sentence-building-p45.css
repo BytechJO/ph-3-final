@@ -1,0 +1,16 @@
+
+.sbp45-panel {position:relative;width:92%;max-width:1100px;margin:10px auto 24px;}
+.sbp45-frame {display:block;width:100%;height:auto;}
+.sbp45-panel > img:not(.sbp45-frame),.sbp45-frog {position:absolute;height:auto;}
+.sbp45-examples {left:38%;top:30%;width:29%;}
+.sbp45-frog {top:42%;width:8%;padding:0;border:0;background:transparent;cursor:pointer;}
+.sbp45-frog img {display:block;width:100%;height:auto;}
+.sbp45-left {left:6%;}.sbp45-right {right:6%;}
+#sbp45-rule-left {left:14%;top:34%;width:23%;}
+#sbp45-rule-right {left:65%;top:29%;width:27%;}
+.sbp45-frog:focus-visible {outline:3px solid #f57c20;border-radius:8px;}
+.sbp45-frog:hover {filter:drop-shadow(0 0 5px #ffad51);}
+.sbp45-panel [hidden] {display:none !important;}
+.sbp45-panel ~ .activity_container .act_head_group > .audioIcon {display:none;}
+
+.sbp45-frog {z-index:2;}

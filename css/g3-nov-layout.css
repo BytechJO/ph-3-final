@@ -1,0 +1,201 @@
+/* Layout repairs for the reviewed G3 activities, November 2026. */
+body.g3-layout .mainContent {position:absolute!important;top:120px!important;bottom:105px!important;height:auto!important;width:100%;}
+body.g3-layout .content_wrap {max-height:none!important;overflow:visible!important;top:0!important;}
+body.g3-layout .mainContent {overflow:auto!important;}
+body.g3-layout .content_wrap {width:calc(100% - 180px)!important;max-width:1540px!important;margin:0 auto!important;padding:22px 0 35px!important;}
+body.g3-layout .activity_area {width:100%!important;height:auto!important;min-height:0!important;overflow:visible!important;}
+body.g3-layout .act_head_group {margin:0 0 12px!important;height:auto!important;}
+body.g3-layout .page_sub_title {margin:8px 0 20px!important;width:100%!important;height:auto!important;font-size:clamp(23px,1.7vw,32px)!important;line-height:1.45!important;}
+body.g3-layout .options,body.g3-layout .cont_ht_sf {zoom:1!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;margin:20px auto 0!important;overflow:visible!important;}
+body.g3-layout .all_cont {display:flex!important;width:100%!important;height:auto!important;min-height:0!important;align-items:center!important;justify-content:center!important;margin:0 auto!important;gap:24px;}
+body.g3-layout .screen_elements {height:auto!important;min-height:0!important;max-width:100%!important;margin:0 auto!important;justify-content:center!important;}
+body.g3-layout .group_elm {height:auto!important;min-height:0!important;margin:0 auto!important;max-width:100%!important;}
+body.g3-layout .word_opt_sticky {position:static!important;width:100%!important;margin:0 auto 22px!important;}
+body.g3-layout .word_options {max-width:1200px!important;width:100%!important;gap:8px 24px;padding:10px 20px!important;margin:auto!important;}
+body.g3-layout .word_options .clue_word {font-size:clamp(20px,1.4vw,26px)!important;}
+body.g3-layout .mb-70 {margin-bottom:0!important;}
+/* Reading poems: a fluid text board with a reserved illustration column. */
+body.g3-poem .grid_columns_container {display:grid!important;grid-template-columns:minmax(0,1fr) minmax(170px,23%);gap:32px;width:100%!important;max-width:1380px!important;height:auto!important;padding:26px!important;margin:auto!important;position:relative!important;align-items:center!important;}
+body.g3-poem .background_img {display:none!important;}
+body.g3-poem .col_grid_container,body.g3-poem .snap_group_all {position:static!important;width:100%!important;height:auto!important;margin:0!important;padding:0!important;}
+body.g3-poem .snap_group_all>.row {height:auto!important;min-height:0!important;margin:0!important;align-items:start!important;}
+body.g3-poem .snap_card,body.g3-poem .ss_word,body.g3-poem .ss_text {position:static!important;width:auto!important;height:auto!important;margin:0!important;padding:0!important;line-height:1.55!important;font-size:clamp(19px,1.45vw,27px)!important;}
+body.g3-poem .row>[class*='col-'] {padding:0 14px 0 0!important;}
+body.g3-poem .text_img,body.g3-poem .g3-poem-image {position:static!important;inset:auto!important;width:100%!important;height:auto!important;max-height:330px!important;object-fit:contain!important;margin:0!important;transform:none!important;}
+/* Clickable poems keep each word and its original event handlers. */
+body.g3-pickpoem .group_elm {display:grid!important;grid-template-columns:minmax(0,1fr) 260px;gap:30px;width:1380px!important;padding:24px!important;align-items:center!important;}
+body.g3-pickpoem .tick_group {width:100%!important;display:flex!important;flex-direction:column!important;gap:8px;text-align:left!important;}
+body.g3-pickpoem .q_text,body.g3-pickpoem .q_part {height:auto!important;min-height:0!important;width:100%!important;margin:0!important;padding:0!important;align-items:flex-start!important;}
+body.g3-pickpoem .picks_grp {gap:0 5px;justify-content:flex-start!important;line-height:1.5!important;}
+body.g3-pickpoem .pick {height:auto!important;margin:0!important;padding:0 1px!important;font-size:clamp(19px,1.4vw,26px)!important;letter-spacing:0!important;line-height:1.55!important;}
+body.g3-pickpoem .question {font-size:26px!important;line-height:1.5!important;}
+body.g3-pickpoem .image-container {position:static!important;width:100%!important;height:auto!important;margin:0!important;}
+body.g3-pickpoem .image-container img {width:100%!important;height:auto!important;max-height:330px;object-fit:contain;}
+/* Tables. */
+body.g3-table .screen_elements,body.g3-table .group_elm,body.g3-table .fillin_gr {width:100%!important;}
+body.g3-table table {width:100%!important;max-width:1200px!important;margin:auto!important;table-layout:fixed;border-spacing:8px;border-collapse:separate;}
+body.g3-table td,body.g3-table th {width:auto!important;padding:0!important;vertical-align:top;}
+body.g3-table .Box,body.g3-table .que,body.g3-table input {width:100%!important;min-width:0!important;height:auto!important;}
+body.g3-table .Box {min-height:46px!important;margin:0 0 7px!important;justify-content:center!important;}
+body.g3-table input {height:52px!important;font-size:24px!important;}
+body.g3-table .contant {font-size:24px!important;line-height:1.35!important;padding:8px!important;}
+body.g3-n10 .contant {font-size:20px!important;}
+body.g3-n3 .circlecolour_group {width:1250px!important;margin:auto!important;}
+body.g3-n3 .cc_sentence {font-size:clamp(32px,3vw,54px)!important;gap:12px;}
+body.g3-n3 .cc_item {margin:20px 0!important;}
+body.g3-n3 .cc_word {font-size:inherit!important;}
+/* Cards with definitions and answer lines. */
+body.g3-cards .screen_elements {width:100%!important;}
+body.g3-cards .group_elm {display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;width:1300px!important;align-items:stretch!important;}
+body.g3-n9 .group_elm {grid-template-columns:repeat(5,minmax(0,1fr));}
+body.g3-cards .que,body.g3-cards .fillin_gr,body.g3-cards .q_space,body.g3-cards .card {width:100%!important;height:auto!important;margin:0!important;}
+body.g3-cards .card {border-radius:12px!important;padding:12px!important;}
+body.g3-cards .card-body {padding:10px!important;}
+body.g3-cards .card img {width:100%!important;height:155px!important;object-fit:contain!important;}
+body.g3-cards .contant {font-size:22px!important;line-height:1.45!important;min-height:125px!important;}
+body.g3-cards input {width:100%!important;font-size:23px!important;height:42px!important;}
+body.g3-n9 .contant {font-size:20px!important;}
+/* Punctuation and dialogue. */
+body.g3-n11 .group_elm {width:1120px!important;}
+body.g3-n11 .que,body.g3-n15 .que {height:auto!important;margin:8px 0!important;}
+body.g3-n11 .image-container {position:static!important;width:180px!important;height:auto!important;}
+body.g3-n11 .image-container img {width:100%!important;height:auto!important;}
+body.g3-n11 .fillin_set {font-size:23px!important;line-height:1.7!important;}
+body.g3-n14 .pm_group {width:1200px!important;gap:35px;}
+body.g3-n14 .pm_sentence,body.g3-n14 .pm_blank {font-size:25px!important;line-height:1.8!important;}
+body.g3-n14 .pm_item {margin:14px 0!important;}
+body.g3-n15 .screen_elements,body.g3-n15 .group_elm {width:1300px!important;}
+body.g3-n15 .fillin_set {line-height:1.7!important;font-size:23px!important;}
+body.g3-n15 .all_cont {overflow:visible!important;}
+body.g3-n19 .tick_group {width:100%!important;justify-content:center!important;gap:30px!important;}
+body.g3-n19 .que {width:260px!important;height:auto!important;}
+body.g3-n19 .img_space {width:220px!important;height:160px!important;}
+/* Picture prompts should flow below the instruction, never across it. */
+body.g3-n25 .all_cont {flex-direction:column!important;}
+body.g3-n25 .image_with_text {display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr));gap:20px;width:100%!important;height:auto!important;margin:0!important;}
+body.g3-n25 .main_image {display:none;}
+body.g3-n25 .image_audio {position:static!important;width:100%!important;height:auto!important;margin:0!important;}
+body.g3-n25 .image_audio img {width:100%!important;height:150px!important;object-fit:contain!important;}
+body.g3-n28 .activity-content,body.g3-n28 .main {height:auto!important;width:100%!important;display:block!important;}
+body.g3-n28 .drag_drop_options {position:static!important;inset:auto!important;width:100%!important;max-width:1200px!important;margin:20px auto!important;transform:none!important;display:flex!important;justify-content:center;gap:25px;}
+body.g3-n28 .drag_drop_questions {width:100%!important;}
+body.g3-n28 .drag_drop_questions>.que {justify-content:center!important;gap:22px!important;}
+body.g3-n28 .item {width:calc(20% - 22px)!important;max-width:250px;}
+body.g3-n28 .qus_img,body.g3-n28 .l_col {width:100%!important;height:170px!important;}
+body.g3-n28 .qus_img img {width:100%!important;height:100%!important;object-fit:contain!important;}
+body.g3-n28 .r_col,body.g3-n28 .droppable_div {width:100%!important;}
+body.g3-n29 .ans_grup {display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 70px!important;}
+body.g3-n29 .tick_field {width:auto!important;flex-wrap:nowrap!important;align-items:center!important;}
+body.g3-n29 .right_container {position:static!important;}
+body.g3-n30 .tick_group {display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr) 170px;gap:22px 25px;width:1300px!important;}
+body.g3-n30 .que {position:static!important;inset:auto!important;width:auto!important;height:auto!important;margin:0!important;display:block!important;}
+body.g3-n30 .que:nth-child(1){grid-area:1/1}body.g3-n30 .que:nth-child(2){grid-area:1/2}body.g3-n30 .que:nth-child(3){grid-area:2/1}body.g3-n30 .que:nth-child(4){grid-area:2/2}body.g3-n30 .que:nth-child(5){grid-area:3/1}body.g3-n30 .que:nth-child(6){grid-area:3/2}
+body.g3-n30 .img_container {display:contents!important;}
+body.g3-n30 .img_container img {position:static!important;grid-column:3;width:150px!important;height:110px!important;object-fit:contain;}
+body.g3-n30 .img_container img:nth-child(1){grid-row:1}body.g3-n30 .img_container img:nth-child(2){grid-row:2}body.g3-n30 .img_container img:nth-child(3){grid-row:3}
+body.g3-n30 .pick {height:auto!important;font-size:24px!important;margin:0 5px 0 0!important;}
+body.g3-n30 .q_part {height:auto!important;margin:0!important;}
+body.g3-n31 .all_cont>div {display:grid!important;grid-template-columns:minmax(0,1fr) 320px;gap:25px;width:100%!important;height:auto!important;}
+body.g3-n31 .question_group {width:100%!important;}
+body.g3-n31 .img_space {position:static!important;width:100%!important;height:auto!important;margin:0!important;}
+body.g3-n31 .img_space img {width:100%!important;height:auto!important;}
+body.g3-n31 .q_part,body.g3-n31 .que {height:auto!important;width:100%!important;margin:0!important;}
+body.g3-n31 .pick_set {gap:9px!important;}
+body.g3-n32 .image_with_text {margin:auto!important;}
+body.g3-n33 .ml_match_wrap {max-width:1150px!important;width:100%!important;margin:auto!important;}
+body.g3-n33 .ml_text,body.g3-n33 .ml_mid_box {font-size:23px!important;}
+body.g3-n36 .caw_group {width:1300px!important;gap:32px;}
+body.g3-n36 .caw_lines_col {flex:0 0 280px!important;}
+body.g3-n36 .caw_images_col {display:grid!important;grid-template-columns:repeat(6,minmax(0,1fr));gap:18px!important;width:auto!important;flex:1;}
+body.g3-n36 .caw_imgWrap {width:100%!important;height:140px!important;margin:0!important;}
+body.g3-n36 .caw_img {width:100%!important;height:100%!important;object-fit:contain;}
+body.g3-n36 .right_container {position:static!important;margin-top:15px!important;}
+body.g3-n37 .pwi_picture_wrap {width:min(840px,90vw)!important;height:auto!important;aspect-ratio:1.26;}
+body.g3-n37 .pwi_wordOpt {font-size:clamp(16px,1.3vw,24px)!important;}
+body.g3-n38 .cd_group {display:grid!important;grid-template-columns:minmax(0,700px) minmax(250px,1fr);gap:40px;width:1200px!important;align-items:center;}
+body.g3-n38 .cd_colour_area,body.g3-n38 .colour_box {width:100%!important;}
+body.g3-n38 .colour_canvas {width:100%!important;height:auto!important;}
+body.g3-n38 .cd_write_area {width:100%!important;margin:0!important;}
+body.g3-n38 .cd_textarea {width:100%!important;height:280px!important;font-size:25px!important;}
+body.g3-n38 .cd_writeLabel,body.g3-n38 .cd_colourLabel {font-size:24px!important;}
+body.g3-n41 .grid_columns_container {width:100%!important;height:auto!important;margin:auto!important;padding:24px!important;}
+body.g3-n41 .col_grid_container,body.g3-n41 .snap_group_all {width:100%!important;height:auto!important;position:static!important;}
+body.g3-n41 .snap_card,body.g3-n41 .ss_text {height:auto!important;margin:0!important;font-size:22px!important;line-height:1.45!important;}
+body.g3-n41 .text_img {position:static!important;width:100%!important;height:auto!important;}
+body.g3-n42 .question_group {width:1100px!important;}
+body.g3-n42 .que,body.g3-n42 .q_part {height:auto!important;margin:8px 0!important;}
+body.g3-n42 .pick_set {display:flex!important;gap:15px!important;align-items:center;}
+body.g3-n42 .right_container {position:static!important;margin:20px auto!important;}
+@media(max-width:1400px){
+ body.g3-layout .content_wrap{width:calc(100% - 140px)!important;padding-top:16px!important;}
+ body.g3-layout .page_sub_title{font-size:24px!important;margin-bottom:14px!important;}
+ body.g3-layout .options{margin-top:14px!important;}
+ body.g3-pickpoem .group_elm{grid-template-columns:minmax(0,1fr) 190px;gap:20px;padding:18px!important;}
+ body.g3-poem .grid_columns_container{gap:20px;padding:20px!important;}
+ body.g3-cards .contant{font-size:18px!important;}
+ body.g3-table input{height:44px!important;font-size:21px!important;}
+ body.g3-n31 .all_cont>div{grid-template-columns:minmax(0,1fr) 250px;}
+ body.g3-n38 .cd_group{grid-template-columns:minmax(0,620px) minmax(240px,1fr);gap:25px;}
+}
+@media(max-width:900px){
+ body.g3-layout .content_wrap{width:calc(100% - 110px)!important;}
+ body.g3-poem .grid_columns_container,body.g3-pickpoem .group_elm,body.g3-n38 .cd_group,body.g3-n31 .all_cont>div{grid-template-columns:1fr;}
+ body.g3-poem .text_img,body.g3-poem .g3-poem-image,body.g3-pickpoem .image-container{max-width:280px!important;margin:auto!important;}
+ body.g3-cards .group_elm{grid-template-columns:repeat(2,minmax(0,1fr));}
+ body.g3-n25 .image_with_text{grid-template-columns:repeat(3,minmax(0,1fr));}
+}
+/* Keep only the page viewport scrollable; activity blocks grow with their text. */
+body.g3-layout .word_options{height:auto!important;min-height:0!important;}
+body.g3-poem .grid_columns_container>img[src='']{display:none!important;}
+body.g3-n15 .group_elm{position:relative!important;inset:auto!important;}
+body.g3-n25 .image_with_text{position:static!important;inset:auto!important;}
+body.g3-n31 .img_space{max-width:320px!important;min-width:0!important;}
+body.g3-n31 .img_space img{max-width:100%!important;}
+body.g3-n37 .pwi_picture_wrap{max-width:840px!important;max-height:none!important;flex-shrink:0!important;}
+body.g3-n41 .snap_group_all>.row,body.g3-n41 .col_card,body.g3-n41 .ss_word{height:auto!important;min-height:0!important;position:static!important;margin:0!important;}
+body.g3-n41 .text_img{max-height:240px!important;object-fit:contain;}
+body.g3-n41 .snap_group_all>.row{margin-bottom:12px!important;}
+body.g3-n41 .snap_card{width:auto!important;}
+body.g3-n29 .tick_group{width:1050px!important;}
+body.g3-n29 .tick_field{display:grid!important;grid-template-columns:180px 40px 1fr!important;gap:16px!important;height:auto!important;}
+body.g3-n29 .tick_field .q_num_space{display:none!important;}
+body.g3-n29 .tick_field img{width:180px!important;height:140px!important;object-fit:contain;}
+body.g3-n29 .tickBox,body.g3-n29 .tickContent{position:static!important;margin:0!important;}
+body.g3-n29 .tickContent{font-size:24px!important;}
+body.g3-n14 .pm_text,body.g3-n14 .pm_qnum{font-size:25px!important;}
+body.g3-n31 .img_space img{position:static!important;inset:auto!important;transform:none!important;width:100%!important;height:auto!important;}
+body.g3-cards .word_options .contant{min-height:0!important;height:auto!important;}
+body.g3-cards .card .contant:empty{display:none!important;min-height:0!important;}
+body.g3-n41 .snap_group_all>.text_img{display:none!important;}
+body.g3-n41 .ss_text{display:flex;gap:12px;align-items:flex-start;}
+body.g3-n41 .list_circle{flex-shrink:0;}
+body.g3-n41 .col_card:has(.text_img){position:absolute!important;right:20px;bottom:20px;width:22%!important;}
+body.g3-n41 .grid_columns_container{position:relative!important;}
+body.g3-n32 .image_with_text{display:flex!important;justify-content:center!important;gap:35px!important;}
+body.g3-n32 .main_image{display:none!important;}
+body.g3-n43 .screen_elements{width:1000px!important;max-width:100%!important;align-items:flex-start;}
+body.g3-n43 .q_image{position:relative!important;width:65%!important;}
+body.g3-n43 .q_image>img{width:100%!important;height:auto!important;}
+body.g3-n43 .group_elm{width:35%!important;padding-left:25px!important;}
+body.g3-n43 .q_image>.que{position:absolute!important;width:auto!important;height:auto!important;margin:0!important;transform:translate(-50%,-50%);}
+body.g3-layout .word_options .contant{width:auto!important;min-width:0!important;padding:3px 9px!important;}
+body.g3-layout .word_options .clue_word{width:auto!important;min-width:0!important;}
+body.g3-n22 .word_opt_sticky{margin-bottom:4px!important;}
+body.g3-n22 .all_cont{gap:12px!important;}
+body.g3-pickpoem .q_part:empty{display:none!important;}
+body.g3-n2 .tick_group{gap:2px!important;}
+body.g3-n2 .pick{font-size:23px!important;line-height:1.3!important;}
+body.g3-n2 .picks_grp{line-height:1.3!important;}
+body.g3-n37 .pwi_picture_wrap{width:min(680px,85vw)!important;}
+body.g3-cards .contant{min-height:95px!important;}
+body.g3-n11 .screen_elements{display:grid!important;grid-template-columns:minmax(0,1fr) 160px;gap:24px;}
+body.g3-n11 .group_elm{width:100%!important;}
+body.g3-n11 .image-container{width:160px!important;}
+body.g3-n25 .read_grammer{margin:0 0 20px!important;width:100%!important;}
+body.g3-n43 .q_image{order:0;}
+body.g3-n43 .group_elm{order:1;}
+body.g3-layout .mainContent{overflow-x:hidden!important;}
+body.g3-n29 .options,body.g3-n24 .options,body.g3-n36 .options,body.g3-n42 .options{position:relative!important;}
+body.g3-n29 #shakingImage,body.g3-n24 #shakingImage,body.g3-n36 #shakingImage,body.g3-n42 #shakingImage{position:absolute!important;top:0!important;right:0!important;left:auto!important;bottom:auto!important;width:65px!important;height:auto!important;}
+body.g3-n25 .image_audio{padding:0!important;transform:none!important;}
+body.g3-n25 .snap_card{width:100%!important;max-width:none!important;transform:none!important;}

@@ -1,0 +1,135 @@
+.all_cont {
+    width: 100%;
+    height: 100%;
+}
+
+.screen_elements {
+    width: 80%;
+}
+
+.group_elm {
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    align-items: center;
+    align-content: center;
+}
+
+:root {
+    --temp: rgb(159, 210, 236);
+}
+
+.activityHeading b{
+    color: #525252;
+}
+
+.ques{
+    width: 100%;
+}
+
+.image_space{
+    height: 66px;
+}
+
+.que {
+    width: 100%;
+    height: 85px;
+    position: relative;
+}
+
+.q_space{
+    height: 50px;
+}
+
+.fillin_set input {
+    width: 280px;
+    height: 40px;
+    text-align: center;
+    color: black;
+    border: none;
+    margin-right: 25px;
+    margin-left: 10px;
+    border-bottom: 2px solid black;
+}
+
+.fillin_set input:focus {
+    outline: none;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 23px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 33.333%;
+}
+
+.theIcons {
+    margin: 5px 0;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.icon_wrap_holder{
+    position: absolute;
+    right: 10px;
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    padding: 2px 27px;
+}
+
+.word_options {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #c3f4ff8c;
+}
+
+.word_opt_sticky {
+    width: 70%;
+    margin: 0px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+    border: 2px solid var(--temp);
+    border-radius: 10px;
+}
+
+/* ********************************** */
+/* ********************************** */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

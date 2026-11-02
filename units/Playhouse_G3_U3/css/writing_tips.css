@@ -1,0 +1,81 @@
+
+.writing_tips_content_holder {
+    width: 85%;
+}
+
+.writing_tips {
+    position: relative;
+}
+
+.writing_tips_container {
+       position: absolute;
+    top: 7%;
+    left: 19%;
+    font-size: 23px;
+    width: 662px;
+}
+
+.writing_tips_header {
+    color: blue;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.writing_tips_header .audioIcon {
+    /* margin: auto; */
+    margin-right: 0;
+}
+
+.writing_tips_inner_image {
+    float: right;
+    width: 325px;
+}
+
+.writing_tips_container > .audioIcon:hover {
+    transform: scale(1);
+}
+
+.writing_tips_bottom_container li {
+    padding-left: 25px;
+}
+
+.writing_tips_bottom_container {
+    position: relative;
+    margin-top: -78px;
+}
+
+.writing_tips_bottom_background_image {
+    width: 105%;
+    margin-left: -2.5%;
+}
+
+.writing_tips_bottom_header {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+.writing_tips_bottom_list {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 820px;
+    line-height: 30px;
+}
+
+.writing_tips_background_image {
+    width: 100%;
+}
+
+.writing_tips_top_right_image_image_container {
+    position: absolute;
+    top: 174px;
+    right: 60px;
+    width: 310px;
+}
+
+.writing_tips_top_right_image {
+    width: 100%;
+}

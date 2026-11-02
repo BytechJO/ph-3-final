@@ -1,0 +1,113 @@
+.fc_group {
+    width: 100%;
+    max-width: 900px;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.fc_list_col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    padding-top: 10px;
+}
+
+.fc_item {
+    gap: 10px;
+    font-size: 19px;
+    color: #1a1a1a;
+    position: relative;
+}
+
+.fc_type_wrap {
+    width: 90px;
+    border-bottom: 2px solid #1a1a1a;
+    display: flex;
+    justify-content: center;
+}
+
+.fc_type_input {
+    width: 100%;
+    border: none;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: transparent;
+}
+
+.fc_type_input:focus {
+    outline: none;
+}
+
+.fc_qnum {
+    font-weight: bold;
+}
+
+.fc_sentence {
+    line-height: 1.6;
+}
+
+.fc_underline {
+    text-decoration: underline;
+}
+
+.fc_verbpick {
+    white-space: nowrap;
+}
+
+.fc_verb_option {
+    cursor: pointer;
+    padding: 1px 8px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.fc_verb_option.fc_picked {
+    border: 2px solid #e2574c;
+    color: #e2574c;
+    font-weight: bold;
+}
+
+.icon_wrap {
+    position: absolute;
+    right: -40px;
+    top: 0;
+}
+
+.icon_wrap .tick,
+.icon_wrap .cross {
+    width: 26px;
+    display: none;
+}
+
+.icon_wrap .tick img,
+.icon_wrap .cross img {
+    width: 100%;
+}
+
+.fc_side_image {
+    width: 230px;
+    flex-shrink: 0;
+    margin-top: 30px;
+}
+
+.fc_side_image img {
+    width: 100%;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .fc_group {
+        flex-direction: column;
+        align-items: center;
+    }
+    .fc_item {
+        font-size: 15px;
+    }
+    .fc_side_image {
+        width: 150px;
+        margin-top: 0;
+    }
+}

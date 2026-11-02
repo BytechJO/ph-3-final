@@ -1,0 +1,191 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 95%;
+    height: 100%;
+}
+
+.group_elm{
+    width: 100%;
+}
+
+.activityHeading b {
+    color: #000;
+}
+
+.activityHeading .end {
+    color: #606060;
+}
+
+.word , .txt-audioIcon{
+    color: #606060;
+}
+
+.image_space {
+    width: 595px;
+    height: 530px;
+}
+  
+.image_space img {
+    height: 100%;
+    width: 98%;
+    object-fit: contain;
+}
+
+
+
+/* ==================================== */
+.q_order{
+    width: 30px;
+}
+/* ************************************** */
+.ques{
+    width: 500px;
+    align-items: center;
+    /* padding: 10px; */
+    text-align: center;
+    margin-left: 30px;
+}
+
+/* ==================================== */
+.q_box{
+    width:  95%;
+    margin: 15px 2px;
+    padding: 5px 10px; 
+}
+
+.fill_in .que {
+    width: 100%;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 33.333%;
+}
+
+.txtBox input:focus{
+    outline: none;
+}
+
+.r-choice {
+    text-align: left; 
+}
+
+.que_1_2 {
+    height: 100px;
+}
+
+.txt-audioIcon{
+    padding-left: 7px;
+    padding-top: 0px;
+    min-width: 300px ;
+}
+
+.txtBox input {
+    /* flex: 1; */
+    width: 400px;
+    height: 35px;
+    color: black;
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid #36a0c7;
+}
+
+.icon_wrap {
+    position: absolute;
+    /* margin-left: 400px; */
+    margin-top: -35px;
+    right: 108px;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+.clue_word {
+    margin: 5px;
+    padding: 0px 12px;
+}
+
+.word_options {
+    width: 100%;
+    font-size: 23px;
+    border: 2px solid var(--temp);
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

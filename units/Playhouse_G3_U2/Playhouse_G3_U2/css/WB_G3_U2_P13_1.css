@@ -1,0 +1,159 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.group_elm{
+    width: 100%;
+}
+
+.activityHeading b {
+    color: #000;
+}
+
+.word , .txt-audioIcon{
+    color: #606060;
+}
+
+.image_space {
+    width: 850px;
+    height: 342px;
+    margin: 0px auto;
+}
+  
+.image_space img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.q_order{
+    width: 50px;
+}
+
+.ques{
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.q_box{
+    width:  100%;
+    height: 43px;
+}
+
+.fill_in .que {
+    width: 100%;
+}
+
+.txtBox {
+    font-family: Arcon;
+    font-size: 25px;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.txtBox input:focus{
+    outline: none;
+}
+
+.txtBox input {
+    flex: 1;
+    height: 35px;
+    color: black;
+    text-align: center;
+    border: none;
+    font-size: 21px;
+    border-bottom: 2px solid #36a0c7;
+}
+
+.icon_wrap {
+    position: absolute;
+    margin-top: -35px; 
+    right: 100px;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    margin: 5px;
+    padding: 0px 12px;
+}
+
+.word_options {
+    width: 100%;
+    font-size: 23px;
+    border: 2px solid var(--temp);
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

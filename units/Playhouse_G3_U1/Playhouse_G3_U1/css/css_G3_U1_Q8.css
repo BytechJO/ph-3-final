@@ -1,0 +1,145 @@
+.backNav {
+    left: 0;
+  }
+  .nextNav {
+    right: 0;
+  }
+  .image_space {
+    height: 27vh;
+    text-align: center;
+  }
+  .image_space img {
+    height: 100%;
+    width: auto;
+  }
+  .fillin_set {
+  }
+  
+  .audio_icon {
+    height: 39px;
+    padding: 1px;
+  }
+  
+  .screan_elements {
+    width: 90%;
+  }
+  
+  .all_cont {
+    /* height: 100%; */
+    align-items: center;
+  }
+  
+  .options {
+    height: 450px;
+  }
+  .fillin_gr input {
+    width: 51px;
+    height: 51px;
+    background-color: transparent;
+    border: none;
+    border: 2px solid rgb(0, 185, 242);
+    border-radius: 50%;
+    text-align: center;
+  }
+  
+  .fillin_gr input:focus {
+    outline: none;
+  }
+  
+  .img_fillin_gr {
+    margin: 10px;
+    width: 355px;
+    position: relative;
+    height: 275px;
+    text-align: center;
+  }
+  /* .fillin_gr .icon_wrap_holder {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  } */
+
+  .topImage {
+    height: 200px;
+  }
+  .fillin_gr {
+    width: 100%;
+    position: absolute;
+    bottom: 20px;
+  }
+  .tick,
+  .cross {
+    width: 32px;
+    height: 32px;
+  }
+  .clue_word {
+    margin: 15px;
+  }
+  .word_options {
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 8vh;
+    background-color: white;
+  }
+  .word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+  }
+  
+  /**** popup window ***/
+  
+  /* ====================================================== */
+  /*              Media Queries Start                       */
+  /* ====================================================== */
+  /* ------------------------------------------------ */
+  /*              M Q max-width: 1799.98px */
+  /* ------------------------------------------------*/
+  /* // Large devices (desktops, less than 1800px) */
+  @media (max-width: 1799.98px) {
+  }
+  /* ------------------------------------------------ */
+  /*              M Q max-width: 1399.98px */
+  /* ------------------------------------------------*/
+  /* // Large devices (desktops, less than 1400px) */
+  @media (max-width: 1399.98px) {
+  }
+  /* ------------------------------------------------ */
+  /*              M Q max-width: 1199.98px */
+  /* ------------------------------------------------*/
+  /* // Large devices (desktops, less than 1200px) */
+  @media (max-width: 1199.98px) {
+    .word_options {
+      margin-bottom: 1vh;
+    }
+    .img_fillin_gr {
+      width: 100%;
+    }
+  }
+  /* ------------------------------------------------ */
+  /*              M Q max-width: 991.98px */
+  /* ------------------------------------------------*/
+  /* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+  @media (max-width: 991.98px) {
+  }
+  /* ------------------------------------------------ */
+  /* M Q max-width: 767.98px */
+  /* ------------------------------------------------*/
+  /* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+  @media (max-width: 767.98px) {
+  }
+  /* ------------------------------------------------ */
+  /* M Q max-width: 575.98px */
+  /* ------------------------------------------------*/
+  /* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+  @media (max-width: 575.98px) {
+  }
+  /* ------------------------------------------------ */
+  /*              M Q max-width: 475.98px             */
+  /* ------------------------------------------------*/
+  /* body working fine 320 to 475 */
+  @media (max-width: 475.98px) {
+  }
+  

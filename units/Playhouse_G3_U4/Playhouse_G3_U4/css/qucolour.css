@@ -1,0 +1,15 @@
+.qu-instruction{color:#00afe3;font-size:27px;font-style:normal}
+.qu-options{width:90%;max-width:1050px;margin:0 auto;padding-bottom:90px}
+.qu-palette{display:flex;justify-content:center;gap:10px;margin:8px 0 18px}
+.qu-swatch{width:32px;height:32px;border:2px solid white;border-radius:50%;box-shadow:0 0 0 1px #aaa;cursor:pointer}
+.qu-swatch.active{box-shadow:0 0 0 3px #159bd0}
+.qu-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 32px}
+.qu-card{text-align:center;min-width:0}
+.qu-card canvas{display:block;width:190px;max-width:100%;height:auto;aspect-ratio:1;margin:0 auto;object-fit:contain;cursor:crosshair;touch-action:manipulation}
+.qu-answer{display:flex;justify-content:center;align-items:center;gap:6px;margin:8px 0}
+.qu-answer input{width:70%;border:0;border-bottom:2px solid #777;font-size:24px;font-family:inherit;text-align:center;background:transparent}
+.qu-result{font-size:25px;min-width:25px}
+.qu-tools{display:flex;justify-content:center;gap:8px}
+.qu-tools button{border:1px solid #00afe3;border-radius:8px;background:white;color:#477181;font-size:14px;padding:3px 9px}
+@media(max-width:600px){.qu-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 10px}.qu-card canvas{width:160px}}
+.act_head_group>.mainTitle{display:block;width:480px;max-width:95%;height:60px;object-fit:contain;object-position:left}.qu-card canvas{width:160px}.qu-grid{gap:14px 24px}.qu-options{padding-bottom:35px}.qu-palette{margin:4px 0 10px}

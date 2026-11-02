@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        Playhouse
+    </title>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+    <style id='ui_style'>
+    </style>
+   <link rel="stylesheet" href="../css/all.min.css">
+    <link rel="stylesheet" href="../css/draw.css">
+    <link rel="stylesheet" href="../css/audio.css">
+    <link rel="stylesheet" href="../css/styles.css">    
+    <link rel="stylesheet" href="../css/reading_ui.css">
+    <!-- <link rel="stylesheet" href="../css/reading.css"> -->
+    <link rel="stylesheet" href="../css/text_on_image.css">
+    <link rel="stylesheet" href="../css/unit_styles.css">
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../js/bootstrap/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js" text="text/javascript"></script>
+    <script src="../js/all.js" type="text/javascript"></script>
+    <!-- [ Data for Header and Footer ] -->
+    <script src="../js/data/templateData.js" type="text/javascript"></script>
+    <!-- [ / Data for Header and Footer ] -->
+    <script src="../js/data/activityList.js" type="text/javascript"></script>
+    <script src="../js/build/jsonRender.js"></script>
+	<script src="../js/data/slideData_15.js" type="text/javascript"></script>
+	</head>
+
+<body>
+    <div class="mask_parent">
+        <div class="mask_left"></div>
+        <div class="mask_right"></div>
+    </div>
+    <div class='loading'>
+        <div class="loader"></div>
+    </div>
+    <header class='fixed-top'></header>
+    <div class='mainContent' data-pageType="reading">
+        <!-- <div class="sub_footer_icon sub_footer_icon_left subFooterNav backNav mx-1">
+            <img src='../images/icons/back_btn.png' />
+        </div>
+        <div class="sub_footer_icon sub_footer_icon_right subFooterNav nextNav mx-1">
+            <img src='../images/icons/next_btn.png' />
+        </div> -->
+    </div>
+    
+
+    <!-- <div class="sub_footer">
+        <div class='container'>
+            <div class="d-flex justify-content-center">
+                <div class="d-flex align-self-end nav_ctrls">
+                    <div class="sub_footer_icon subFooterNav backNav mx-1">
+                        <img src='../images/icons/back_btn.png' />
+                    </div>
+                    <div class="sub_footer_icon subFooterNav nextNav mx-1">
+                        <img src='../images/icons/next_btn.png' />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <footer class='fixed-bottom'></footer>
+    <script>
+        var _mediaList = {
+            "image": [],
+            "audio": [],
+            "video": []
+        };
+		
+// non zero in textbox pagniation reading
+$('#txt_num').keypress(function (e) {
+            if (this.value.length == 0 && e.which == 48) {
+                return false;
+            }
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                //display error message
+                return false;
+            }
+        });
+
+    </script>
+    
+    
+    <script src='../js/build/toolbar.js' type='text/javascript'></script>
+    <script src="../js/build/template.js" type="text/javascript"></script>
+    <script src="../js/build/readingBuild.js" type="text/javascript"></script>
+    <script src='../js/audioControls.js' type="text/javascript"></script>
+    <script src="../js/reading_2.js" type="text/javascript"></script> 
+    <script src='../js/audioControls.js' type="text/javascript"></script>
+    <script src="../js/build/audio.js"></script>
+    <script src='../js/build/radio_build.js' type='text/javascript'></script>
+    <script src='../js/generalfunctions.js' type='text/javascript'></script>  
+    <script src='../js/loading.js' type='text/javascript'></script>    
+    <script src='../js/sketchpad.js' type='text/javascript'></script>
+</body>
+
+</html>

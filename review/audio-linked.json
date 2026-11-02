@@ -1,0 +1,250 @@
+[
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P10_1.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G3_U1_P10_1_data.js",
+    "text": "Read the description.",
+    "audio": "units\\Playhouse_G3_U1\\audios\\qa\\instruction-f2d4f3c90679.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P10_2.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G3_U1_P10_2_data.js",
+    "text": "Read and complete.",
+    "audio": "units\\Playhouse_G3_U1\\audios\\qa\\instruction-067737daec6d.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\fillin_text_3.html",
+    "data": "units\\Playhouse_G3_U10\\js\\data\\fillin_text_3_data.js",
+    "text": "Compare and write. Compare the two things in a sentence. Use the adjectives given.",
+    "audio": "units\\Playhouse_G3_U10\\audios\\qa\\instruction-57868a3534f0.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\views\\fillin_table.html",
+    "data": "units\\Playhouse_G3_U11\\js\\data\\fillin_table_data.js",
+    "text": "Survey. Read the questions and complete the survey of your classmates.",
+    "audio": "units\\Playhouse_G3_U11\\audios\\qa\\instruction-19a9e5ded585.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\reading_with_fillin.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\reading_with_fillin_data.js",
+    "text": "How does Jenny get to Lilly's house?",
+    "audio": "units\\Playhouse_G3_U15\\audios\\qa\\instruction-a6aa9bde757e.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\views\\fillin_text_with_background_image.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\fillin_text_with_background_image_data.js",
+    "text": "Write. Unscramble the sentences.",
+    "audio": "units\\Playhouse_G3_U3\\audios\\qa\\instruction-fd67bfa81cd7.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\js\\data\\fillin_text_4_2_data.js",
+    "text": "Read and complete.",
+    "audio": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\audios\\qa\\instruction-067737daec6d.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\views\\slide_reading.html",
+    "data": "units\\Playhouse_G3_U9\\js\\data\\slideData_reading.js",
+    "text": "Read. What room is Ethan talking about? What words did you see that helped you know which room it is?",
+    "audio": "units\\Playhouse_G3_U9\\audios\\qa\\instruction-1f5df033801f.mp3",
+    "verification": "Exact supplied transcript match; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U1/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U1\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U2/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U2\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U2\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U3/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U3\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U4/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U4\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U5/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U5\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U5\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U6/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U6\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U6\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U7/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U7\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U7\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U8/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U8\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U8\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U9/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U9\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U9\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U10/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U10\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U10\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U11/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U11\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U11\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U12/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U12\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U12\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U13/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U13\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U13\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U14/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U14\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U15/views/playhouse_intro.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\snapshotData.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U15\\audios\\qa\\read.mp3",
+    "verification": "Supplied UNIT 1 Read.mp3; browser playback pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U2/views/slide_reading.html",
+    "data": "units\\Playhouse_G3_U2\\js\\data\\slideData_reading.js",
+    "text": "Read. Read how Teresa and her family celebrate the new year. If you were Teresa, what else would you bring to the celebration? What wouldn't you bring to the celebration?",
+    "audio": "units\\Playhouse_G3_U2\\audios\\qa\\instruction-2d846d6a67c3.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U2/views/SB_G3_U2_P18_1.html",
+    "data": "units\\Playhouse_G3_U2\\js\\data\\SB_G3_U2_P18_1_data.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U2\\audios\\qa\\instruction-b00ccb589bce.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U3/views/slide_8.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\slideData_8.js",
+    "text": "Read. Read the text message. Does it sound like a fun trip? Why or why not?",
+    "audio": "units\\Playhouse_G3_U3\\audios\\qa\\instruction-92eec29ba670.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U3/views/SB_G3_U2_P18_1.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\SB_G3_U2_P18_1_data.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U3\\audios\\qa\\instruction-b00ccb589bce.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U4/views/SB_G3_U2_P18_1.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\SB_G3_U2_P18_1_data.js",
+    "text": "Read the conversation.",
+    "audio": "units\\Playhouse_G3_U4\\audios\\qa\\instruction-c9bdbc42f4c8.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U5/views/reading_with_fillin.html",
+    "data": "units\\Playhouse_G3_U5\\js\\data\\reading_with_fillin_data.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U5\\audios\\qa\\instruction-b00ccb589bce.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U6/views/reading_with_fillin.html",
+    "data": "units\\Playhouse_G3_U6\\js\\data\\reading_with_fillin_data.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U6\\audios\\qa\\instruction-b00ccb589bce.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  },
+  {
+    "view": "units/Playhouse_G3_U7/views/reading_with_fillin.html",
+    "data": "units\\Playhouse_G3_U7\\js\\data\\reading_with_fillin_data.js",
+    "text": "Read.",
+    "audio": "units\\Playhouse_G3_U7\\audios\\qa\\instruction-b00ccb589bce.mp3",
+    "verification": "Replaced title reported mismatched in Missing Parts with supplied exact transcript; listening review pending",
+    "http_status": 200
+  }
+]

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        Right
+    </title>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+    <style id='ui_style'>
+    </style>
+   <link rel="stylesheet" href="../css/all.min.css">
+    <link rel="stylesheet" href="../css/all.min.css">
+    <link rel="stylesheet" href="../css/unit_styles.css">
+    <link rel="stylesheet" href="../css/styles.css">    
+    <link rel="stylesheet" href="../css/activities.css">
+    <!-- <link rel="stylesheet" href="../css/ASP_3_SB_U1_P1.css"> -->
+<link rel="stylesheet" href="../css/fillin_square.css">
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../js/bootstrap/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js" text="text/javascript"></script>
+    <!-- [ Data for Header and Footer ] -->
+    <script src="../js/data/templateData.js" type="text/javascript"></script>
+    <!-- [ / Data for Header and Footer ] -->
+    <!-- [ Data containing all activity files ] -->
+    <script src="../js/data/activityList.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="../css/audio.css">
+    <script src="../js/build/jsonRender.js"></script>
+    <script src="../js/data/fillin_square_data.js" type="text/javascript"></script>
+    <!-- [ / Data containing all activity files ] -->
+</head>
+
+<body>
+    <div class="mask_parent">
+        <div class="mask_left"></div>
+        <div class="mask_right"></div>
+    </div>
+    <div class='loading'>
+        <div class="loader"></div>
+    </div>
+    <header class='fixed-top'></header>
+    <div class='mainContent'>
+       <div id="feedbackPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div>
+                        <button type="button" class="close closeFeedback" data-dismiss="modal">
+                            &times;</button> 
+                    </div>
+                    <div class="modal-body">
+                        <video id="video_1" src="../videos/goodjob.mp4" preload></video> 
+                        <video id="video_2" src="../videos/tryagain.mp4" preload></video>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="container content_wrap activity_wrap">
+            <!-- screen numbering starts here  -->
+            <div class='screen_numbers_wrap'>
+            </div>
+            <!-- // screen numbering ends here  -->
+            <!-- activity panel content starts here  -->
+            <div class='activity_buts d-none' data-buttons='ccss,link,homework,tips'>
+                <div class='ccss_content'>RF.3.3</div>
+				 <div class='link_content' data-height=''>
+                    <a href='../../../ARC_3_SB/ARC_3_SB_U1/index.html' target="blank">playhouse Reading Unit 1 <span style="letter-spacing: -3.5px;">-----</span>&nbsp;&nbsp;Bear&apos;s Plum Tree</a>
+                </div>
+                <div class='tips_content' data-height=''>
+                    <span class="pop_title">Digraphs and Trigraphs (<span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:green'>ch</span>, <span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:green'>tch</span>)</span><br />
+                    <span>The digraph <span style="color: red;"><span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:orange|border-bottom-color:orange'>ch</span></span> and the trigraph <span style="color: red;"><span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:orange|border-bottom-color:orange'>tch</span></span> make the <span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:orange|border-bottom-color:orange' style="color: red;">/ch/</span> sound as in <span style="color: red;"><span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:orange|border-bottom-color:orange'>ch</span></span>erry and ca<span style="color: red;"><span  class='audioBox audioSpace' data-audio='../audios/playhousePhonemes-54.mp3' data-onaudioplay='color:orange|border-bottom-color:orange'>tch</span></span>.</span><br/>
+     
+                </div>                
+                <div class='homework_content'> Say each spelling word aloud and spell it in the air.</div>
+            </div>
+            <!-- // activity panel content ends here  -->
+            <div class='activity_area fill_in mx-auto'>
+
+
+
+            </div><!-- ends here -->
+        </div><!-- / container content_wrap -->
+    </div>
+	 <div class="modal fade activityCtrlPanel" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">      
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <div class="ctrlIcon">
+                    </div>				
+                    <h4 class="modal-title"></h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>                
+                <!-- Modal body -->
+                <div class="modal-body">                                           
+                </div>                
+            </div>
+        </div>
+    </div>
+    <!-- activity panel popup starts here  -->
+ 
+    <!-- // activity panel popup ends here  -->
+    <div class="sub_footer" style="display: none;">        
+        <!-- the sub-footer starts here  -->
+        <div class='container sub_footer_buttons_wrap'></div>
+        <!-- // the sub-footer ends here  -->
+    </div>
+    <footer class='fixed-bottom'></footer>
+    <script>
+        var _mediaList = {
+            "image": [],
+            "audio": [],
+            "video": []
+        };
+    </script>
+
+    <script src="../js/build/template.js" type="text/javascript"></script>
+    <script src='../js/generalfunctions.js' type='text/javascript'></script>
+    <script src="../js/build/fillin_square.js" type="text/javascript"></script>
+    <script src="../js/activity/wordsearch_draw.js" type="text/javascript"></script>
+    <script src="../js/activities.js" type="text/javascript"></script>
+<script src="../js/build/audio.js"></script>
+<script src='../js/build/radio_build.js' type='text/javascript'></script>
+    <script src='../js/loading.js' type='text/javascript'></script>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+Grade 3 review, 2026-10-21
+Independent working copy: D:/Playhouse/PH 3 Final
+Original remote push disabled; no publication performed.
+QA: 23 items corrected, 1 partially corrected (country inconsistency retained), 1 not reproduced, 5 retained per user decision.
+31 instruction audio controls linked: Read in 15 units, 8 missing exact transcript matches, and 8 replacement clips for instructions reported mismatched in Missing Parts. All audio URLs returned HTTP 200. Listening verification remains separate.
+Missing Parts CSV is a review queue, not an asset request list. Remaining image/audio observations still require page-by-page comparison.
+
+Castle illustration on SB p64 connected and visually checked. Seven confirmed artwork request groups saved in asset-requests.html. Remaining audio/panel audit is open.
+2026-10-21: Installed 13 supplied PNG/SVG assets for WB8/SB16/WB20/WB22/SB45. Added WB22 qu colour-and-write activity to navigation. Verified wrong answers trigger Try again and six correct words plus colouring queen/quilt/quarter trigger Good job; reset clears all answers and marks. Broader audio/panel audit remains open. Local changes only.
+2026-10-22: Restored SB37 and SB101 Sentence Building panels; seven panels remain absent (SB9,17,25,45,53,81,93). Browser tested 16 closed-answer exercises for wrong/correct/reset, plus 4 word-selection exercises for correct/Good job. 505 listed page files exist. Inspected 93 remaining visible title controls: missing target files, recording content identity unresolved. See audit-2026-10-22.html. No publication.
+2026-10-22: SB page 9 Sentence Building restored from six supplied SVG assets; book layout matched, both frog toggles verified. Six sentence panels remain.
+
+2026-10-22: SB17 panel installed; both frog toggles verified. Supplied examples SVG says Be care ful!; corrected asset requested. Five sentence panels remain.
+
+2026-10-22: SB25 restored above Read and then tick in U3/views/SB_G3_U2_P15_1.html; supplied examples and rule retained per book; frog toggle verified. Four sentence panels remain.
+
+2026-10-22: SB37 replaced recovered panel with supplied artwork and moved it above direct-speech exercise U4/views/fillin_columns.html. Old panel removed from qu-word exercise. Frog toggle verified.
+
+2026-10-22: SB45 supplied panel installed above U5/views/howmuchmany.html. Both frog toggles verified. Three sentence panels remain (53, 81, 93).
+
+2026-10-22: SB53 supplied panel installed above U5/views/wordplacement.html. Both frog toggles verified. Two sentence panels remain (81, 93).
+
+2026-10-22: SB65 old very/too panel replaced with supplied SVG artwork above U7/views/fillin_text_2.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB73 old plural nouns panel replaced with supplied SVG artwork above U7/views/fillin_text_image_2.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB81 supplied conjunctions panel installed above U9/views/circle_word_in_sentence_2.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB93 supplied syllables panel installed above U10/views/circle_number.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB101 supplied comparative and superlative panel installed above U11/views/fillin_text_4.html. Both frog toggles verified; exercise retained.
+SB101 supplied central SVG contains internal word spaces: butter fly, butter flies, colour ful. Replacement artwork needed; asset kept as supplied.
+
+2026-10-22: SB109 supplied collective nouns panel installed above U12/views/drag_drop_text_2.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB121 supplied going to questions panel installed above U13/views/fillin_columns.html. Single frog toggle verified; exercise retained.
+
+2026-10-22: SB129 supplied for and since panel installed above U14/views/fillin_columns.html. Both frog toggles verified; exercise retained.
+
+2026-10-22: SB137 supplied abbreviations panel installed above U15/views/fillin_text.html. Both frog toggles verified; exercise retained.
+2026-10-22: Replaced supplied SB17 and SB101 central artwork. SB17 Be careful fixed. SB101 colourful, butterflies and second butterfly fixed; first sentence still shows butter fly. Verified visually.
+2026-10-22: SB101 final replacement visually verified. First butterfly corrected; all reported internal word-spacing issues in SB17 and SB101 artwork are closed.
+
+Final follow-up: 124 audio candidate pages checked; 3 exact-transcript links fixed; 109 visible instruction links unresolved; 12 excluded. Animated GRAMMAR labels fixed in 15 units, stereo guard in 30 scripts. QA and Missing Parts trackers reconciled; limits in audit HTML.
+
+Publication BLOCKED: Netlify HTTP 403 account credit usage exceeded. Final audit fixes are local/staged only; prior production unchanged.
+
+2026-10-25: Published latest staged runtime to Vercel team bytech3, project ph-3-final. Deployment dpl_F1nuYCPhEAaEkWjNb9ZpCLSmQVrH confirmed READY by CLI and Vercel API. Production URL: https://ph-3-final-nu.vercel.app/ . Includes final audit fixes. Public HTTP/browser verification not completed: connection reset locally, browser observation blocked by URL policy. Netlify production unchanged.
+

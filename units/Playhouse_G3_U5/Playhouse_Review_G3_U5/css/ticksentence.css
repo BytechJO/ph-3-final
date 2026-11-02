@@ -1,0 +1,131 @@
+.all_cont{
+    /* height: 100%; */
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.orange_text{
+    color: #f26521;
+}
+
+.ts_group{
+    width: 75%;
+    /* max-width: 650px; */
+    row-gap: 22px;
+}
+.ts_item{
+    width: 100%;
+    margin-bottom: 20px;
+    align-items: flex-start;
+}
+
+.q_num_space{
+    width: 30px;
+    font-weight: bold;
+    margin-right: 10px;
+    flex-shrink: 0;
+    padding-top: 4px;
+}
+
+.ts_options_col{
+    flex: 1;
+}
+
+.ts_option_row{
+    gap: 12px;
+    padding: 4px 0;
+}
+
+
+.ts_optionText{
+        font-family: Arcon;
+    font-size: 24px;
+    color: black;
+    width: 300px;
+    text-align: start;
+}
+
+.ts_checkbox{
+    width: 40px;
+    height: 40px;
+    border: 2px solid #666;
+    border-radius: 4px;
+    flex-shrink: 0;
+    cursor: pointer;
+    background: #fff;
+    position: relative;
+}
+
+
+.ts_checkbox.ts_checked::after{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: 12px;
+    width: 12px;
+    height: 36px;
+    border: solid #2f6fb3;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+
+/* .ts_option_row.ts_right .ts_checkbox.ts_checked::after{
+    border-color: #2f9e44;
+}
+.ts_option_row.ts_right .ts_checkbox{
+    border-color: #2f9e44;
+}
+
+.ts_option_row.ts_wrong .ts_checkbox.ts_checked::after{
+    border-color: #d9364a;
+}
+.ts_option_row.ts_wrong .ts_checkbox{
+    border-color: #d9364a;
+} */
+
+.ts_image{
+    flex-shrink: 0;
+    width: 100px;
+    margin-left: 16px;
+}
+.ts_image img{
+    width: 100%;
+    height: auto;
+    border: 2px solid #eee;
+    border-radius: 8px;
+}
+
+.icon_wrap_holder{
+    flex-shrink: 0;
+    margin-left: 12px;
+}
+.icon_wrap .tick,
+.icon_wrap .cross{
+    display: none;
+    width: 30px;
+}
+.icon_wrap .tick img,
+.icon_wrap .cross img{
+    width: 100%;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .ts_item{
+        flex-wrap: wrap;
+    }
+    .ts_image{
+        width: 80px;
+        margin-left: 42px;
+        margin-top: 8px;
+    }
+    .ts_optionText{
+        font-size: 16px;
+    }
+}

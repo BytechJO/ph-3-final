@@ -1,0 +1,319 @@
+.all_cont,
+.screen_elements,
+.group_elm {
+    width: 100%;
+}
+
+.image_gap {
+    height: 100%;
+    width: intrinsic;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+    width: max-content;
+}
+
+.image_container {
+    position: absolute;
+    bottom: 0px;
+    right: 113px;
+    text-align: center;
+}
+
+.image_container img {
+    width: 300px;
+}
+
+.image_space {
+    height: 16vh;
+    margin: auto;
+    margin: 10px;
+    text-align: center;
+}
+
+.image_space img {
+    height: 100%;
+    width: auto;
+}
+
+.fillin_set {
+    padding: 10px;
+    display: flex;
+    width: 65%;
+}
+
+.fillin_gr input {
+    /* width: 70%; */
+    border: none;
+    border-bottom: 2px solid black;
+    flex: 1;
+}
+
+.img_fillin_gr {
+    width: 90%;
+    position: relative;
+}
+
+.fillin_gr .icon_wrap_holder {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/*.fillin_gr {
+    position: relative;
+}*/
+
+
+/* .q_space{
+  width: 100%; 
+} */
+
+.tick,
+.cross {
+    width: 32px;
+    height: 32px;
+}
+
+.clue_word {
+    margin: 15px;
+}
+
+.word_options {
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 8vh;
+    background-color: white;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
+
+.backNav {
+    left: 0;
+  }
+  
+  .nextNav {
+    right: 0;
+  }
+
+  .gray-col {
+    /* background-color: #ccc; */
+  }
+
+  td{
+    border: none;
+  }
+
+  tr:first-child{
+    background: #e1f4fd;
+  }
+
+  .flex-cell p {
+    font-size: 23px;
+  }
+
+  .flex-cell input{
+    background-color: transparent;
+    width: 100%;
+    margin: 0;
+    outline: none;
+    border-bottom: 4px dashed #85d5f67d !important;
+  }
+
+  .flex-cell{
+    /* background: #e1f4fd; */
+    border: none;
+    margin: 0px;
+    padding: 10px 20px;
+  }
+
+  .drag_drop_options {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+    background: transparent;
+    border: 2px solid transparent;
+    padding: 14px;
+    border-radius: 10px;
+    justify-content: space-around;
+    height: 100px;
+    min-height: 100px;
+    width: 999px;
+    min-width: 999px;
+    font-size: 33px;
+  }
+
+  .drag_drop_questions input{
+  }
+
+  .activity-content {
+    width: 85%;
+    margin: auto;
+    height: 506px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    }
+
+    .sentence-container {
+        width: 100%;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+/**** popup window ***/
+
+
+/* ====================================================== */
+
+
+/*              Media Queries Start                       */
+
+
+/* ====================================================== */
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1799.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1800px) */
+
+@media (max-width: 1799.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1399.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1400px) */
+
+@media (max-width: 1399.98px) {
+    .img_fillin_gr {
+        width: 60%;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1199.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+    .word_options {
+        margin-bottom: 1vh;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 991.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+    .img_fillin_gr {
+        width: 85%;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 767.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+
+    .image_gap {
+        margin: auto;
+    }
+
+    .img_fillin_gr {
+        width: 95%;
+    }
+
+    .fillin_set {
+        padding-right: 20px;
+    }
+
+    .tick,
+    .cross {
+        width: 20px;
+        height: 20px;
+    }
+
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 575.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+
+@media (max-width: 575.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 475.98px             */
+
+
+/* ------------------------------------------------*/
+
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {
+    .img_fillin_gr {
+        width: auto;
+    }
+}

@@ -1,0 +1,50 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text {
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.freewrite_group{
+    width: 95%;
+    max-width: 800px;
+}
+
+.fw_textarea{
+    width: 100%;
+    min-height: 260px;
+    resize: vertical;
+    border: 2px solid #35a3d4;
+    border-radius: 12px;
+    background: #ffffff;
+    font-family: Arcon;
+    font-size: 19px;
+    color: black;
+    padding: 16px;
+    box-sizing: border-box;
+    line-height: 1.6;
+}
+
+.fw_textarea:focus{
+    outline: none;
+    border-color: #2f6fb3;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px) {
+    .fw_textarea{
+        font-size: 17px;
+        min-height: 200px;
+        padding: 12px;
+    }
+}

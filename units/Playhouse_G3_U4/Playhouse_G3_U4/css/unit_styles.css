@@ -1,0 +1,332 @@
+/* //  ****************************************** // */
+
+.act_head_group {
+    width: 81%;
+    margin: auto;
+}
+
+.q-type-img-container {
+    height: 50px;
+    position: relative;
+    margin-top: 18px;
+    margin-left: -30px;
+}
+
+
+.mainTitle {
+    height: 100%;
+}
+
+.mainTitleIcon {
+    right: -18px;
+    position: absolute;
+    height: 70px;
+    top: -15px;
+}
+
+.activityHeading {
+    font-family: Arcon;
+    font-weight: bold;
+    color: rgb(0, 185, 242);
+    font-size: 26px;
+}
+
+
+/* //  ActivitiesCSS - Version no: R-02
+/* // updated - July 10, 2020 
+/* //  ****************************************** // */
+
+
+/**************** fonts ***************/
+
+
+/**************** default - should be there in all units - don't remove or replace ***************/
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('./fonts/CenturyGothic.woff2') format('woff2'), url('./fonts/CenturyGothic.woff') format('woff'), url('./fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+}
+
+
+/**************** default - should be there in all units - don't remove or replace ***************/
+
+@font-face {
+    font-family: RifficFree;
+    src: url('./fonts/RifficFree-Bold.ttf');
+}
+
+@font-face {
+    font-family: ComingSoon;
+    src: url('./fonts/ComingSoon.ttf');
+}
+
+@font-face {
+    font-family: Arcon;
+    src: url('./fonts/Arcon-Regular.otf');
+}
+
+@font-face {
+    font-family: AvantGarde;
+    src: url('./fonts/AvantGardeDemiBT.ttf');
+}
+
+@font-face {
+    font-family: QuicksandBook;
+    src: url('./fonts/Quicksand_Book.otf');
+}
+
+@font-face {
+    font-family: SimplyRounded;
+    src: url('./fonts/Simply Rounded.ttf');
+}
+
+@font-face {
+    font-family: TwCenMTBoldItalic;
+    src: url('./fonts/Tw Cen MT Bold Italic.ttf');
+}
+
+@font-face {
+    font-family: TwCenMTBold;
+    src: url('./fonts/Tw Cen MT Bold.ttf');
+}
+
+@font-face {
+    font-family: TwCenMT;
+    src: url('./fonts/Tw Cen MT.ttf');
+}
+
+@font-face {
+    font-family: avantgardeitcbybt-Book;
+    src: url('./fonts/avantgardeitcbybt-Book.ttf');
+}
+
+
+/* @font-face {
+  font-family: "Font Awesome 5 Free";
+  src: url('./fonts/FontAwesome_0.otf');
+} */
+
+@font-face {
+    font-family: ZNuscriptHeavy;
+    src: url('./fonts/ZNuscriptHeavy.ttf');
+}
+
+
+/**************** fonts end ***************/
+
+
+/**************** Unit Color code ***************/
+.unitTitleText {
+    padding-left: 2px;
+}
+
+.unit_color_text {
+    color: #3582b4;
+}
+
+.unit_color_bg {
+    background-color: #3582b4;
+}
+
+.unit_color_border {
+    border-color: #3582b4;
+}
+
+.blue_text{
+     color: #00aeef;
+}
+/**************** Unit Color code end***************/
+
+.activityTitle,
+.sub_title {
+    color: #3582b4;
+}
+
+
+/************** welcome BG *****************/
+
+.welcomeImg {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../images/pages/welcome/AGW_1_SB_U15.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-position-x: 40%;
+    position: absolute;
+    z-index: -2;
+}
+
+.wel-scr-text {
+    font-family: RifficFree;
+    color: #3c8780;
+    text-shadow: 2px 2px 0 #fff, -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff;
+}
+
+.img_space img {
+    width: 75%!important;
+}
+
+
+/************** header *****************/
+
+header {
+    background-position-y: -10px;
+}
+
+footer {
+    background-position-y: 8px;
+}
+
+.fixed-top {
+    /* background-size: 100%;
+    background-position: 20% 0;
+    background-repeat: no-repeat; */
+    background-position: 10% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1050;
+}
+
+
+/**End**/
+
+
+/* ====================================================== */
+
+
+/*              Media Queries Start                       */
+
+
+/* ====================================================== */
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1799.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1800px) */
+
+@media (max-width: 1799.98px) {
+    .welcomeImg {       
+        background-position-x: 34%;       
+    }
+    header {
+        background-position-y: -19px;
+    }
+    .fixed-top {
+        background-position: 20% 0;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1399.98px */
+
+
+/* ------------------------------------------------*/
+
+@media (max-width: 1399.98px) {
+    .welcomeImg {       
+        background-position-x:center;       
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1199.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+    footer {
+        background-position-y: 0;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 991.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+    /* .welcomeImg {
+        background-size: 100%;
+    } */
+
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 767.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+    /* .welcomeImg {
+        background-size: 145%;
+    } */
+
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 575.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+
+@media (max-width: 575.98px) {
+
+    header {
+        background-position-y: -30px;
+      } 
+    /* .welcomeImg { */
+        /* background-size: 250%; */
+    /* } */
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 475.98px             */
+
+
+/* ------------------------------------------------*/
+
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {}

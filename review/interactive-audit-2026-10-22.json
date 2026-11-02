@@ -1,0 +1,222 @@
+[
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P6_2.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P10_2.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\fillin_text_3.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\views\\fillin_text_3.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\fillin_complete_word.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\reading_with_fillin.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_G3_U2\\views\\WB_G3_U2_P9_1.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\views\\fillin_text_with_background_image.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\fillin_text_in_sentences_2.html",
+    "wrong": "Try again and crosses verified",
+    "correct": "Good job and ticks verified",
+    "reset": true
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_G3_U2\\views\\WB_G3_U2_P10_2.html",
+    "wrong": {
+      "crosses": 6,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 6,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\circle_word_in_sentence_2.html",
+    "wrong": {
+      "crosses": 5,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 5,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\circle_word_in_sentence_3.html",
+    "wrong": {
+      "crosses": 4,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 4,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\views\\SB_G3_U2_P14_2.html",
+    "wrong": {
+      "crosses": 6,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 6,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_G3_U8\\views\\circle_word_in_sentence.html",
+    "wrong": {
+      "crosses": 5,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 5,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_G3_U9\\views\\multiple_choice.html",
+    "wrong": {
+      "crosses": 8,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 8,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\views\\multiple_choice_story.html",
+    "correct": {
+      "crosses": 0,
+      "ticks": 4,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\views\\SB_G2_U2_P20_2.html",
+    "correct": {
+      "crosses": 0,
+      "ticks": 6,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G2_U2_P20_2.html",
+    "correct": {
+      "crosses": 0,
+      "ticks": 5,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\multiple_choice_story.html",
+    "correct": {
+      "crosses": 0,
+      "ticks": 7,
+      "video": [
+        "video_1"
+      ]
+    }
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\views\\SB_G3_U2_P18_1.html",
+    "wrong": {
+      "crosses": 1,
+      "ticks": 0,
+      "video": [
+        "video_2"
+      ]
+    },
+    "reset": true,
+    "correct": {
+      "crosses": 0,
+      "ticks": 1,
+      "video": [
+        "video_1"
+      ]
+    }
+  }
+]

@@ -1,0 +1,303 @@
+.all_cont {
+  /* height: 100%; */
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.screan_elements {
+  width: 90%;
+}
+
+.group_elm {
+  width: 100%;
+  /* font-size: 25px; */
+}
+
+:root {
+  --temp: #a8ddf7;
+}
+
+.image_gap {
+  height: 100%;
+  width: intrinsic;
+  width: -moz-max-content;
+  width: -webkit-max-content;
+  width: max-content;
+}
+
+.image_container {
+  position: absolute;
+  bottom: 0px;
+  right: 113px;
+  text-align: center;
+}
+
+.image_container img {
+  width: 300px;
+}
+
+.image_space {
+  height: 16vh;
+  margin: auto;
+  margin: 10px;
+  text-align: center;
+}
+
+.image_space img {
+  height: 100%;
+  width: auto;
+}
+
+.fillin_set {
+  display: flex;
+  font-size: 26px;
+  padding: 0px 10px;
+  border-radius: 15px;
+  height: 40px;
+  align-items: center;
+  margin: 5px;
+}
+
+.fillin_set input {
+  text-align: center;
+  border: none;
+  border-bottom: 2px solid #000;
+}
+
+.fillin_gr input {
+  /* border: none; */
+  flex: 1 1 44.444%;
+  outline: none !important;
+}
+
+table {
+  text-align: center;
+  margin-left: 50px;
+}
+
+.Box {
+  font-size: 28px;
+  padding: 0px 10px;
+
+  height: 7vh;
+  align-items: center;
+  margin: 5px;
+  background-color: #ceecfbaa;
+  border: 2px solid var(--temp);
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+td {
+  vertical-align: top;
+}
+
+th .Box {
+  /* width: 220px; */
+  text-align: center;
+  justify-content: center;
+}
+
+.img_fillin_gr {
+  width: 90%;
+  position: relative;
+}
+
+.fillin_gr .icon_wrap_holder {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.fillin_gr {
+  width: 100%;
+  position: relative;
+}
+
+.q_title {
+  font-size: 27px !important;
+}
+
+.icon_wrap {
+  position: absolute;
+  right: 0;
+}
+
+.tick,
+.cross {
+  width: 32px;
+  height: 32px;
+}
+
+.clue_word {
+  margin: 3px 12px;
+  width: 110px;
+}
+
+.word_options {
+  width: 65%;
+  font-size: 22px;
+  border: 2px solid var(--temp);
+  border-radius: 20px;
+  margin-bottom: 40px;
+  background-color: #e4f5fdaa;
+}
+
+.word_opt_sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 5;
+}
+
+.pr-15 {
+  padding-right: 15px;
+}
+
+/**** popup window ***/
+
+
+/* ====================================================== */
+
+
+/*              Media Queries Start                       */
+
+
+/* ====================================================== */
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1799.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1800px) */
+
+@media (max-width: 1799.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1399.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1400px) */
+
+@media (max-width: 1399.98px) {
+  .img_fillin_gr {
+    width: 60%;
+  }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1199.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+  .word_options {
+    margin-bottom: 1vh;
+  }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 991.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+  .img_fillin_gr {
+    width: 85%;
+  }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 767.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+
+  .image_gap {
+    margin: auto;
+  }
+
+  .img_fillin_gr {
+    width: 95%;
+  }
+
+  .fillin_set {
+    padding-right: 20px;
+  }
+
+  .tick,
+  .cross {
+    width: 20px;
+    height: 20px;
+  }
+
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 575.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+
+@media (max-width: 575.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 475.98px             */
+
+
+/* ------------------------------------------------*/
+
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {
+  .img_fillin_gr {
+    width: auto;
+  }
+}

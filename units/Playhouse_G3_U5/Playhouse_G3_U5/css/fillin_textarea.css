@@ -1,0 +1,57 @@
+.options {
+    width: 85%;
+    align-items: center;
+    margin: 0px auto;
+}
+.amin-Activityheading{
+    width: fit-content;
+}
+.activityHeading b {
+    color: #000;
+}
+
+.func_ctrls {
+    display: none !important;
+}
+
+.textarea-container {
+    background-image: url('../images/pages/activities/BOOKS.jpg');
+    background-size: cover;
+    padding: 20px;
+    width: 80%;
+    height: auto;
+    border: solid 1px rgb(0, 185, 242);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.text_input_area {
+    flex: 1;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#paper-textarea {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    padding: 0px 3px;
+    line-height: 50.7px;
+    font-size: 24.8px;
+    overflow: hidden;
+}
+
+
+textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+@media (max-width: 768px) {
+    
+    #paper-textarea {
+        line-height: 54.7px;
+}
+}

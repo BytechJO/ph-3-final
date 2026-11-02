@@ -1,0 +1,297 @@
+.all_cont{
+    /* height: 100%; */
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.group_elm{
+    /* width: 80%; */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.activityHeading b {
+    color: #000;
+}
+
+.q_num_space{
+    width: 40px;
+    font-weight: bold;
+}
+
+/* ===========================================================
+   image_space: بدل الارتفاع الثابت px، صار aspect-ratio
+   ✳️ عدّل الرقمين (عرض/ارتفاع) حسب أبعاد الصورة الحقيقية عندك
+   =========================================================== */
+.image_space {
+    width: 75%;
+    aspect-ratio: 941 / 342; /* عدّلها حسب أبعاد صورك */
+    margin: 0px auto;
+    position: relative;
+}
+
+.image_space img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill; /* بما إنه aspect-ratio مطابق للصورة، fill ما بيشوهها */
+    display: block;
+}
+
+.q_order{
+    width: 50px;
+    font-weight: bolder;
+}
+
+.ques{
+    width: 100%;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+/* q_box: شيلنا الـ height الثابت، بيتحدد تلقائيًا حسب المحتوى */
+.q_box{
+    width: 100%;
+}
+
+/* ===========================================================
+   q_image: نفس مبدأ image_space — aspect-ratio بدل px ثابت
+   هاد هو الـ container يلي لازم يحتوي background-image + .que
+   ✳️ عدّل الأرقام حسب أبعاد كل صورة سؤال (أو خليها موحدة إذا نفس المقاس)
+   =========================================================== */
+.q_image {
+    width: 50%;
+    aspect-ratio: 500 / 170; /* عدّلها حسب أبعاد صورك */
+    position: relative;
+}
+
+.q_image .back_img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    display: block;
+}
+
+.fill_in .que {
+    font-size: clamp(14px, 2vw, 25px); /* بدل px ثابت، بيتناسب مع حجم الشاشة */
+    position: absolute;
+    top: 0;
+    text-align: left;
+}
+
+/* أسئلة 2 و4 و6 بأبعاد مختلفة شوي عن البقية */
+.q_image[data-qno="2"] .back_img,
+.q_image[data-qno="4"] .back_img,
+.q_image[data-qno="6"] .back_img {
+    aspect-ratio: 500 / 154; /* عدّلها حسب أبعاد صورك */
+}
+
+.textEnd {
+    width: 43%;             /* بدل 406px الثابت */
+    position: absolute;
+    bottom: 1%;
+    font-size: clamp(14px, 2vw, 25px);
+    text-align: left;
+}
+
+/* =========================================================
+   مواقع الانبوتات لكل سؤال — كلها % بدل px حتى تضل ثابتة
+   بالنسبة للصورة مهما تغير حجم الشاشة
+   ========================================================= */
+
+/* 1 */
+.q_image[data-qno="1"] .que {
+    top: 6%;
+    left: 40%;
+    width: 55%;
+}
+
+/* 2 */
+.q_image[data-qno="2"] .que {
+    top: 20%;
+    left: 5%;
+    width: 55%;
+}
+.q_image[data-qno="2"] .textEnd {
+    left: 6%;
+}
+
+/* 3 */
+.q_image[data-qno="3"] .que {
+    top: 14%;
+    left: 31%;
+    width: 55%;
+}
+.q_image[data-qno="3"] .que input {
+    width: 100%; /* بدل 360px الثابت */
+}
+.q_image[data-qno="3"] .textEnd {
+    left: 32%;
+}
+
+/* 4 */
+.q_image[data-qno="4"] .que {
+    top: 6%;
+    left: 8%;
+    width: 55%;
+}
+.q_image[data-qno="4"] .textEnd {
+    left: 30%;
+}
+
+/* 5 */
+.q_image[data-qno="5"] .que {
+    top: 4%;
+    left: 40%;
+    width: 55%;
+}
+.q_image[data-qno="5"] .textEnd {
+    left: 36%;
+}
+
+/* 6 */
+.q_image[data-qno="6"] .que {
+    top: 12%;
+    left: 2%;
+    width: 55%;
+}
+.q_image[data-qno="6"] .textEnd {
+    left: 6%;
+}
+/* ======================================== */
+
+.fillin_gr .q_space {
+    width: 100%;
+}
+
+.fillin_set {
+    font-family: Arcon;
+    color: black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fillin_set input:focus{
+    outline: none;
+}
+
+/* fillin_set input: بدل width ثابت px صار نسبي */
+.fillin_set input {
+    width: 90%;
+    max-width: 335px;
+    height: 35px;
+    color: black;
+    font-size: clamp(14px, 1.6vw, 23px);
+    border: none;
+    margin: 0px 15px;
+    background-color: transparent;
+    border-bottom: 2px solid #595a5a;
+}
+
+.icon_wrap {
+    /* position: absolute;
+    margin-top: -35px; 
+    right: 100px; */
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    padding: 2px 27px;
+    font-size: 22px;
+}
+
+.word_options {
+    width: 100%;
+    border-radius: 10px;
+    background-color: #c3f4ff8c;
+}
+
+.word_opt_sticky {
+    width: 100%;
+    margin: 0px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+    border: 2px solid var(--temp);
+    border-radius: 10px;
+}
+
+.words-list li{
+    height: 110px;
+    font-weight: bolder;
+    color: black;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.right-content .p-0{
+    height: 110px;
+    border: 1px solid black;
+}
+
+.tips_content img {
+    height: 30px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.image-container{
+    position: absolute;
+    right: 260px;
+    bottom: 50px;
+}
+
+.image-container img{
+    width: 300px;
+    height: 210px;
+    margin: 0px 70px;
+    object-fit: cover;
+    border-radius: 15px;
+    border: 2px solid #36a0c7;
+}
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 60%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 70%;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

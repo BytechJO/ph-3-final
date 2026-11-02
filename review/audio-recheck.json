@@ -1,0 +1,5320 @@
+[
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P6_4.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G3_U1_P6_4_data.js",
+    "title": " 4   You do it.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios//page_4/UNIT_1_Where_Are_You_From.mp3",
+        "text": "Where Are You From?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_6/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 You do it."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Write five questions like the ones above on a piece of paper. Ask a friend, classmate or family member the questions and add their answers"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G2_U2_P20_2.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G2_U2_P20_2_data.js",
+    "title": " 2  Circle the ‘pl’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios//page_4/UNIT_1_Where_Are_You_From.mp3",
+        "text": "Where Are You From?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_9/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘pl’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P9_4.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G3_U1_P9_4_data.js",
+    "title": " 1  Read and write the sentences with proper capitalisation. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios//page_4/UNIT_1_Where_Are_You_From.mp3",
+        "text": "Where Are You From?"
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Read and write the sentences with proper capitalisation."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1    He lives in kenya"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2    I am from poland. I am Polish"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3    She is from america. She is American"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\views\\SB_G3_U1_P10_3.html",
+    "data": "units\\Playhouse_G3_U1\\js\\data\\SB_G3_U1_P10_3_data.js",
+    "title": " 3  Write about yourself and a friend. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios//page_4/UNIT_1_Where_Are_You_From.mp3",
+        "text": "Where Are You From?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write about yourself and a friend."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": "Example: My name is Marco and this is my friend Elina. I am from Mexico and Elina is from Russia. I am Mexican and Elina is Russian. We like to play games. Our favourite game is football."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\js\\data\\fillin_text_4_data.js",
+    "title": " 1  Complete each country’s name. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Complete each country’s name."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Am"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "r"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "C"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "lo"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "L"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "b"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "n"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Pol"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "J"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "p"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "K"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "n"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "E"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "gl"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Rus"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "A"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "tr"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "l"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "In"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\views\\fillin_text_in_sentences_under_ques.html",
+    "data": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\js\\data\\fillin_text_in_sentences_under_ques_data.js",
+    "title": " 2  Complete. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Complete."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "She is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "He is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "They are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "We are"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\views\\match_text_vertical.html",
+    "data": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\js\\data\\match_text_vertical_data.js",
+    "title": " 3  Read and match. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Read and match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a What is your name?"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "b How old are you?"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "c Where are you from?"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "d Who is that girl?"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "e When did you come to England?"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "1 She is my sister."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "2 My name is Jessica."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "3 I came two years ago."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "4 I am 10 years old."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "5 I am from India."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\views\\circlecolour.html",
+    "data": "units\\Playhouse_G3_U1\\Playhouse_Review_G3_U1\\js\\data\\circlecolour_data.js",
+    "title": " 4  Colour the  ‘pl’  words. Circle the  ‘pl’  in each word ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Colour the ‘pl’ words. Circle the ‘pl’ in each word"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\fillin_text_P23_2.html",
+    "data": "units\\Playhouse_G3_U10\\js\\data\\fillin_text_P23_2_data.js",
+    "title": " 3  Using the conversation above, describe your favourite Ice Age animal. ",
+    "audio": "../audios/new/p36write.mp3",
+    "matches": [
+      "units\\Playhouse_G3_U4\\audios\\new\\p36write.mp3"
+    ],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_88/UNIT_10_The_Time_of_the_Ice_Age.mp3",
+        "text": "The Time of the Ice Age"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_89/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/new/p36write.mp3",
+        "text": "3 Using the conversation above, describe your favourite Ice Age animal."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U10\\js\\data\\multiple_choice_story_data.js",
+    "title": " 2  Circle the ‘aw’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_88/UNIT_10_The_Time_of_the_Ice_Age.mp3",
+        "text": "The Time of the Ice Age"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_93/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘aw’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Look and write.  Write the correct comparative form of each verb.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "10"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Look and write. Write the correct comparative form of each verb."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Helen is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "than Sara. (tall)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Greg’s hair is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "than John’s hair. (dark)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "The sabre-toothed cat is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "than a cat. (large)"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\views\\circle_word_in_sentence.html",
+    "data": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\js\\data\\circle_word_in_sentence_data.js",
+    "title": " 3  Read the sentence and circle T if it’s true and F if it’s false. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "10"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Read the sentence and circle T if it’s true and F if it’s false."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The woolly mammoth has two tusks."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The giant ground sloth has scales."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The coelacanth has paws."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The sabre-toothed cat has fur."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The giant ground sloth has claws."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\js\\data\\fillin_text_4_data.js",
+    "title": " 4  Write the  ‘aw’  words for each picture. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "10"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write the ‘aw’ words for each picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\views\\fillin_table_2.html",
+    "data": "units\\Playhouse_G3_U11\\js\\data\\fillin_table_2_data.js",
+    "title": " 2  Write. Write the superlative form of each word.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_96/UNIT_11_Bugs_Big_and_Small.mp3",
+        "text": "Bugs, Big and Small"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write. Write the superlative form of each word."
+      },
+      {
+        "cls": "audioIcon",
+        "path": "../audios/under.mp3",
+        "text": "safe"
+      },
+      {
+        "cls": "audioIcon",
+        "path": "../audios/under.mp3",
+        "text": "funny"
+      },
+      {
+        "cls": "audioIcon",
+        "path": "../audios/under.mp3",
+        "text": "thin"
+      },
+      {
+        "cls": "audioIcon",
+        "path": "undefined",
+        "text": "great"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U11\\js\\data\\multiple_choice_story_data.js",
+    "title": " 2  Circle the ‘oi’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_96/UNIT_11_Bugs_Big_and_Small.mp3",
+        "text": "Bugs, Big and Small"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_101/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘oi’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\views\\fillin_square.html",
+    "data": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\js\\data\\fillin_square_data.js",
+    "title": " 2  Find and circle. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "11"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Find and circle."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 3  Write the correct superlative form of the adjective. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "11"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write the correct superlative form of the adjective."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 Susan is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(tall) in her family."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 This spider is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(scary) one I’ve ever seen."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 I saw"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "(pretty) butterfly ever."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 That was"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(long) story I’ve ever read."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 I think that cats are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(cute) pets."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "6 You have"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "(shiny) hair of all the girls in my class."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\views\\index_lookcirclewrite.html",
+    "data": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\js\\data\\lookcirclewrite_data.js",
+    "title": " 4  Look, circle and write. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "11"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Look, circle and write."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\views\\fillin_text_4.html",
+    "data": "units\\Playhouse_G3_U12\\js\\data\\fillin_text_4_data.js",
+    "title": " 3  Think about it. Which sea creatures would you like to see?",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_104/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_105/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Think about it. Which sea creatures would you like to see?"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\views\\fillin_text_3.html",
+    "data": "units\\Playhouse_G3_U12\\js\\data\\fillin_text_3_data.js",
+    "title": " 2   Describe. Describe your friend and yourself. What do you have in common? Use as + adjective + as in your sentences.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_104/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2  Describe. Describe your friend and yourself. What do you have in common? Use as + adjective + as in your sentences."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U12\\js\\data\\multiple_choice_story_data.js",
+    "title": " 2  Circle the ‘ee’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_104/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_109/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘ee’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Write the correct form of the adjective using the as + adjective + as form. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "12"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write the correct form of the adjective using the as + adjective + as form."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 The shrimp is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(delicious) a lobster."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 The eel swims"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(fast) a fish."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 Her house is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "(nice) my house."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 The bird flies"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "(high) a plane."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\js\\data\\fillin_text_4_data.js",
+    "title": " 3  Write the ‘ee’ words for each picture.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "12"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write the ‘ee’ words for each picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\views\\unscramblewrite.html",
+    "data": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\js\\data\\unscramblewrite_data.js",
+    "title": " 4  Unscramble each sentence and write it on the line below it. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "12"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Unscramble each sentence and write it on the line below it."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\views\\slide_img_2.html",
+    "data": "units\\Playhouse_G3_U13\\js\\data\\slideData_img_2.js",
+    "title": " 2  You do it. Can you spot the differences? Write three things that are different between pictures A and B. Then share with your class.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_116/UNIT_13_Were_Going_to_Pack.mp3",
+        "text": "We're Going to Pack!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_117/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 You do it. Can you spot the differences? Write three things that are different between pictures A and B. Then share with your class."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_121/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_121/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U13\\js\\data\\multiple_choice_story_data.js",
+    "title": " 1   Circle the ‘ ar ’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_116/UNIT_13_Were_Going_to_Pack.mp3",
+        "text": "We're Going to Pack!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_121/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1  Circle the ‘ar’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\views\\writing.html",
+    "data": "units\\Playhouse_G3_U13\\js\\data\\writing_data.js",
+    "title": " 2  Write. What are you going to do tomorrow? What are you going to wear?",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_116/UNIT_13_Were_Going_to_Pack.mp3",
+        "text": "We're Going to Pack!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_122/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write.  What are you going to do tomorrow? What are you going to wear?"
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Use is/am/are + going to + verb to complete each sentence.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "13"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Use is/am/are + going to + verb to complete each sentence."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "write"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "shop"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "read"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "do"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "play"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "wash"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 He"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "the dishes."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 She"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "for food."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 Dan"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "with his friends."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\views\\circlecolour.html",
+    "data": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\js\\data\\circlecolour_data.js",
+    "title": " 3  Colour the ‘ar’ words and circle the ‘ar’ in each word. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "13"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Colour the ‘ar’ words and circle the ‘ar’ in each word."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\views\\circle_word_in_sentence.html",
+    "data": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\js\\data\\circle_word_in_sentence_data.js",
+    "title": " 4  Use the correct ‘to be’ verbs to complete each sentence. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "13"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Use the correct ‘to be’ verbs to complete each sentence."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "you going to pack for the holiday?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "Susan going to play today?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I going to be sick?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "George going to feel better?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I going to stay with you?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "you going to come to my house?"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\slide_without_background.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\slideData_without_background.js",
+    "title": " 2  You do it.  Practise the conversation with a partner. Try to add some of your own ideas and make a new conversation. Act out the conversation in front of the class.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_125/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 You do it.  Practise the conversation with a partner. Try to add some of your own ideas and make a new conversation. Act out the conversation in front of the class."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\slide_without_background_4.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\slideData_without_background_4.js",
+    "title": " 2  Read. Some verbs are regular and some are irregular.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_126/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Read. Some verbs are regular and some are irregular."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\slide_without_background_2.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\slideData_without_background_2.js",
+    "title": " 3  Pair work.  Talk about activities, chores and routines for each member of the family above. Then, talk about your family’s activities and chores for this week.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_127/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Pair work.  Talk about activities, chores and routines for each member of the family above. Then, talk about your family’s activities and chores for this week."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\slide_without_background_3.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\slideData_without_background_3.js",
+    "title": " 3  Think about it.   Have you ever tried any of the above sports? Talk about it with a partner.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_128/READING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Think about it.   Have you ever tried any of the above sports? Talk about it with a partner."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\multiple_choice_story_data.js",
+    "title": " 1   Circle the ‘ -y ’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_129/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1  Circle the ‘-y’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\writing.html",
+    "data": "units\\Playhouse_G3_U14\\js\\data\\writing_data.js",
+    "title": " 2  Write.  Write what you have done this week, using past participle verbs. Share it with the class.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_130/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write. Write what you have done this week, using past participle verbs. Share it with the class."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 1  Write the verb correctly. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "14"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Write the verb correctly."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 Jenny has"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly’s friend for for each sentence. two years. (be)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 Yoshi and Max have"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Ms. Lopez three times. (call)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 I haven’t"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "Lucy since last week. (see)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 Karen has"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "Becky and Don many times this year. (visit)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 Our class hasn’t"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "the English test yet. (take)"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\views\\fillin_text_in_sentences_5.html",
+    "data": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\js\\data\\fillin_text_in_sentences_5_data.js",
+    "title": " 2  Use the present perfect tense of the verb to complete each sentence. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "14"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Use the present perfect tense of the verb to complete each sentence."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 Helen"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "(not call) her friend on the phone since last Monday."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 Greg"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(not visit) his grandma for two days."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 We"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(ride) a camel before."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 He"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(go) to the cinema only once."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 We"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "(see) our uncle this month."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\views\\circle_word_in_sentence.html",
+    "data": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\js\\data\\circle_word_in_sentence_data.js",
+    "title": " 3  Choose the correct word from the box ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "14"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Choose the correct word from the box"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I haven’t seen my aunt"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "2009."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "She hasn’t worn this cardigan"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "March."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "They have stayed in this school"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "three months."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "Richard has known Fred"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "last year."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "We have lived in this house"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "12 years."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I haven’t played in this garden"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "a long time."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U14\\Playhouse_Review_G3_U14\\js\\data\\fillin_text_4_data.js",
+    "title": " 4  Write. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "14"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "l"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "ch"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "m"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "h"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\slide_without_background.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\slideData_without_background.js",
+    "title": " 2  Pair work. Practise the conversation with a partner. Look at the pictures and words below and make new conversations.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_133/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Pair work. Practise the conversation with a partner. Look at the pictures and words below and make new conversations."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/sauce.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/sauce.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/sauce.mp3",
+        "text": "hospital"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/sprinkle.mp3",
+        "text": "coffee shop"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/cheese.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/cheese.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/cheese.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/add.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/pepperoni.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/pepperoni.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/pepperoni.mp3",
+        "text": "toy shop"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/slice.mp3",
+        "text": "mall"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "undefined",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\slide_without_background_2.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\slideData_without_background_2.js",
+    "title": " 2  You do it. Look at the picture. Ask for directions and have a friend or classmate answer you.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 You do it. Look at the picture. Ask for directions and have a friend or classmate answer you."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/Pg6_2.1_Stella.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\multiple_choice_story_data.js",
+    "title": " 2   Circle the ‘ st ’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_137/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2  Circle the ‘st’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\writing.html",
+    "data": "units\\Playhouse_G3_U15\\js\\data\\writing_data.js",
+    "title": " 2  You do it.  Draw a map and  sentences about how to get from one place to another.",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 You do it.   Draw a map and  sentences about how to get from one place to another."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\views\\fill_in_text_under_sentences.html",
+    "data": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\js\\data\\fillin_columns_data.js",
+    "title": " 1  Unscramble the sentences. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "15"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Unscramble the sentences."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "1 can / I / Maple Street? / get / Excuse me / How / to"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "2 first / Take / the / right."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "3 you / me / Can / tell / how / to / the/ supermarket? / find"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "4 this / Walk along / and / you’ll / on the left / it / find / street"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Use the correct word from the box to complete each sentence.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "15"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Use the correct word from the box to complete each sentence."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "turn"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "take"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "on the left"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "go"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "to the end of the street."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "the first right."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "right and then follow the signs."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 The supermarket is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\views\\fillin_text_in_sentences_5.html",
+    "data": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\js\\data\\fillin_text_in_sentences_5_data.js",
+    "title": " 3  Write the shortened form of each word. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "15"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write the shortened form of each word."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 Street"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 Lane"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 Drive"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 Route"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 Road"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "6 Avenue"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\views\\circlecolour.html",
+    "data": "units\\Playhouse_G3_U15\\Playhouse_Review_G3_U15\\js\\data\\circlecolour_data.js",
+    "title": " 4  Colour the ‘st’ words and circle the ‘st’ in each word. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "15"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Colour the ‘st’ words and circle the ‘st’ in each word."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\views\\SB_G3_U2_P15_3_reading.html",
+    "data": "units\\Playhouse_G3_U2\\js\\data\\SB_G3_U2_P15_3_reading_data.js",
+    "title": " 3  Pair Work.  Do you do any of these things after school or any other day of the week? Work in pairs and ask and answer questions. ",
+    "audio": "../audios/new/p15pair.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_12/UNIT_2_Lets_Celebrate.mp3",
+        "text": "Let’s Celebrate!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_15/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/new/p15pair.mp3",
+        "text": "3 Pair Work.  Do you do any of these things after school or any other day of the week? Work in pairs and ask and answer questions."
+      },
+      {
+        "cls": "audioIcon word off d-flex contant",
+        "path": "undefined",
+        "text": "Example:   A:   Do you swim after school?"
+      },
+      {
+        "cls": "audioIcon word off d-flex contant",
+        "path": "undefined",
+        "text": "B:   No, I don't swim."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\views\\SB_G3_U2_P18_2.html",
+    "data": "units\\Playhouse_G3_U2\\js\\data\\SB_G3_U2_P18_2_data.js",
+    "title": " 2  Write. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_12/UNIT_2_Lets_Celebrate.mp3",
+        "text": "Let’s Celebrate!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_18/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": "Write a paragraph about a special tradition you do for a celebration or special event. Let your friends read it and guess what day you are talking about."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Write the correct simple present form. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write the correct simple present form."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 They"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "in the garden. play"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 I"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "a happy song. sing"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 We"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "the New Year. celebrate"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 She"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "in the closet. hide"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 Greg"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "a picture. draw"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "6 Susan"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "a letter. write"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\views\\fillin_text_in_sentences_under_ques.html",
+    "data": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\js\\data\\fillin_text_in_sentences_under_ques_data.js",
+    "title": " 3  Put an exclamation mark (!) where it belongs in each sentence. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Put an exclamation mark (!) where it belongs in each sentence."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 What a pretty house"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 I love this party"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\views\\fill_in_text_under_sentences.html",
+    "data": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\js\\data\\fillin_columns_data.js",
+    "title": " 4  Write a sentence with the simple present verb for each picture. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write a sentence with the simple present verb for each picture."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "sing"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "hug"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\views\\dragdrop.html",
+    "data": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\js\\data\\dragdrop_data.js",
+    "title": " 5  Write.  Put each word under its correct ending sound.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "5 Write. Put each word under its correct ending sound."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "plays"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "writes"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "chooses"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "opens"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "likes"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "dances"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "sings"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "blows"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant clue_word_wrap",
+        "path": "",
+        "text": "helps"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant drop_box_label",
+        "path": "../audios/under.mp3",
+        "text": "‘iz’ sound"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant drop_box_label",
+        "path": "../audios/under.mp3",
+        "text": "‘s’ sound"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant drop_box_label",
+        "path": "../audios/under.mp3",
+        "text": "‘z’ sound"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\views\\SB_G2_U2_P20_2.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\SB_G2_U2_P20_2_data.js",
+    "title": " 2  Circle the ‘cl’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_20/UNIT_3_On_Mondays_We_Play_Tennis.mp3",
+        "text": "On Mondays, We Play Tennis!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_25/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘cl’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\views\\SB_G3_U2_P18_2.html",
+    "data": "units\\Playhouse_G3_U3\\js\\data\\SB_G3_U2_P18_2_data.js",
+    "title": " 2  Write.  Write about your family’s activities. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_20/UNIT_3_On_Mondays_We_Play_Tennis.mp3",
+        "text": "On Mondays, We Play Tennis!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_26/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write.  Write about your family’s activities."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\views\\fillin_text_in_sentences_under_ques.html",
+    "data": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\js\\data\\fillin_text_in_sentences_under_ques_data.js",
+    "title": " 2  Write the correct adverb of frequency ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write the correct adverb of frequency"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "never"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "sometimes"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "often"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "usually"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "always"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "My mother"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "makes pancakes."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Stacy"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "writes a letter to her friend."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Henry"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "cleans his room."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\views\\fill_in_text_under_sentences.html",
+    "data": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\js\\data\\fillin_columns_data.js",
+    "title": " 3  Look and choose.  Put the adverbs of frequency in order.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Look and choose. Put the adverbs of frequency in order."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "never"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "always"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "often"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "sometimes"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "usually"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\views\\circlecolour.html",
+    "data": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\js\\data\\circlecolour_data.js",
+    "title": " 4  Colour the  ‘cl’  words red. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Colour the ‘cl’ words red."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\views\\index_wordsearch.html",
+    "data": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\js\\data\\wordsearch_data.js",
+    "title": "Find the words above in the word search. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "../audios/under.mp3",
+        "text": "Find the words above in the word search."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\views\\Group_work_reading.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\Group_work_reading_data.js",
+    "title": " 3  What is your favourite food?  Talk about your favourite food. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_32/UNIT_4_Thats_My_Favourite_Dish.mp3",
+        "text": "That’s My Favourite Dish"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_35/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 What is your favourite food?  Talk about your favourite food."
+      },
+      {
+        "cls": "audioIcon word off d-flex contant",
+        "path": "undefined",
+        "text": "Example:   My favourite food is tacos. It has cheese, meat and lettuce in it. My mum makes ..."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\views\\SB_G2_U2_P20_2.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\SB_G2_U2_P20_2_data.js",
+    "title": " 2  Circle the ‘qu’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_32/UNIT_4_Thats_My_Favourite_Dish.mp3",
+        "text": "That’s My Favourite Dish"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_37/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘qu’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\views\\fillin_text_image.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\fillin_text_image_data.js",
+    "title": " 3  Write each ‘ qu ’ word below the picture. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_32/UNIT_4_Thats_My_Favourite_Dish.mp3",
+        "text": "That’s My Favourite Dish"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_37/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write each ‘qu’ word below the picture."
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\views\\SB_G3_U2_P18_2.html",
+    "data": "units\\Playhouse_G3_U4\\js\\data\\SB_G3_U2_P18_2_data.js",
+    "title": " 2  Write.  Write a conversation. Quote the people in the conversation using direct speech. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_32/UNIT_4_Thats_My_Favourite_Dish.mp3",
+        "text": "That’s My Favourite Dish"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_38/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write.  Write a conversation. Quote the people in the conversation using direct speech."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\views\\fillin_text_in_sentences_5.html",
+    "data": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\js\\data\\fillin_text_in_sentences_5_data.js",
+    "title": " 1  Look and write. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "4"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Look and write."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "a"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "b"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "c"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "d"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "e"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "f"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 3  Put ‘ ’ marks. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "4"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Put ‘ ’ marks."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 Susan said,"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "How much sugar do you need?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Please help me make a cake"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": ", said Ken."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "This dessert tastes so nice"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": ", said Jenny."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 I said,"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Have you got some pizza?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U4\\Playhouse_Review_G3_U4\\js\\data\\fillin_text_4_data.js",
+    "title": " 4  Write the  ‘qu’  word below each picture.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "4"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write the ‘qu’ word below each picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\views\\Group_work_reading.html",
+    "data": "units\\Playhouse_G3_U5\\js\\data\\Group_work_reading_data.js",
+    "title": " 3  Pair work. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_40/UNIT_5_Lets_Cook.mp3",
+        "text": "Let's Cook"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_41/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Pair work."
+      },
+      {
+        "cls": "audioIcon word off d-flex contant",
+        "path": "undefined",
+        "text": "Practise the conversation with a friend. Look at the food words on page 40 and make a new conversation. Act it out in front of the class"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\views\\fillin_text_2.html",
+    "data": "units\\Playhouse_G3_U5\\js\\data\\fillin_text_2_data.js",
+    "title": " 1   Read and complete. Lilly is helping her mum cook. They are making omelettes. Complete the conversation with the correct words (some or any).",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_40/UNIT_5_Lets_Cook.mp3",
+        "text": "Let's Cook"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1  Read and complete. Lilly is helping her mum cook. They are making omelettes. Complete the conversation with the correct words (some or any)."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Do we need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "milk for this recipe?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   Yes. bring me"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "milk."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   There isn’t"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "milk in the fridge."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   Well, then we’ll need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "water."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Do we need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "eggs?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   Of course! Bring me"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "eggs, please"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Here is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "salt, too."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   Thank you, Lilly. Are there"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "peppers?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Yes. Here are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "peppers."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   We need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "cheese, too."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   I don’t see"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "cheese in the fridge, Mum."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   There’s"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "cheese right there under the carrots."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Do we need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "onions?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   Yes. Bring me"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "onions, please. I also need"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "tomatoes."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   Here are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "onions and tomatoes. Where will you put them?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Mum:   I’ll fry them together in oil. Then, I’ll put"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "in each omelette."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "Lilly:   That sounds delicious. I can’t wait to eat"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "omelettes!"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\views\\fillin_text_image.html",
+    "data": "units\\Playhouse_G3_U5\\js\\data\\fillin_text_image_data.js",
+    "title": " 3  Write the  oo  word below each picture. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_40/UNIT_5_Lets_Cook.mp3",
+        "text": "Let's Cook"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_45/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write the oo word below each picture."
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon textFront txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\views\\ticksentence.html",
+    "data": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\js\\data\\ticksentence_data.js",
+    "title": " 2   Tick the correct sentence.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Tick the correct sentence.  undefined"
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "Is there any milk?"
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "Is there some milk?"
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "There is some cheese."
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "There is any cheese."
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "I don't have some garlic."
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "I don't have any garlic."
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "Do you have any butter?"
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "Do you have some butter?"
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "I have some pasta."
+      },
+      {
+        "cls": "audioIcon off contant ts_optionText",
+        "path": "../audios/under.mp3",
+        "text": "I have any pasta."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\views\\fillin_text_in_sentences_under_ques.html",
+    "data": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\js\\data\\fillin_text_in_sentences_under_ques_data.js",
+    "title": " 3  Complete the sentences with  how much  or  how many .  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Complete the sentences with how much or how many."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "do we need?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "do we need?"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 4  Write.   Put each word under its correct sound   ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write. Put each word under its correct sound"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "How much"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "How many"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "onions will you use?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "pasta do we have?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "juice is in the fridge?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "chickens will you cook?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "money do you need?"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\views\\circle_word_in_sentence_img.html",
+    "data": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\js\\data\\circle_word_in_sentence_img_data.js",
+    "title": " 5  Circle the words that have a long  ‘oo’  sound. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "5 Circle the words that have a long ‘oo’ sound."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\views\\index_familyconnection.html",
+    "data": "units\\Playhouse_G3_U6\\js\\data\\familyconnection_data.js",
+    "title": " 3   Family connection.  Look at your mum's shopping list or look in your kitchen for uncountable food items. What are they? Write down the food and the containers they come in. Share your list with the class. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_48/UNIT_6_We_Need_a_Loaf_of_Bread.mp3",
+        "text": "We Need a Loaf of Bread"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_49/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Family connection. Look at your mum's shopping list or look in your kitchen for uncountable food items. What are they? Write down the food and the containers they come in. Share your list with the class."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\views\\writing.html",
+    "data": "units\\Playhouse_G3_U6\\js\\data\\SB_G3_U2_P18_2_data.js",
+    "title": " 2  Write.  Write about a food tradition in your country or family. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_48/UNIT_6_We_Need_a_Loaf_of_Bread.mp3",
+        "text": "We Need a Loaf of Bread"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/new/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write.  Write about a food tradition in your country or family."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\countablenouns.html",
+    "data": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\js\\data\\countablenouns_data.js",
+    "title": " 4  Underline the  ‘oa’  words and circle the  oa  in each  ‘oa’  word.  ",
+    "audio": "../audios/page_20/1_Underline_the_uncountable_nouns_and_circle_the_countable_nouns.mp3",
+    "matches": [
+      "units\\Playhouse_G3_U4\\Playhouse_G3_U4\\audios\\page_20\\1_Underline_the_uncountable_nouns_and_circle_the_countable_nouns.mp3"
+    ],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "6"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_20/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_20/1_Underline_the_uncountable_nouns_and_circle_the_countable_nouns.mp3",
+        "text": "4 Underline the ‘oa’ words and circle the oa in each ‘oa’ word."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\readcolourpoem.html",
+    "data": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\js\\data\\readcolourpoem_data.js",
+    "title": " 1   Read and colour.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "6"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Read and colour."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U7\\Playhouse_G3_U7\\views\\crackcode.html",
+    "data": "units\\Playhouse_G3_U7\\Playhouse_G3_U7\\js\\data\\crackcode_data.js",
+    "title": " 1   Crack the code!  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_34/UNIT_07_Thats_a_Nice_House.mp3",
+        "text": "That’s a Nice House"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_37/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Crack the code!"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 3  Write. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "7"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Write."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "pretty"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "safe"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "cheap"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "dangerous"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "tiny"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "expensive"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 This is a"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "mouse It’s very small."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 We live in a"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "neighbourhood. We’re not afraid to go outside."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 This place is"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "I don’t want to go out alone here."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "4 Sara’s shirt was very"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "She paid very little money for it."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "5 Your ring is very"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "I love it."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "6 His shoes are too"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": ".They cost a lot of money."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\views\\fillin_text_in_sentences.html",
+    "data": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\js\\data\\fillin_text_4_data.js",
+    "title": " 4  Write the  ‘ou’  words next to each picture.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "7"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write the ‘ou’ words next to each picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\views\\writing.html",
+    "data": "units\\Playhouse_G3_U8\\js\\data\\SB_G3_U2_P18_2_data.js",
+    "title": " 2  Write.  Think of your favourite room in the house. Draw it and then write about why it is your favourite room.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_68/UNIT_8_Its_in_the_Kitchen.mp3",
+        "text": "It’s in the Kitchen"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_74/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Write. Think of your favourite room in the house. Draw it and then write about why it is your favourite room."
+      },
+      {
+        "cls": "audioIcon off contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_G3_U8\\views\\circleimageword.html",
+    "data": "units\\Playhouse_G3_U8\\Playhouse_G3_U8\\js\\data\\circleimageword_data.js",
+    "title": " 2  Circle the pictures that end with an '–le'. Then write the word under the picture. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_39/UNIT_08_Its_in_the_Kitchen.mp3",
+        "text": "It’s in the Kitchen"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_42/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the pictures that end with an '–le'. Then write the word under the picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 3  Complete each sentence with the correct phrase from the box. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "8"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Complete each sentence with the correct phrase from the box."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "a few"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "a couple of"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "several"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "many"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "a lot of"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1 There are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "cups right here."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2 I have got"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "spoons."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3 There are"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "plates."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\views\\multiple_word.html",
+    "data": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\js\\data\\multiple_word_data.js",
+    "title": " 4  Read and circle the ‘-le’ words. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "8"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Read and circle the ‘-le’ words."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\views\\circle_word_in_sentence.html",
+    "data": "units\\Playhouse_G3_U9\\js\\data\\circle_word_in_sentence_data.js",
+    "title": " 2  Read and circle. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_76/UNIT_9_It’s_Over_There.mp3",
+        "text": "It’s Over There"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_79/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Read and circle."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "several pots right here on the table."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "These are not your oven gloves. Your oven gloves are"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "The cutting board is"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "next to me."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "Look over there."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "my backpack. I thought I had lost it!"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\views\\multiple_choice_story.html",
+    "data": "units\\Playhouse_G3_U9\\js\\data\\multiple_choice_story_data.js",
+    "title": " 2  Circle the ‘ igh ’ words in the poem. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_76/UNIT_9_It’s_Over_There.mp3",
+        "text": "It’s Over There"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_81/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Circle the ‘igh’ words in the poem."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\views\\multiple_text_with_fillin.html",
+    "data": "units\\Playhouse_G3_U9\\js\\data\\multiple_text_with_fillin_data.js",
+    "title": " 3  Circle the  igh  words below. Then write the words on the lines. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_76/UNIT_9_It’s_Over_There.mp3",
+        "text": "It’s Over There"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_81/PHONICS.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Circle the igh words below. Then write the words on the lines."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\views\\pickwordimg.html",
+    "data": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\js\\data\\pickwordimg_data.js",
+    "title": " 1   Look and circle the correct word.  ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "9"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "1 Look and circle the correct word.  undefined"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\views\\fillin_text_in_sentences_2.html",
+    "data": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\js\\data\\fillin_text_4_2_data.js",
+    "title": " 2  Use the correct words to fill in the blanks. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "9"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "2 Use the correct words to fill in the blanks."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "There are"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "over there"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "There is"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "right here"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "1"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "three spoons"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "a frying pan"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "two ladles"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\views\\circle_word_in_sentence.html",
+    "data": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\js\\data\\circle_word_in_sentence_data.js",
+    "title": " 3  Choose. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "9"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "3 Choose."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "1 There"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "a peeler over there."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "2 There"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "two frying pans right here."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "3 There"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "two spatulas over there."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "4 There"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "a dish rack on the worktop."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\views\\fillin_text_in_sentences_5.html",
+    "data": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\js\\data\\fillin_text_in_sentences_5_data.js",
+    "title": " 4  Write the missing letters that make the  ‘long i’  sound. ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "9"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "4 Write the missing letters that make the ‘long i’ sound."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "br"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "undefined",
+        "text": "t"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "n"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "t"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "h"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "r"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/under.mp3",
+        "text": "t"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\views\\circle_word_in_sentence_2.html",
+    "data": "units\\Playhouse_G3_U9\\Playhouse_Review_G3_U9\\js\\data\\circle_word_in_sentence_2_data.js",
+    "title": " 5  Use the correct conjunction  (and, but, or) . ",
+    "audio": "../audios/under.mp3",
+    "matches": [],
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "9"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/under.mp3",
+        "text": "5 Use the correct conjunction (and, but, or)."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I like eating,"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "I don’t like cooking."
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "Which one do you want: a spoon"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "a fork?"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "He called Wes,"
+      },
+      {
+        "cls": "audioIcon off contant not-disapled",
+        "path": "",
+        "text": "he called Sandy."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\views\\colourdescribe.html",
+    "title": "2 Colour. Colour your favourite Ice Age animal. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_88/UNIT_10_The_Time_of_the_Ice_Age.mp3",
+        "text": "The Time of the Ice Age"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_89/CONVERSATION.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "undefined",
+        "text": "2 Colour. Colour your favourite Ice Age animal."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U10\\Playhouse_Review_G3_U10\\views\\index_houselabel.html",
+    "title": "1 Label. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "10"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_G3_U11\\views\\match_img_horizantal.html",
+    "title": "1 Match the correct â€˜oiâ€˜ word to its picture. ",
+    "audio": "../audios/page_57/1_Match_the_correct_â€˜oiâ€˜_word_to_its_picture.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_54/UNIT_11_Bugs_Big_and_Small.mp3",
+        "text": "Bugs, Big and Small"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_57/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_57/1_Match_the_correct_‘oi‘_word_to_its_picture.mp3",
+        "text": "1 Match the correct ‘oi‘ word to its picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_G3_U11\\views\\fillin_text_3.html",
+    "title": "2 Write a sentence using each â€˜oiâ€™ word. ",
+    "audio": "../audios/page_57/2_Write_a_sentence_using_each_â€˜oiâ€™_word.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_54/UNIT_11_Bugs_Big_and_Small.mp3",
+        "text": "Bugs, Big and Small"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_57/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_57/2_Write_a_sentence_using_each_‘oi’_word.mp3",
+        "text": "2 Write a sentence using each ‘oi’ word."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_57/under.mp3",
+        "text": "(noise)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_57/under.mp3",
+        "text": "(join)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_57/under.mp3",
+        "text": "(soil)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_57/under.mp3",
+        "text": "(point)"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U11\\Playhouse_Review_G3_U11\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "11"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "ladybird"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "mosquito"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "spider"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "beetle"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "ant"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "fly"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_G3_U12\\views\\fillin_columns.html",
+    "title": "2  Look at the picture and compare using as + adjective + as. ",
+    "audio": "../audios/page_60/2_Look_at_the_picture_and_compare_using_â€˜as_+_adjective_+_asâ€™.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_59/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_60/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_60/2_Look_at_the_picture_and_compare_using_‘as_+_adjective_+_as’.mp3",
+        "text": "2  Look at the picture and compare using as + adjective + as."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_60/under.mp3",
+        "text": "1.squid and dolphin:"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_60/under.mp3",
+        "text": "2.squid and seahorse:"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_60/under.mp3",
+        "text": "3.shrimp and clam:"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_G3_U12\\views\\index_wordsearchwrite.html",
+    "title": "1 Word search. Look at the pictures and find the â€˜eeâ€™ words in the box. Then write each word under its picture. ",
+    "audio": "../audios/page_62/1_Word_search_Look_at_the_pictures_and_find_the_â€˜eeâ€˜_words_in_the_box_Then_write_each.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_59/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_62/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_62/1_Word_search_Look_at_the_pictures_and_find_the_‘ee‘_words_in_the_box_Then_write_each.mp3",
+        "text": "1 Word search. Look at the pictures and find the ‘ee’ words in the box. Then write each word under its picture."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_G3_U12\\views\\fillin_textarea.html",
+    "title": "1 Write. Look at the sea creatures on Studentâ€˜s Book page 104. Write four sentences about the sea creatures on this page using as + adjective + as. ",
+    "audio": "../audios/page_63/1_Write_Look_at_the_sea_creatures_on_Studentâ€˜s_Book_page_104_Write_four_sentences_about_the.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_59/UNIT_12_Sea_Creatures.mp3",
+        "text": "Sea Creatures"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_63/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_63/1_Write_Look_at_the_sea_creatures_on_Student‘s_Book_page_104_Write_four_sentences_about_the.mp3",
+        "text": "1 Write. Look at the sea creatures on Student‘s Book page 104. Write four sentences about the sea creatures on this page using as + adjective + as."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "12"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "crab"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "oyster"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "squid"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "seahorse"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "sea lion"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "dolphin"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "eel"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "shrimp"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U12\\Playhouse_Review_G3_U12\\views\\colourdescribe.html",
+    "title": "1 Colour each animal. Point and name them. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "12"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "undefined",
+        "text": "1 Colour each animal. Point and name them."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U13\\Playhouse_Review_G3_U13\\views\\index_matchsimple.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "13"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "undefined",
+        "text": "1 Match."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\views\\tick_image.html",
+    "title": "2 Listen. Listen to Sandy talk about her familyâ€™s schedule. Tick âœ“  matches what you hear.",
+    "audio": "../audios/page_127/2_Listen_Listen_to_Sandy_talk_about_her_familyâ€™s_schedule_Tick_the_picture_that.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_124/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_127/GRAMMAR_PRACTICE.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_127/2_Listen_Listen_to_Sandy_talk_about_her_family’s_schedule_Tick_the_picture_that.mp3",
+        "text": "2 Listen. Listen to Sandy talk about her family’s schedule. Tick ✓  matches what you hear."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U14\\Playhouse_G3_U14\\views\\fillin_textarea.html",
+    "title": "1 Read Brendaâ€™s story. Write your own story. Write your sentences using the present perfect tense. ",
+    "audio": "../audios/page_73/1_Read_Brendaâ€™s_story_Write_your_own_story_Write_your_sentences_using_the_present.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_69/UNIT_14_Have_You_Ever.mp3",
+        "text": "Have You Ever?"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_73/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_73/1_Read_Brenda’s_story_Write_your_own_story_Write_your_sentences_using_the_present.mp3",
+        "text": "1 Read Brenda’s story. Write your own story. Write your sentences using the present perfect tense."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\slide_reading.html",
+    "title": "1 Read the story.  Where does Jill live? Circle Jillâ€™s address in the story. ",
+    "audio": "../audios/page_136/1_Read_the_story_Where_does_Jill_live_Circle_Jillâ€™s_address_in_the_story.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_136/READING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_136/1_Read_the_story_Where_does_Jill_live_Circle_Jill’s_address_in_the_story.mp3",
+        "text": "1 Read the story.  Where does Jill live? Circle Jill’s address in the story."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_136/Pg6_2.1_Stella.mp3",
+        "text": "Jill went to the bakery to buy a cake. The bakery is two streets away from her house. On her way home, she got lost. She didn’t know how to get back home. She looked around. She was on Dove Street, but she lives in Walnut Street! She saw a girl walking nearby. ‘Excuse me,’ she said to the girl. ‘Could you please tell me how to get to 15 Walnut Street?’‘Sure!’ said the girl. ‘Walk along Dove Street. Take a right at Hamilton Street and walk along Hamilton Street. You will seeWalnut Street. Take a left at Walnut Street and 15 Walnut Street will be on the left.’‘Thank you very much!’ said Jill.‘You’re welcome,’ said the girl, as she waved. Jill was so happy to find the way to her house. Now she can go to the bakery and get home without getting lost again."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_136/dough.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U15\\views\\readingcircle.html",
+    "title": "1 Read the story.  Where does Jill live? Circle Jillâ€™s address in the story. ",
+    "audio": "../audios/page_136/1_Read_the_story_Where_does_Jill_live_Circle_Jillâ€™s_address_in_the_story.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_132/UNIT_15_Walk_Along_This_Street.mp3",
+        "text": "Walk Along This Street"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_136/READING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_136/1_Read_the_story_Where_does_Jill_live_Circle_Jill’s_address_in_the_story.mp3",
+        "text": "1 Read the story.  Where does Jill live? Circle Jill’s address in the story."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_G3_U2\\views\\WB_G3_U2_P9_1.html",
+    "title": "1 Whatâ€™s the celebration? Read the descriptions of celebrations around the world. Label the pictures using the words in the box. ",
+    "audio": "../audios/page_9/1_Whatâ€™s_the_celebration_Read_the_descriptions_of_celebrations_around_the_world_Label.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_9/UNIT_02_Lets_Celebrate.mp3",
+        "text": "Let’s Celebrate!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_9/WORD_POWER.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_9/1_What’s_the_celebration_Read_the_descriptions_of_celebrations_around_the_world_Label.mp3",
+        "text": "1 What’s the celebration? Read the descriptions of celebrations around the world. Label the pictures using the words in the box."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "",
+        "text": "New Year’s"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "Mother’s Day"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "birthday"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "Many countries celebrate this day in March. On this day, we do nice things for our mothers."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "People celebrate this day on the 1st of January."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": "Everyone has this day each year. This day means that we are one year older."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_G3_U2\\views\\WB_G3_U2_P13_1.html",
+    "title": "1 Read the postcard Greg sent to Hiroshi about a holiday at his uncleâ€™s house. Answer the questions. ",
+    "audio": "../audios/page_13/1_Read_the_postcard_Greg_sent_to_Hiroshi_about_a_holiday_at_his_uncleâ€™s_house_Answer.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_9/UNIT_02_Lets_Celebrate.mp3",
+        "text": "Let’s Celebrate!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_13/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_13/1_Read_the_postcard_Greg_sent_to_Hiroshi_about_a_holiday_at_his_uncle’s_house_Answer.mp3",
+        "text": "1 Read the postcard Greg sent to Hiroshi about a holiday at his uncle’s house. Answer the questions."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant disabled",
+        "path": "../audios/page_13/under.mp3",
+        "text": "What day is the festival?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant disabled",
+        "path": "../audios/page_13/under.mp3",
+        "text": "What does everyone wear?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant disabled",
+        "path": "../audios/page_13/under.mp3",
+        "text": "What does the city do?"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant disabled",
+        "path": "../audios/page_13/under.mp3",
+        "text": "Where is Greg?"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U2\\Playhouse_Review_G3_U2\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "2"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "Mother’s Day"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "gift"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "cake"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "New Year’s"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "piñata"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "sing"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_G3_U3\\views\\fillin_text_P17_2.html",
+    "title": "2 Write a sentence using each â€˜clâ€™ word. ",
+    "audio": "../audios/page_17/2_Write_a_sentence_using_each_â€˜clâ€™_word.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_14/UNIT_03_On_Mondays_We_Play_Tennis.mp3",
+        "text": "On Mondays, We Play Tennis!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_17/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_17/2_Write_a_sentence_using_each_‘cl’_word.mp3",
+        "text": "2 Write a sentence using each ‘cl’ word."
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_17/under.mp3",
+        "text": "(clothes)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_17/under.mp3",
+        "text": "(climb)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_17/under.mp3",
+        "text": "(clever)"
+      },
+      {
+        "cls": "audioIcon txt-audioIcon off d-flex contant min_w_fit_contant",
+        "path": "../audios/page_17/under.mp3",
+        "text": "(clean)"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_G3_U3\\views\\fillin_text_P18_2.html",
+    "title": "2 Write sentences about your familyâ€™s activities. ",
+    "audio": "../audios/page_18/2_Write_sentences_about_your_familyâ€™s_activities.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_14/UNIT_03_On_Mondays_We_Play_Tennis.mp3",
+        "text": "On Mondays, We Play Tennis!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_18/WRITING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_18/2_Write_sentences_about_your_family’s_activities.mp3",
+        "text": "2 Write sentences about your family’s activities."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U3\\Playhouse_Review_G3_U3\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "3"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "play football"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "eat out"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "go swimming"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "visit the zoo"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "go to the cinema"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "ride bikes"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_G3_U5\\views\\multiple_choice.html",
+    "title": "1 Circle the correct â€˜ooâ€™ word. ",
+    "audio": "../audios/page_27/1_Circle_the_correct_â€˜ooâ€™_word.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_24/UNIT_05_Lets_Cook.mp3",
+        "text": "Let’s Cook!"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_27/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_27/1_Circle_the_correct_‘oo’_word.mp3",
+        "text": "1 Circle the correct ‘oo’ word."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U5\\Playhouse_Review_G3_U5\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "5"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "peppers"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "milk"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "mushrooms"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "cucumbers"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "carrots"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "olives"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "butter"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "garlic"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\match_img_horizantal.html",
+    "title": "2 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "6"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "2 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a bottle of milk"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a bowl of cereal"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a head of lettuce"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a loaf of bread"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a slice of cheese"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "a jar of jam"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U6\\Playhouse_Review_G3_U6\\views\\index_wordsort3.html",
+    "title": "3 Put each word into the right box. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "6"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_50/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "3 Put each word into the right box."
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "7"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "house"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "villa"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "castle"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "tent"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "apartment building"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "mobile home"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U7\\Playhouse_Review_G3_U7\\views\\index_houselabel.html",
+    "title": "2 Label the parts of the house. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "7"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\views\\slide_reading.html",
+    "title": "1 Read. Read about Annaâ€™s family. Are they the same as your family or different from them? ",
+    "audio": "../audios/page_72/1_Read_Read_about_Annaâ€™s_family_Are_they_the_same_as_your_family_or_different_from_them.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_68/UNIT_8_Its_in_the_Kitchen.mp3",
+        "text": "It’s in the Kitchen"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_72/READING.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_72/1_Read_Read_about_Anna’s_family_Are_they_the_same_as_your_family_or_different_from_them.mp3",
+        "text": "1 Read. Read about Anna’s family. Are they the same as your family or different from them?"
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "undefined",
+        "text": ""
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_72/Pg6_2.1_Stella.mp3",
+        "text": "It’s raining today. My family and I stayed at home. I stayed in my bedroom. I played with my dolls and my toy poniesthat I have in my toy box. I like playing with dolls. My mum stayed in the kitchen and cooked dinner. She cooked it ina pot on the stove and baked a cake in the oven."
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_72/sauce.mp3",
+        "text": "She also washed the clothes in the washing machine.We have a lot of clothes to wash. Dad fixed the tap in the bathroom. When he was done, he took a shower. My brother,Greg, sat on the sofa in the living room. He turned on the television and watched cartoons.When dinner was ready, Greg and I got the table in the dining room ready. We brought the plates, bowls and glasses.Dad brought"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_72/dough.mp3",
+        "text": "the forks and spoons. Mum brought the food from the stove. After we finished eating, Mum made tea. Dad took out thecake from the oven. We sat together to eat our cake and drink our tea. It was a good day!"
+      },
+      {
+        "cls": "snap_card mx-0 mx-md-auto audioIcon",
+        "path": "../audios/page_72/sprinkle.mp3",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_G3_U8\\views\\fillin_text_2.html",
+    "title": "1 Unscramble each â€˜â€“leâ€™ word. Then write the words on the lines. ",
+    "audio": "../audios/page_42/1_Unscramble_each_â€˜â€“leâ€™_word_Then_write_the_words_on_the_lines.mp3",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/page_39/UNIT_08_Its_in_the_Kitchen.mp3",
+        "text": "It’s in the Kitchen"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_42/PHONICS_and_Sentence_Building.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "../audios/page_42/1_Unscramble_each_‘–le’_word_Then_write_the_words_on_the_lines.mp3",
+        "text": "1 Unscramble each ‘–le’ word. Then write the words on the lines."
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "1 glegiw"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "3 baelt"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "5 glegig"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "2 elcnda"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "4 opelep"
+      },
+      {
+        "cls": "audioIcon textEnd off d-flex contant",
+        "path": "undefined",
+        "text": "6 ttille"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\views\\match_img_horizantal.html",
+    "title": "1 Match. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "8"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/under.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "1 Match."
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "spoon"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "stairs"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "bookcase"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "wardrobe"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "bedroom"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "toy box"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "plate"
+      },
+      {
+        "cls": "txtHolder audioTile",
+        "path": "../audios/under.mp3",
+        "text": "bowl"
+      }
+    ]
+  },
+  {
+    "view": "units\\Playhouse_G3_U8\\Playhouse_Review_G3_U8\\views\\index_wordsort3.html",
+    "title": "2 Put each item in the correct room. ",
+    "audio": "",
+    "controls": [
+      {
+        "cls": "audioIcon off my-auto",
+        "path": "../audios/AGW_1_SB_U15_TitleAudio.mp3",
+        "text": "8"
+      },
+      {
+        "cls": "audioIcon off contant ",
+        "path": "../audios/page_50/GRAMMAR.mp3",
+        "text": ""
+      },
+      {
+        "cls": "audioIcon off contant audioQuestionTitle",
+        "path": "",
+        "text": "2 Put each item in the correct room."
+      }
+    ]
+  }
+]

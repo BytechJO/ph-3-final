@@ -1,0 +1,123 @@
+.ws_title_wrap {
+    margin: 10px 0 15px 0;
+}
+
+.ws_title {
+    border: 3px solid #f28c3f;
+    border-radius: 22px;
+    color: #f28c3f;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    padding: 6px 40px;
+    background-color: #ffffff;
+}
+
+.ws_grid_wrap {
+    width: 100%;
+    max-width: 620px;
+    margin: 0 auto;
+}
+
+.ws_grid {
+    display: grid;
+    gap: 0px;
+    border: 2px solid #f28c3f;
+    border-radius: 24px;
+    overflow: hidden;
+    background-color: #ffffff;
+    padding: 10px;
+    -webkit-touch-callout: none;
+    user-select: none;
+    touch-action: none;
+}
+
+.ws_cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 15px;
+    color: #2b2b2b;
+    aspect-ratio: 1 / 1;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.ws_cell.ws_selecting {
+    background-color: #cfeaff;
+}
+
+.ws_cell.ws_found {
+    background-color: #f28c3f;
+    color: #ffffff;
+    border-radius: 50%;
+}
+
+.ws_instructions {
+    width: 100%;
+    max-width: 620px;
+    margin: 18px 0 10px 0;
+    justify-content: space-between;
+}
+
+.ws_instr_text {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+    color: #2b2b2b;
+}
+
+.ws_direction_icon {
+    border: 2px solid #2b2b2b;
+    border-radius: 10px;
+    width: 70px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ws_direction_icon svg {
+    width: 50px;
+    height: 34px;
+}
+
+.ws_word_list {
+    width: 100%;
+    max-width: 500px;
+    gap: 60px;
+}
+
+.ws_word_col {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ws_word_item {
+    font-size: 17px;
+    color: #2b2b2b;
+}
+
+.ws_word_item.ws_word_found {
+    text-decoration: line-through;
+    color: #b3b3b3;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .ws_cell {
+        font-size: 11px;
+    }
+    .ws_title {
+        font-size: 22px;
+        padding: 4px 26px;
+    }
+    .ws_instr_text {
+        font-size: 15px;
+    }
+    .ws_word_list {
+        gap: 30px;
+    }
+}

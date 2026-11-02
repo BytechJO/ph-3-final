@@ -1,0 +1,50 @@
+.grid_columns_container {
+    position: relative;
+}
+
+.snap_group_all {
+    width: 100%;
+    position: absolute;
+}
+
+.ss_text {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.red_text {
+    color: red;
+}
+
+.textFroge .snap_group_all {
+    width: 75%;
+    right: 60px;
+    top: 82px;
+}
+
+.textFroge .ss_text{
+    font-size: 30px;
+}
+
+.textFroge img {
+    height: 150px;
+}
+/* =================================== */
+
+.textImg {
+    width: 1016px;
+    height: 308px;
+    /* padding: 0px 20px; */
+    box-shadow: 9px 9px 10px #ccc;
+    border-radius: 20px;
+}
+.textImg .audioIcon {
+    margin-left: 0px !important;
+}
+
+.text_img {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    height: 200px;
+}

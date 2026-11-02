@@ -1,0 +1,125 @@
+var stereo_data = {
+  "audio":"",
+  "exist":false,
+  "bgColor_rgb":"rgb(242, 101, 33)",
+  "type":"text",
+  "playListData" : [
+      {
+        'audiourl': '../audios/demo.mp3',
+      },
+      {
+        'url': '',
+      },
+      {
+        'url': '',
+      },
+      {
+        'url': '',
+      }
+  ],
+}
+var fillin_data = {
+    "layout"               : 1,
+    "numinrow"              : [[1], [1], [1], [1], [1]],
+    "mainTitle"             : "../images/icons/gram_main_title.png",
+    "mainTitleIcon"         : "../images/pages/sb-icons/gram_main_title_icon.png",
+    "mainTitleAudio"        : "../audios/page_34/GRAMMAR.mp3",
+    "mainTitleIconPos"      : {"right": "-18px"},
+    "subTitleTextLeft"      : '<span class="orange_text">3</span> Think about it! ',
+    "subTitleTextRight"     : "What’s in your kitchen? Look at the items in your kitchen cupboard or fridge and write down the countable and uncountable nouns.",
+    "subTitleIcons"         : [],
+    "subTitleAudio"         : "../audios/new/p34think.mp3",
+    "image"                 : "../images/pages/activities/2-img-1.png",
+    "imageposition"         : "back",// "front" (or) "back"
+    "defaultAnswer"         : 1,
+    "numbering"             : "none", // "alphabet" (or) "number"
+    "numberstartfrom"       : 1,
+    "options"               : [],
+    "questions"             :
+     [
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": [""],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no  
+          "strictorder": "yes", // yes (or) no              
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3","../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": ["Kate always gets up at half past six"],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no     
+          "strictorder": "yes", // yes (or) no             
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3","../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": [""],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no    
+          "strictorder": "yes", // yes (or) no              
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3","../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": [""],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no    
+          "strictorder": "yes", // yes (or) no              
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },   
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3","../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": [""],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no    
+          "strictorder": "yes", // yes (or) no              
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },
+        {
+          "singleword": false,
+          "text": "[_]",
+          "textaudios": ["../audios/under.mp3","../audios/under.mp3"],
+          "audio": "",
+          "audioenable": "default", // correct (or) default
+          "image": "",
+          "answer": [""],
+          "alternateanswer": [[]],
+          "strictcase": "no", // yes (or) no    
+          "strictorder": "yes", // yes (or) no              
+          "maxlength": 200,
+          "type": "", // text (or) number
+        },           
+      ]
+    }

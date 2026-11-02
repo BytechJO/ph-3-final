@@ -1,0 +1,100 @@
+[
+  {
+    "id": "G3-04",
+    "file": "units/Playhouse_G3_U1/js/data/SB_G2_U2_P20_2_data.js",
+    "before": "wordsin",
+    "after": "words in",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-06",
+    "file": "units/Playhouse_G3_U2/js/data/SB_G3_U2_P15_3_reading_data.js",
+    "before": "Do you wim after school?",
+    "after": "Do you swim after school?",
+    "status": "Code corrected; syntax checked; browser verified"
+  },
+  {
+    "id": "G3-07",
+    "file": "units/Playhouse_G3_U3/js/data/SB_G2_U2_P20_2_data.js",
+    "before": "wordsin",
+    "after": "words in",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-09",
+    "file": "units/Playhouse_G3_U6/js/data/Group_work_reading_data.js",
+    "before": "<p>arge piece of cheese</p>",
+    "after": "<p>large piece of cheese</p>",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-10",
+    "file": "units/Playhouse_G3_U6/js/data/slideData_reading.js",
+    "before": "Greg’s sister, Layla",
+    "after": "Ben’s sister, Layla",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-11",
+    "file": "units/Playhouse_G3_U6/js/data/slideData_img.js",
+    "before": "out the doar.",
+    "after": "out the door.",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-14",
+    "file": "units/Playhouse_G3_U10/js/data/circle_word_in_sentence_3_data.js",
+    "before": "And hairer, too!",
+    "after": "And hairier, too!",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-17",
+    "file": "units/Playhouse_G3_U14/js/data/practise_data.js",
+    "before": "dubbel click",
+    "after": "Double-click",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-18",
+    "file": "units/Playhouse_G3_U15/js/data/slideData_without_background_2.js",
+    "before": "\"ook at the picture.",
+    "after": "\"Look at the picture.",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-19",
+    "file": "units/Playhouse_G3_U15/js/data/fillin_complete_word_data.js",
+    "before": "Drive &rarr; <span class='orange_text'>Or</span>",
+    "after": "Drive &rarr; <span class='orange_text'>Dr</span>",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-21",
+    "file": "units/Playhouse_G3_U2/Playhouse_G3_U2/js/data/WB_G3_U2_P9_1_data.js",
+    "before": "we one year older",
+    "after": "we are one year older",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-23",
+    "file": "units/Playhouse_G3_U3/Playhouse_G3_U3/js/data/fillin_columns_data.js",
+    "before": "a sentence that about how often",
+    "after": "a sentence about how often",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-26",
+    "file": "units/Playhouse_G3_U6/Playhouse_G3_U6/js/data/slideData_4.js",
+    "before": "Measurementsl",
+    "after": "Measurements",
+    "status": "Code corrected; browser verification pending"
+  },
+  {
+    "id": "G3-30",
+    "file": "units/Playhouse_G3_U9/Playhouse_G3_U9/js/data/multiple_choice_data.js",
+    "before": "\"gril\"",
+    "after": "\"grill\"",
+    "status": "Code corrected; browser verification pending"
+  }
+]

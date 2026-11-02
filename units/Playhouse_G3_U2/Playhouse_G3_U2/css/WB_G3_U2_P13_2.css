@@ -1,0 +1,146 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.group_elm{
+    width: 96%;
+    height: 100%;
+    margin: 0px auto;
+    position: relative;
+}
+
+.area{
+    background-image: url('../images/pages/activities/p13.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 436px;
+    border: 3px solid #70d2f9;
+}
+
+.textarea-container {
+    padding: 20px;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+
+.text_input_area {
+    flex: 1;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#paper-textarea {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    padding: 0px 12px;
+    line-height: 46px;
+    padding-top: 60px;
+    font-size: 24.8px;
+    overflow: hidden;
+}
+
+textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+.textarea-container input {
+    width: 229px;
+    height: 35px;
+    color: black;
+    text-align: center;
+    border: none;
+    font-size: 30px;
+    position: absolute;
+    left: 29px;
+    top: 65;
+    background-color: transparent;
+    border-bottom: 1px solid #a2a2a201;
+}
+
+.textarea-container input:focus{
+    outline: none;
+}
+
+.textarea-container:nth-child(2) #paper-textarea{
+    padding-top: 190px;
+}
+
+.icon_wrap {
+    position: absolute;
+    margin-top: -35px; 
+    right: 100px;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+.clue_word {
+    margin: 5px;
+    padding: 0px 12px;
+}
+
+.word_options {
+    width: 100%;
+    font-size: 23px;
+    border: 2px solid var(--temp);
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+    #paper-textarea {
+        line-height: 46px;
+        padding-top: 44px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

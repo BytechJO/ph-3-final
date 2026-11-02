@@ -1,0 +1,58 @@
+.grid_columns_container {
+    position: relative;
+}
+
+.snap_group_all {
+    width: 100%;
+    position: absolute;
+}
+
+.ss_text {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.red_text {
+    color: red;
+}
+
+/* ===================================== */
+.textImg {
+    width: 1016px;
+    height: 321px;
+    box-shadow: 9px 9px 10px #ccc;
+    border-radius: 20px;
+    display: inline-block !important;
+}
+.textImg .snap_group_all {
+    width: 75%;
+    padding: 20px;
+    padding-left: 70px;
+}
+.textImg .ss_text{
+    font-size: 28px;
+}
+.textImg .audioIcon {
+    margin-left: 0px !important;
+}
+
+.textImg .text_img {
+    position: absolute;
+    top: 2px;
+    right: -200px;
+    height: 247px;
+}
+/* =================================== */
+
+
+/* ================================= */
+.gridWithTick .ss_text{
+    font-size: 24px;
+}
+.gridWithTick .snap_group_all {
+    top: 74px;
+}
+
+.grid_img_text {
+    transform: scale(0.8);
+}

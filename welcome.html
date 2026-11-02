@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome to Playhouse Grade 3</title>
+<style>
+* { box-sizing:border-box; }
+html,body { margin:0; min-height:100%; background:#82c142; }
+body { font-family:Arial,sans-serif; }
+.welcome { min-height:100vh; min-height:100svh; position:relative; display:flex; justify-content:center; align-items:center; padding:24px; }
+.cover { width:min(62vw,88vh,850px); height:auto; display:block; }
+.start-group { position:absolute; left:75%; top:67%; display:flex; align-items:center; gap:10px; transform:translateY(-50%); }
+.frog { width:clamp(65px,7vw,120px); height:auto; }
+.start { display:inline-flex; align-items:center; justify-content:center; min-width:130px; padding:16px 25px; border:4px solid white; border-radius:50px; background:#00b8ed; color:white; text-decoration:none; font-size:clamp(28px,3vw,44px); font-weight:bold; box-shadow:0 7px 0 #1285b4; transition:transform .15s,box-shadow .15s; animation:start-glow 1.8s ease-in-out infinite; }
+.start:hover { transform:translateY(-3px); box-shadow:0 10px 0 #1285b4; }
+.start:active { transform:translateY(4px); box-shadow:0 3px 0 #1285b4; }
+.start:focus-visible { outline:4px solid #523477; outline-offset:6px; }
+@keyframes start-glow { 0%,100% { box-shadow:0 7px 0 #1285b4,0 0 8px 2px rgba(255,255,255,.35); } 50% { box-shadow:0 7px 0 #1285b4,0 0 30px 12px rgba(255,255,255,.8); } }
+@media(prefers-reduced-motion:reduce) { .start { animation:none; } }
+@media(max-width:850px) { .welcome { flex-direction:column; gap:8px; padding:16px; } .cover { width:min(90vw,65svh,650px); } .start-group { position:static; transform:none; align-self:flex-end; margin:12px 4vw 15px 0; } .frog { width:85px; } .start { min-width:170px; padding:15px 30px; } }
+</style>
+</head>
+<body>
+<main class="welcome">
+  <img class="cover" src="./images/welcome-grade3.png" alt="Playhouse Kids 3, Student’s Book, Second Edition">
+  <div class="start-group">
+    <img class="frog" src="./images/welcome-frog.png" alt="">
+    <a class="start" href="./main.html">Start</a>
+  </div>
+</main>
+</body>
+</html>

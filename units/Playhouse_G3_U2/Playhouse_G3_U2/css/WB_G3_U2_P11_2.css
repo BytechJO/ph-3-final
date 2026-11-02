@@ -1,0 +1,289 @@
+.all_cont {
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.screan_elements {
+    width: 90%;
+}
+
+.group_elm {
+    width: 100%;
+}
+
+:root {
+    --temp: #8acbec;
+}
+
+.func_ctrls {
+    display: none !important;
+}
+
+.image_gap {
+    height: 100%;
+    width: intrinsic;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+    width: max-content;
+}
+
+
+.fillin_set {
+    display: flex;
+}
+
+.fillin_set input {
+    margin: auto;
+    text-align: center;
+}
+
+.fillin_gr input {
+    border: none;
+    flex: 1 1 44.444%;
+    outline: none !important;
+    background-color: transparent;
+}
+
+table {
+    width: 70%;
+    text-align: center;
+    margin-left: 0px auto;
+}
+
+.img_fillin_gr {
+    width: 100%;
+    position: relative;
+}
+
+.Box {
+    border: 2px solid var(--temp);
+    font-size: 26px;
+    height: 80px;
+    align-items: center;
+    width: 240px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+td {
+    vertical-align: top;
+}
+
+th .Box {
+    background-color: #c5e6f6a0;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+    width: 230px;
+    height: 55px;
+    margin: 10px auto;
+}
+
+.fillin_gr {
+    width: 100%;
+    position: relative;
+}
+
+.q_title {
+    font-size: 27px !important;
+}
+
+tr:nth-child(2) td:first-child{
+    background-color: #c5e6f6a0 !important;
+    border-radius: 15px;
+}
+
+tr:nth-child(2) td:first-child .txt-audioIcon{
+    font-size: 19px;
+    width: 100%;
+    height: 100%;
+}
+
+.fillin_gr .icon_wrap_holder {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.icon_wrap {
+    position: absolute;
+    right: 10px;
+}
+
+.tick,
+.cross {
+    width: 32px;
+    height: 32px;
+}
+
+.clue_word {
+    margin: 15px;
+}
+
+.word_options {
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-bottom: 8vh;
+    background-color: white;
+}
+
+.word_opt_sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
+
+/**** popup window ***/
+
+
+/* ====================================================== */
+
+
+/*              Media Queries Start                       */
+
+
+/* ====================================================== */
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1799.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1800px) */
+
+@media (max-width: 1799.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1399.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1400px) */
+
+@media (max-width: 1399.98px) {
+    .img_fillin_gr {
+        /* width: 60%; */
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1199.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+    .word_options {
+        margin-bottom: 1vh;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 991.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+    .img_fillin_gr {
+        /* width: 85%; */
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 767.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+
+    .image_gap {
+        margin: auto;
+    }
+
+    .img_fillin_gr {
+        width: 95%;
+    }
+
+    .fillin_set {
+        padding-right: 20px;
+    }
+
+    .tick,
+    .cross {
+        width: 20px;
+        height: 20px;
+    }
+
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 575.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 575*/
+
+@media (max-width: 575.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 475.98px             */
+
+
+/* ------------------------------------------------*/
+
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {
+    .img_fillin_gr {
+        width: auto;
+    }
+}

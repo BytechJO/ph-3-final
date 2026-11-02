@@ -1,0 +1,49 @@
+.amin-Activityheading{
+    width: fit-content;
+}
+.textarea-container {
+    background-image: url('../images/pages/U1/BOOKS.jpg');
+    background-size: cover;
+    padding: 20px;
+    width: 80%;
+    height: 625px;
+    border: solid 1px rgb(0, 185, 242);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+}
+.text_input_area {
+    flex: 1;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.text_input_area{
+    outline: none;
+}
+
+#paper-textarea {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    padding: 0px 3px;
+    line-height: 62.7px;
+    font-size: 24.8px;
+    overflow: hidden;
+}
+
+
+textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+@media (max-width: 768px) {
+    
+    #paper-textarea {
+        line-height: 54.7px;
+}
+}

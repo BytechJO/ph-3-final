@@ -1,0 +1,243 @@
+/* ---------------- section ribbon (e.g. "PHONICS and Sentence Building") ---------------- */
+.section_ribbon_wrap {
+    margin: 10px 0 20px 0;
+}
+
+.section_ribbon {
+    background-color: #d6f0fb;
+    border: 2px solid #25a4de;
+    color: #1c7fb0;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    padding: 10px 40px 10px 20px;
+    clip-path: polygon(0 0, 92% 0, 100% 50%, 92% 100%, 0 100%);
+}
+
+.section_mascot {
+    height: 60px;
+    margin-left: -20px;
+}
+
+.all_cont {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.screen_elements {
+    width: 90%;
+    height: 100%;
+}
+
+.group_elm {
+    width: 95%;
+    margin: 0px auto;
+    gap: 20px;
+}
+
+/* ---------------- word bank ---------------- */
+.word_opt_sticky {
+    width: 60%;
+    margin: 0px auto 20px auto;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+}
+
+.word_options {
+    width: 100%;
+    font-size: 23px;
+    border: 2px solid #a0d2f6;
+    /* background-color: #cde5fd; */
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.clue_word {
+    padding: 4px 14px;
+    margin: 4px;
+    font-size: 22px;
+    color: #1c99e2;
+    font-weight: bold;
+    cursor: grab;
+    user-select: none;
+}
+
+.clue_word.used_in_bank {
+    text-decoration: line-through;
+    opacity: 0.35;
+    cursor: default;
+    pointer-events: none;
+}
+
+.draggable_word.dragging {
+    opacity: 0.9;
+    z-index: 1000 !important;
+}
+
+.ui-draggable-dragging {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    padding: 4px 14px;
+    font-size: 22px;
+    color: #1c86e2;
+    font-weight: bold;
+}
+
+/* ---------------- drop boxes ---------------- */
+.drop_box_wrap {
+    width: 80%;
+    max-width: 700px;
+    position: relative;
+    margin: 0 auto 15px auto;
+}
+
+.drop_box_label {
+    display: inline-block;
+    background-color: #cdedfd;
+    color: #1ca0e2;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 4px 14px;
+    border-radius: 12px;
+    margin-bottom: 6px;
+}
+
+.drop_zone {
+    width: 100%;
+    min-height: 90px;
+    border: 2px solid #d8d8d8;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+    padding: 12px;
+}
+
+.drop_zone.drop_zone_hover {
+    border-color: #25a4de;
+    background-color: #eef8fd;
+}
+
+.dropped_words {
+    min-height: 40px;
+    gap: 10px;
+}
+
+.placed_word {
+    padding: 6px 16px;
+    background-color: #fde3cd;
+    color: #b3450f;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+/* worked example word: shown but not interactive */
+.clue_word.locked {
+    text-decoration: line-through;
+    opacity: 0.35;
+    cursor: default;
+    pointer-events: none;
+}
+
+.placed_word.locked {
+    background-color: transparent;
+    color: #9a9a9a;
+    cursor: default;
+    font-weight: normal;
+    box-shadow: none;
+}
+
+/* ---------------- side-by-side column layout ---------------- */
+.drop_box_wrap.col_layout {
+    width: 30%;
+    min-width: 220px;
+    margin: 0 10px 15px 10px;
+}
+
+.drop_box_wrap.col_layout .drop_box_label {
+    display: block;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 0;
+}
+
+.drop_box_wrap.col_layout .drop_zone {
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+    min-height: 320px;
+}
+
+/* lined writing-paper background inside a drop zone */
+.drop_zone.lined_bg {
+    background-image: repeating-linear-gradient(
+        to bottom,
+        transparent 0,
+        transparent 46px,
+        #cfcfcf 47px
+    );
+    background-position: 0 40px;
+}
+
+.drop_zone.lined_bg .dropped_words {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+}
+
+.drop_zone.lined_bg .placed_word {
+    background: transparent;
+    border-radius: 0;
+    padding: 0 0 4px 0;
+    height: 47px;
+    display: flex;
+    align-items: flex-end;
+    box-shadow: none;
+}
+
+.icon_wrap {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    display: none;
+}
+
+.tick,
+.cross {
+    width: 32px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.img-container {
+    width: 300px;
+    margin: 20px auto 0 auto;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .word_opt_sticky {
+        width: 95%;
+    }
+    .drop_box_wrap {
+        width: 95%;
+    }
+    .drop_box_wrap.col_layout {
+        width: 95%;
+        min-width: unset;
+    }
+    .clue_word,
+    .placed_word,
+    .ui-draggable-dragging {
+        font-size: 18px;
+    }
+}
