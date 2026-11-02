@@ -1,0 +1,151 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    /* position: relative; */
+    height: 100%;
+}
+
+.group_elm{
+    width: 100%;
+    height: 100%;
+}
+
+.page_sub_title b{
+    color: #000;
+}
+
+.q_order{
+    width: 25px;
+    margin-top: 40px;
+}
+
+/* ************************************** */
+.ques{
+    width: 90% !important;
+    height: 100%;
+}
+
+/* ==================================== */
+.fill_in .que {
+    width: 100%;
+}
+
+.q_box{
+    height: 123px;
+    width: 1050px;
+    margin: 7px 5px; 
+    padding: 5px 10px;
+}
+.image_space {
+    width: 173px;
+    /* height: 119px; */
+    border-radius: 15px;
+}
+  
+.image_space img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+.q_box:nth-child(3) .image_space img{
+    transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+}
+
+.txt_wrap {
+    background-image: url('../images/pages/activities/lines_2.png');
+    background-size: 819px 97px;
+    background-repeat: no-repeat;
+    background-position: -4px -4px !important;
+    width: 816px;
+    height: 94px; 
+    margin: auto 0px;
+    margin-left: 10px;
+    border: 2px solid #80d9e7;
+}
+.txtBox {
+    font-family: Arcon;
+    color: black;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: auto 0px;
+    flex-wrap: wrap;
+}
+
+.item {
+    flex: 1 1 33.333%;
+}
+
+.txtBox .txt-audioIcon{
+    font-size: 85px;
+    color: #c4c4c4b1;
+    margin: -34px 10px 0px;
+    height: 100%;
+}
+
+.txtBox input:focus{
+    outline: none;
+}
+
+.txtBox input {
+    /* width: 200px; */
+    flex: 1;
+    padding-left: 10px;
+    height: 66px;
+    color: black;
+    border: none;
+    font-size: 60px;
+    margin: 0px 20px 0px 10px;
+    background: transparent;
+    /* text-align: center; */
+    padding-bottom: 0px;
+    border-bottom: 3px solid transparent;
+}
+
+.icon_wrap {
+    margin-left: 820px;
+    margin-top: -60px;
+}
+
+.tick,
+.cross {
+    width: 35px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+}
+
+.image_wrap {
+    display: none;
+}
+
+
+/* ************************************************* */
+/* ************************************************* */
+@media (max-width: 991.98px) {
+    .fill_in .que {
+        width: 160px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .fill_in .que {
+        width: 200px;
+    }
+}
+
+@media (max-width: 475.98px) {
+    /* .fill_in .que {
+        width: 200px;
+    } */
+}

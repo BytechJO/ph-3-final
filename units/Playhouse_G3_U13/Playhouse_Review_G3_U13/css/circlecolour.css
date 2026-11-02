@@ -1,0 +1,98 @@
+.all_cont{
+    height: 90%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.blue_text {
+    color: rgb(0, 185, 242);
+    font-size: 27px;
+}
+
+.circlecolour_group{
+    width: 95%;
+    /* max-width: 750px; */
+    margin: 0 auto;
+    row-gap: 25px;
+}
+
+.cc_item{
+    width: 100%;
+    padding: 8px 0;
+}
+
+.q_num_space{
+    width: 30px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.cc_sentence{
+    flex: 1;
+    column-gap: 8px;
+    row-gap: 6px;
+}
+
+.cc_wordWrap{
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    padding: 3px 5px;
+    border-radius: 6px;
+    user-select: none;
+}
+
+.cc_word{
+     font-family: Arcon;
+    font-size: 74px;
+    /* font-weight: bold; */
+    color: transparent;
+    -webkit-text-stroke: 0.5px black;
+    text-stroke: 0.5px black;
+    position: relative;
+    z-index: 1;
+}
+
+.cc_wordWrap.cc_coloured .cc_word{
+    color: #ffb703;
+    -webkit-text-stroke: 1.5px black;
+    text-stroke: 1.5px black;
+}
+
+.cc_svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    pointer-events: none;
+}
+
+.icon_wrap_holder{
+    margin-left: 12px;
+    flex-shrink: 0;
+}
+
+.tick,
+.cross{
+    width: 30px;
+}
+
+.tick img,
+.cross img{
+    width: 100%;
+}
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .cc_word{
+        font-size: 20px;
+    }
+}

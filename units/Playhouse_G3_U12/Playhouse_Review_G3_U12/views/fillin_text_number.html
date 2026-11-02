@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        playhouse
+    </title>
+    <link rel="stylesheet" href="../css/jquery-ui.min.css">
+    <link rel="stylesheet" href="../css/bootstrap/bootstrap.css">
+    <style id='ui_style'>
+    </style>
+   <link rel="stylesheet" href="../css/all.min.css">
+   <!-- Font Awesome -->
+   <script src="https://use.fontawesome.com/46af14eb3c.js"></script>
+   <link rel="stylesheet" href="../css/draw.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/unit_styles.css">
+    <link rel="stylesheet" href="../css/activities.css">
+    <link rel="stylesheet" href="../css/audio.css">
+    <!-- [ Activity build CSS file ] -->
+    <!-- <link rel="stylesheet" href="../css/AGW_1_SB_U3_A6.css"> -->
+    <link rel="stylesheet" href="../css/fillin_text_number.css">
+
+    <!-- [ Activity build CSS file ] -->
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script src="../js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="../js/bootstrap/bootstrap.bundle.min.js" type="text/javascript"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js" text="text/javascript"></script>
+    <!-- [ Data for Header and Footer ] -->
+    <script src="../js/data/templateData.js" type="text/javascript"></script>
+    <!-- [ / Data for Header and Footer ] -->
+    <!-- [ Data containing all activity files ] -->
+    <script src="../js/data/activityList.js" type="text/javascript"></script>
+    <script src="../js/data/fillin_text_number_data.js" type="text/javascript"></script>
+	<!-- <script src="../js/data/popupData.js" type="text/javascript"></script> -->
+    <script src="../js/build/jsonRender.js"></script>
+    <!-- [ / Data containing all activity files ] -->
+</head>
+
+<body>
+    <div class="mask_parent">
+        <div class="mask_left"></div>
+        <div class="mask_right"></div>
+    </div>
+    <div class='loading'>
+        <div class="loader"></div>
+    </div>
+    <header class='fixed-top'></header>
+    <div class='mainContent'>
+         <div id="feedbackPopup" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div>
+                        <button type="button" class="close closeFeedback" data-dismiss="modal">
+                            &times;</button> 
+                    </div>
+                    <div class="modal-body">
+                        <video id="video_1" src="../videos/goodjob.mp4" preload></video> 
+                        <video id="video_2" src="../videos/tryagain.mp4" preload></video>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="container content_wrap activity_wrap">
+            <!-- screen numbering starts here  -->
+            <div class='fixed-top screen_numbers_wrap' style="z-index:2;"></div>
+            <!-- // screen numbering ends here  -->
+            <!-- activity panel content starts here  -->
+              <div class='activity_buts d-none' data-buttons='ccss,link,tips,homework'>
+                <div class='ccss_content' data-height=''>L.1.1 </div>
+                <div class='link_content' data-height=''>
+                    <a href='../../../ARC_1_1_SB/ARC_1_1_SB_U3/index.html' target="blank">playhouse Reading
+                        Unit 3 &ndash; All Aboard!</a>
+                </div>
+                <div class='tips_content' data-height=''>
+                    <span class="pop_title">Possessive Adjectives </span><br />
+                    <span><span style="font-weight: bold;">Possessive Adjectives
+                    </span> 
+                    show when something belongs to someone.<br>Some possessive adjectives are “my,” “your,” “his,” “her,” and “its.”
+                </span><br />Example: This is Lana’s car.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is<span style="font-weight: bold;"> her</span> car.</div>
+                <div class='homework_content' data-height=''>
+                    Have your child read to you the complete sentences.
+                </div>
+            </div>
+            <!-- // activity panel content ends here  -->
+            <!-- activity interactive area starts here  -->
+            <div class='activity_container activity_area fill_in mx-auto' data-activity='fillin'>
+                <!-- <div class="act_head_group d-flex justify-content-start"><div class="keyIcon"><img src="../images/icons/key_icon.png"></div><div class="activityHeading">Find and color by dragging on the letters.</div></div>            
+               
+                <div class="options d-flex flex-wrap">                        
+                    <div class='wordmatrix_holder mt-3'>
+                        <div class='wordmatrix'></div>
+                    </div>
+                    <div class='wordlist mt-3'></div>
+                </div> -->
+
+
+            </div>
+            <!-- // activity interactive area ends here -->
+        </div><!-- / container content_wrap -->
+    </div>
+    <!-- activity panel popup starts here  -->
+    <div class="modal fade activityCtrlPanel" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <div class="ctrlIcon">
+                    </div>
+                    <h4 class="modal-title"></h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <!-- Modal body -->
+                <div class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- // activity panel popup ends here  -->
+    <div class="sub_footer">
+
+        <!-- the sub-footer starts here  -->
+        <div class='container sub_footer_buttons_wrap'></div>
+        <!-- // the sub-footer ends here  -->
+    </div>
+    <footer class='fixed-bottom'></footer>
+    <script>
+        var _mediaList = {
+            "image": [],
+            "audio": [],
+            "video": []
+        };
+    </script>
+
+    <script src='../js/build/toolbar.js' type='text/javascript'></script>
+    <script src="../js/build/template.js" type="text/javascript"></script>
+    <script src='../js/generalfunctions.js' type='text/javascript'></script>
+    <script src="../js/build/fillin_text_number.js" type="text/javascript"></script>
+    <script src="../js/activity/fillin.js" type="text/javascript"></script>
+    <script src="../js/activities.js" type="text/javascript"></script>
+    <script src="../js/build/audio.js"></script>
+    <script src='../js/build/radio_build.js' type='text/javascript'></script>
+	<!-- <script src="../js/build/popup.js" type="text/javascript"></script> -->
+    <script src='../js/loading.js' type='text/javascript'></script>
+    <script src='../js/sketchpad.js' type='text/javascript'></script>
+</body>
+
+</html>

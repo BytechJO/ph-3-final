@@ -1,0 +1,78 @@
+.main_image {
+    position: relative;
+    text-align: center;
+    height: calc(100vh - 350px);
+}
+
+.image_with_text{
+    /* margin-top: 150px; */
+}
+
+.main_image img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.image_audio {
+    position: absolute;
+    transform: scale(0.6);
+}
+
+.song_text {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.read_grammer .grammer_container {
+    transform: scale(0.8);
+    display: inline-block;
+    /* align-self: center; */
+    position: relative;
+}
+
+.read_grammer .grammer_container img {
+    /* transform: scale(0.5); */
+    width: 100%;
+}
+
+.read_grammer .words_container {
+    position: absolute;
+    font-weight: bold;
+    width: 100%;
+    /* center */
+    top: 20px;
+    /* left: 20%;
+    top: 40%;
+    transform: translate(-20%, -50%); */
+    color: red;
+    font-size: 40px;
+}
+
+.read_grammer {
+    margin-top: -399px;
+}
+
+/* ================================ */
+.imageOnTextCake .main_image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imageOnTextCake .main_image img {
+    width: 80%;
+}
+.imageOnTextCake .snap_card .img-0 {
+    width: 557px;
+}
+.imageOnTextCake .snap_card .img-1 {
+    width: 357px;
+}
+.imageOnTextCake .snap_card .img-2 {
+    width: 660px;
+}
+/* ================================= */
+.text3Img .snap_card .img-0,
+.text3Img .snap_card .img-1 {
+    width: 625px;
+}

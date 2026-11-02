@@ -1,0 +1,129 @@
+.moi_group_wrap {
+    position: relative;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto 40px auto;
+    display: flex;
+    justify-content: space-between;
+    align-itemoi: center;
+    min-height: 200px;
+        align-items: center;
+}
+
+.moi_svg_layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 999;
+}
+
+.moi_line {
+    stroke: #f2843f;
+    stroke-width: 2;
+}
+
+.moi_correct_line {
+    stroke: #1c9c4a;
+}
+
+.moi_incorrect_line {
+    stroke: #c0392b;
+}
+
+.moi_col {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    width: 32%;
+}
+
+.moi_row {
+       display: flex;
+    align-itemoi: center;
+    gap: 10px;
+    font-size: 24px;
+    color: #1a1a1a;
+    /* align-self: center; */
+    align-items: center;
+}
+
+.moi_left_row {
+    justify-content: flex-start;
+}
+
+.moi_left_row .moi_word_dot {
+    margin-left: auto;
+}
+
+.moi_word_dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #f2843f;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+.moi_point_dot{
+       width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position:absolute;
+    background-color: #f2843f;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+.moi_dot.moi_selected {
+    background-color: #25a4de;
+    box-shadow: 0 0 0 4px rgba(37,164,222,0.3);
+}
+
+.moi_dot.moi_used {
+    background-color: #e2574c;
+}
+
+.moi_dot.moi_correct {
+    background-color: #1c9c4a;
+}
+
+.moi_dot.moi_incorrect {
+    background-color: #c0392b;
+}
+
+.moi_img_wrap {
+    width: 34%;
+    position: relative;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.moi_img_wrap img {
+    max-width: 100%;
+    border: 2px solid #f2843f;
+    border-radius: 16px;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .moi_group_wrap {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .moi_col {
+        width: 100%;
+        order: 2;
+    }
+    .moi_char_image {
+        width: 60%;
+        order: 1;
+        margin-bottom: 15px;
+    }
+    .moi_row {
+        font-size: 14px;
+    }
+}

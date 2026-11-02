@@ -1,0 +1,30 @@
+
+.sbp137-panel {position:relative;width:92%;max-width:1100px;margin:10px auto 24px;}
+.sbp137-frame {display:block;width:100%;height:auto;}
+.sbp137-panel > img:not(.sbp137-frame),.sbp137-frog {position:absolute;height:auto;}
+.sbp137-examples {left:38%;top:30%;width:29%;}
+.sbp137-frog {top:42%;width:8%;padding:0;border:0;background:transparent;cursor:pointer;}
+.sbp137-frog img {display:block;width:100%;height:auto;}
+.sbp137-left {left:6%;}.sbp137-right {right:6%;}
+#sbp137-rule-left {left:14%;top:34%;width:23%;}
+#sbp137-rule-right {left:65%;top:29%;width:27%;}
+.sbp137-frog:focus-visible {outline:3px solid #f57c20;border-radius:8px;}
+.sbp137-frog:hover {filter:drop-shadow(0 0 5px #ffad51);}
+.sbp137-panel [hidden] {display:none !important;}
+.sbp137-panel ~ .activity_area .act_head_group > .audioIcon {display:none;}
+
+.sbp137-frog {z-index:2;}
+
+.sbp137-examples {left:34%;top:28%;width:35%;}
+#sbp137-rule-left {left:12%;top:30%;width:24%;}
+#sbp137-rule-right {left:68%;top:30%;width:22%;}
+
+.sbp137-examples {left:34%;top:28%;width:36%;}
+#sbp137-rule-left {left:14%;top:34%;width:20%;}
+#sbp137-rule-right {left:70%;top:34%;width:20%;}
+
+.sbp137-examples {left:34%;top:23%;width:35%;}
+#sbp137-rule-left {left:13%;top:37%;width:21%;}
+#sbp137-rule-right {left:69%;top:29%;width:21%;}
+
+.sbp137-panel ~ .activity_container .SentenceBuilding_container {display:none;}

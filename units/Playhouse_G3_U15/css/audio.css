@@ -1,0 +1,356 @@
+.sterio_container, .sterio_hand, .top_hand, .top_face, .front_face, .right_hand, .right_face, .left_hand, .top, .right, .player, .center_box_control, .ui-slider-range, .ui-slider-handle {
+    position: absolute;
+}
+
+.sterio_container, .sterio_hand, .top_hand, .right_hand, .left_hand, .sterio {
+    transform-style: preserve-3d;
+}
+
+.top_face, .front_face, .front_face, .right_face, .front_face, .right_face, .top, .right_div, .controls, .controls_forward, .controls_back, .body_btns, .internal_controls, .top_body, .tape {
+    display: flex;
+}
+
+.ui-slider-handle, .controls_back, .controls_forward, .play, .restart, .pause, .ui-slider-handle {
+    cursor: pointer;
+}
+
+/* .top_face, .front_face, .front_face, .right_face, .front_face, .right_face, .top, .right, .player{
+    border: solid 2px black;
+} */
+
+.rotator {
+    position: absolute;
+    top: 70px;
+    right: 0px;
+    width: 265px;
+    height: 120px;
+    transform-origin: right;
+    transform: rotate(-92deg);
+}
+
+.sterio_container{
+    top: 58px;
+    left: -29px;
+}
+
+.sterio_hand{
+    cursor: pointer;
+    transform: rotate3d(1, 1, 0, 10deg) translate3d(30px, 30px, 105px);
+}
+
+.top_hand {
+    transform: translate3d(40px, -91px, 47px);
+}
+.sterio_hand .top_hand .top_face{
+    width: 104px;
+    height: 46px;
+    left: -6px;
+    top: 9px;
+    transform: rotateX(90deg);
+    justify-content: center;
+}
+
+.sterio_hand .top_hand .front_face {
+    width: 103px;
+    height: 11px;
+    left: -8px;
+    top: 35px;
+    transform: rotateX(358deg);
+    justify-content: center;
+}
+.sterio_hand .right_hand{
+    top: -124px;
+    right: 35px;
+}
+
+.sterio_hand .right_hand .front_face{
+    width: 15px;
+    height: 40px;
+    left: 161px;
+    top: 62px;
+    justify-content: center;
+    border-bottom: solid;
+}
+
+.sterio_hand .right_hand .right_face {
+    width: 46px;
+    height: 40px;
+    left: 156px;
+    top: 59px;
+    transform: rotatey(90deg);
+    justify-content: center;
+    border-bottom: solid;
+}
+
+.sterio_hand .left_hand {
+    top: -122px;
+    right: -40px;
+}
+.sterio_hand .left_hand .front_face {
+    width: 15px;
+    height: 40px;
+    left: -3px;
+    top: 60px;
+    justify-content: center;
+    border-bottom: solid;
+}
+.sterio_hand .left_hand .right_face {
+    width: 46px;
+    height: 40px;
+    left: -8px;
+    top: 57px;
+    transform: rotatey(90deg);
+    justify-content: center;
+    border-bottom: solid;
+}
+
+
+.sterio {
+   position: relative;
+   transform: rotate3d(1, 1, 0, 10deg);
+}
+
+.top{
+    width: 250px;
+    height: 110px;
+    left: 9px;
+    top: -64px;
+    transform: rotateX(90deg);
+    justify-content: center;
+}
+
+.right {
+    width: 110px;
+    height: 130px;
+    top: -9px;
+    left: 204px;
+    transform: rotateY(90deg);
+}
+
+.right .right_div{
+    border-bottom: 6px double #000;
+    height: 125px;
+    padding-bottom: 7px;
+}
+
+.player {
+    left: 2px;
+    top: -2px;
+    height: 130px;
+    width: 250px;
+    font-size: 18px;
+}
+
+.play-item {
+    background: #333;
+    display: none;
+}
+
+.controls {
+    height: 30px;
+    left: 10px;
+    top: 7px;
+    width: 95%;
+    justify-content: space-around;
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+    margin: 5px auto 0 auto;
+}
+
+.volume {
+    height: 22px;
+    width: 130px;
+    background: #ccc;
+    border-radius: 2px;
+    display: inline-block;
+    border: 2px solid #686868;
+    border-radius:  5px;
+}
+
+.volume .ui-slider-handle {
+    background: #ff5410;
+    height: 100%;
+    width: 15px;
+    border: 1px solid #ff5410;
+    border-radius: 3px;
+    top: 0px;
+    outline: none;
+}
+
+.ui-slider .ui-slider-range {
+    background-color: #a6a6a676;
+}
+
+.vol-icn {
+    display: inline-block !important;
+    margin-top: 24px;
+}
+
+.controls_back, .controls_forward{
+    height: 25px;
+    border: 1px solid #333;
+    width: 25px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px #4b4b4b;
+}
+
+.demo_Btn1 {
+    border: 2px solid red;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #4b4b4b;
+}
+
+.demo_Btn2,
+.demo_Btn3,
+.demo_Btn4 {
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 10px;
+    border: 2px solid #565655;
+    background-color: yellow;
+}
+
+.demo_Btn3,
+.demo_Btn4 {
+    margin: 0px auto;
+    box-shadow: 2px 2px 4px #565655;
+}
+
+.tracker {
+    height: 15px;
+    width: 90%;
+    margin: 5px auto;
+    background: #ccc;
+    border-radius: 2px;
+    display: block;
+    background: linear-gradient(85deg, #ccc calc(100% - 1px), #999 0);
+    background-size: calc((100% - 15*1px)/15 + 1px) 100%;
+}
+
+.body_btns {
+    border-bottom: 6px double #000;
+    height: 65px;
+    padding-bottom: 5px;
+}
+
+.left_Btn,
+.right_Btn {
+    width: 50px;
+    height: 50px;
+    border: 7px double #3a3a3a;
+    background-image: linear-gradient(to right, #a3a2a2, #8a898b, #343333);
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 2px 2px 4px #565655;
+}
+
+.center_box_control {
+    width: 75px;
+    height: 100%;
+    margin: 0px 10px;
+    position: relative;
+}
+
+.center_box_control .internal_controls {
+    width: 55px;
+    margin: auto;
+    margin-top: 5px;
+    height: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    background-color: #ccc;
+    bottom: 0;
+    text-align: center;
+    box-shadow: 2px 2px 4px #565655;
+}
+
+.center_box_control .top_body {
+    width: 70px;
+    height: 30px;
+    margin: auto;
+    background-color: #51a4dd;
+    border: #666 solid 1px;
+    box-shadow: inset 2px 2px 4px #565655;
+}
+
+.center_box_control .top_body .tape {
+    width: 50px;
+    height: 20px;
+    margin: auto;
+    border-bottom: 5px solid #fdb143;
+    background-color: #8a68b0;
+    align-items: center;
+    justify-content: center;
+}
+
+.top_body .tape .tape_circle1,
+.top_body .tape .tape_circle2 {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    border: 1px solid #333;
+    background-color: #b4b2b2;
+    border-radius: 50%;
+}
+
+.top_body .tape .tape_rect {
+    width: 20px;
+    height: 10px;
+    display: inline-block;
+    border: 1px solid #333;
+    background-color: #333;
+}
+
+.play:hover {
+    background-position: -8px -170px;
+}
+
+.pause {
+    background-position: -8px -198px;
+    display: none;
+}
+
+.controls .pause:hover {
+    background-position: -8px -197px;
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.track-icn {
+    display: flex !important;
+    margin-top: 24px;
+}
+
+.ui-slider-range {
+    background: #121212;
+    height: 11px;
+    border-radius: 2px;
+}
+
+.tracker  .ui-slider-handle {
+    top: 0;
+    height: 15px;
+    margin-left: -5px;
+    width: 10px;
+    border: 1px solid #121212;
+    background: #333;
+    border-radius: 2px;
+    outline: none;
+}

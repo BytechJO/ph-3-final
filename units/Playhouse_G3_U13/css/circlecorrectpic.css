@@ -1,0 +1,86 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.orange_text{
+    color: #f26521;
+}
+
+.ccp_group{
+    width: 95%;
+    max-width: 950px;
+    gap: 40px;
+    justify-content: center;
+}
+
+.ccp_item{
+    flex: 1;
+    min-width: 320px;
+    max-width: 420px;
+}
+
+.ccp_qtext{
+    gap: 8px;
+    margin-bottom: 14px;
+}
+
+.q_num_space{
+    width: 24px;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.ccp_qtext .audioIcon{
+    font-family: Arcon;
+    font-size: 18px;
+    color: black;
+}
+
+.ccp_imgBox{
+    border: 2px solid #f2a03d;
+    border-radius: 16px;
+    padding: 16px;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.ccp_imgWrap{
+    position: relative;
+    cursor: pointer;
+    width: 45%;
+}
+
+.ccp_img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.ccp_svg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    pointer-events: none;
+}
+
+/* ************************************************* */
+@media (max-width: 767.98px){
+    .ccp_group{
+        gap: 24px;
+    }
+    .ccp_item{
+        min-width: 260px;
+    }
+}

@@ -1,0 +1,182 @@
+.grammar_slide {
+    width: 1000px;
+    height: 476px;
+    background: #67686a;
+    border-radius: 20px;
+}
+
+.grammar_slide .col_grid_container {
+    width: 96%;
+    height: 91%;
+    border-radius: 10px;
+    background: #e2e3e4;
+    /* box-shadow: inset 0px 5px 25px #949494b3; */
+}
+
+.div_border {
+    position: absolute;
+    background: #bcbcbc;
+    box-shadow: inset 0px 0px 7px #6e6c6c;
+}
+
+.gram_title{
+    margin-top: 24px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.top_border {
+    width: 934px;
+    height: 21px;
+    top: 0;
+    left: 31px;
+}
+
+.bottom_border {
+    width: 934px;
+    height: 20px;
+    bottom: 1px;
+    left: 31px;
+}
+
+.left_border {
+    width: 19px;
+    height: 412px;
+    left: 1px;
+    top: 30px;
+}
+
+.right_border {
+    width: 19px;
+    height: 412px;
+    right: 1px;
+    top: 30px;
+}
+
+.grammar_slide .letters_container {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #fff;
+    position: absolute;
+    top: -21px;
+    left: 298px;
+    z-index: 150;
+}
+
+.grammar_slide .letter {
+    width: 52px;
+    height: 52px;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0px 3px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.grammar_slide .letter-0 {
+    background-color: #00aeef;
+}
+
+.grammar_slide .letter-1 {
+    background-color: #ec008c;
+}
+
+.grammar_slide .letter-2 {
+    background-color: #b9d980;
+}
+
+.grammar_slide .letter-3 {
+    background-color: #f47920;
+}
+
+.grammar_slide .letter-4 {
+    background-color: #f06da8;
+}
+
+.grammar_slide .letter-5 {
+    background-color: #fdb94d;
+}
+
+.grammar_slide .letter-6 {
+    background-color: #00aeef;
+}
+
+/* ============================== */
+.bounce2 {
+    animation: bounce2 2s ease infinite;
+}
+
+@keyframes bounce2 {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-10px);
+    }
+
+    60% {
+        transform: translateY(-10px);
+    }
+}
+
+.bounce2:nth-child(odd) {
+    animation: bounce2 5s ease infinite;
+}
+/* ====================================== */
+.pulse {
+    animation: pulse 1s infinite ease-in-out alternate;
+  }
+  @keyframes pulse {
+    from { transform: scale(0.9); }
+    to { transform: scale(1.0); }
+  }
+/* ====================================== */
+.grammar_slide .buttons_container {
+    justify-content: space-evenly;
+    width: 500px;
+    margin: 0px auto;
+    /* margin-top: 24px; */
+    font-family: 'Patrick Hand', cursive;
+}
+
+.grammar_slide .buttons_container .gram_btn {
+    width: 150px;
+    height: 67px;
+    font-size: 23px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selected_btn {
+    background-image: url(../images/pages/activities/circle_background_2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* we can add filter to change color image to Green */
+    /* filter:hue-rotate(100deg); */
+
+    /* add this filter to be orange image */
+    filter: hue-rotate(30deg) brightness(1.5);
+}
+
+.grammar_slide .snap_group_all {
+    top: 160px;
+    width: 96%;
+    font-size: 25px !important;
+}
+
+.grammar_slide .snap_group_all .ss_text {
+
+    font-size: 23px !important;
+}
+.grammar_slide .welcomeImage {
+    display: block;
+    width: 234px;
+    margin: 15px 38%;
+}

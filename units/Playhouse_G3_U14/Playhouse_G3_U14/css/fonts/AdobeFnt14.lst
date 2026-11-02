@@ -1,0 +1,789 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeArabic-Regular
+FamilyName:Adobe Arabic
+StyleName:Regular
+MenuName:Adobe Arabic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Adobe Arabic Regular
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Arabic
+OutlineFileName:\AdobeArabic-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+FileLength:376016
+FileModTime:1318255415
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Adrianna-Extrabold
+FamilyName:Adrianna
+StyleName:Extrabold
+MenuName:Adrianna Xb
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Adrianna-Extrabold
+WritingScript:Roman
+OutlineFileName:\Adrianna-ExtraBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:113156
+FileModTime:1421356024
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AppleCasual
+FamilyName:Apple Casual
+StyleName:Regular
+MenuName:Apple Casual
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Apple Casual
+WritingScript:Roman
+OutlineFileName:\AppleCasual.dfont
+DataFormat:sfntResource
+ResourceID:2471
+FileLength:57456
+FileModTime:1169698271
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Arcon-Regular
+FamilyName:Arcon
+StyleName:Regular
+MenuName:Arcon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Arcon
+WritingScript:Roman
+OutlineFileName:\Arcon-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:44804
+FileModTime:1431014682
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Regular
+FamilyName:Athelas
+StyleName:Regular
+MenuName:Athelas
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Athelas Regular
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:40
+DataFormat:sfntData
+FileLength:2310148
+FileModTime:1440295071
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Italic
+FamilyName:Athelas
+StyleName:Italic
+MenuName:Athelas
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Athelas Italic
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:340
+DataFormat:sfntData
+FileLength:2310148
+FileModTime:1440295071
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-BoldItalic
+FamilyName:Athelas
+StyleName:Bold Italic
+MenuName:Athelas
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Athelas Bold Italic
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:640
+DataFormat:sfntData
+FileLength:2310148
+FileModTime:1440295071
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Athelas-Bold
+FamilyName:Athelas
+StyleName:Bold
+MenuName:Athelas
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Athelas Bold
+WritingScript:Roman
+OutlineFileName:\Athelas.ttc
+TTCOffset:940
+DataFormat:sfntData
+FileLength:2310148
+FileModTime:1440295071
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Book
+FamilyName:Avenir
+StyleName:Book
+MenuName:Avenir Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Book
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:72
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BookOblique
+FamilyName:Avenir
+StyleName:Book Oblique
+MenuName:Avenir Book
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Book Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:372
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Black
+FamilyName:Avenir
+StyleName:Black
+MenuName:Avenir Black
+StyleBits:2
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Avenir Black
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:672
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-BlackOblique
+FamilyName:Avenir
+StyleName:Black Oblique
+MenuName:Avenir Black Oblique
+StyleBits:3
+WeightClass:800
+WidthClass:5
+AngleClass:1
+FullName:Avenir Black Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:956
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Heavy
+FamilyName:Avenir
+StyleName:Heavy
+MenuName:Avenir Heavy
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Avenir Heavy
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1240
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-HeavyOblique
+FamilyName:Avenir
+StyleName:Heavy Oblique
+MenuName:Avenir Heavy
+StyleBits:3
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Avenir Heavy Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1524
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Light
+FamilyName:Avenir
+StyleName:Light
+MenuName:Avenir Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Avenir Light
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:1824
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-LightOblique
+FamilyName:Avenir
+StyleName:Light Oblique
+MenuName:Avenir Light
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Avenir Light Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2124
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Medium
+FamilyName:Avenir
+StyleName:Medium
+MenuName:Avenir Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Avenir Medium
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2424
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-MediumOblique
+FamilyName:Avenir
+StyleName:Medium Oblique
+MenuName:Avenir Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Avenir Medium Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:2708
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Oblique
+FamilyName:Avenir
+StyleName:Oblique
+MenuName:Avenir
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Avenir Oblique
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:3008
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Avenir-Roman
+FamilyName:Avenir
+StyleName:Roman
+MenuName:Avenir
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Avenir Roman
+WritingScript:Roman
+OutlineFileName:\Avenir.ttc
+TTCOffset:3308
+DataFormat:sfntData
+FileLength:1540324
+FileModTime:1359299081
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+MenuName:Century Gothic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic
+WritingScript:Roman
+OutlineFileName:\Century Gothic
+DataFormat:sfntResource
+ResourceID:12004
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+MenuName:Century Gothic
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Century Gothic Bold
+WritingScript:Roman
+OutlineFileName:\Century Gothic
+DataFormat:sfntResource
+ResourceID:12005
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Italic
+FamilyName:Century Gothic
+StyleName:Italic
+MenuName:Century Gothic
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Century Gothic Italic
+WritingScript:Roman
+OutlineFileName:\Century Gothic
+DataFormat:sfntResource
+ResourceID:12006
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-BoldItalic
+FamilyName:Century Gothic
+StyleName:Bold Italic
+MenuName:Century Gothic
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Century Gothic Bold Italic
+WritingScript:Roman
+OutlineFileName:\Century Gothic
+DataFormat:sfntResource
+ResourceID:12007
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CenturyGothic
+OutlineFileName:\Century Gothic
+ResourceID:2004
+MacStyle:0
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CenturyGothic-Bold
+OutlineFileName:\Century Gothic
+ResourceID:2004
+MacStyle:1
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CenturyGothic-Italic
+OutlineFileName:\Century Gothic
+ResourceID:2004
+MacStyle:2
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CenturyGothic-BoldItalic
+OutlineFileName:\Century Gothic
+ResourceID:2004
+MacStyle:3
+FileLength:262993
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComicSansMS
+FamilyName:Comic Sans MS
+StyleName:Regular
+MenuName:Comic Sans MS
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Comic Sans MS
+WritingScript:Roman
+OutlineFileName:\Comic Sans MS
+DataFormat:sfntResource
+ResourceID:4513
+FileLength:124189
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComicSansMS-Bold
+FamilyName:Comic Sans MS
+StyleName:Bold
+MenuName:Comic Sans MS
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Comic Sans MS Bold
+WritingScript:Roman
+OutlineFileName:\Comic Sans MS
+DataFormat:sfntResource
+ResourceID:4514
+FileLength:124189
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:ComicSansMS
+OutlineFileName:\Comic Sans MS
+ResourceID:4513
+MacStyle:0
+FileLength:124189
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:ComicSansMS-Bold
+OutlineFileName:\Comic Sans MS
+ResourceID:4513
+MacStyle:1
+FileLength:124189
+FileModTime:1276586831
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ComingSoon
+FamilyName:Coming Soon
+StyleName:Regular
+MenuName:Coming Soon
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Coming Soon
+WritingScript:Roman
+OutlineFileName:\ComingSoon.ttf
+DataFormat:sfntData
+FileLength:59136
+FileModTime:1354107034
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DSSnowfall
+FamilyName:DS Snowfall
+StyleName:Regular
+MenuName:DS Snowfall
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:DS Snowfall
+WritingScript:Roman
+OutlineFileName:\DSSnowfall.ttf
+DataFormat:sfntData
+FileLength:110396
+FileModTime:1335537330
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KGSecondChancesSolid
+FamilyName:KG Second Chances Solid
+StyleName:Regular
+MenuName:KG Second Chances Solid
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:KG Second Chances Solid
+WritingScript:Roman
+OutlineFileName:\KGSecondChancesSolid.ttf
+DataFormat:sfntData
+FileLength:111144
+FileModTime:1370277496
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandBook-Regular
+FamilyName:Quicksand
+StyleName:Book
+MenuName:Quicksand Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Quicksand Book Regular
+WritingScript:Roman
+OutlineFileName:\Quicksand_Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:36656
+FileModTime:1231515772
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandDash-Regular
+FamilyName:Quicksand
+StyleName:Dash
+MenuName:Quicksand Dash
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Quicksand Dash Regular
+WritingScript:Roman
+OutlineFileName:\Quicksand_Dash.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:60244
+FileModTime:1231515774
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RifficFree-Bold
+FamilyName:Riffic Free
+StyleName:Bold
+MenuName:Riffic Free Medium
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Riffic Free Medium Bold
+WritingScript:Roman
+OutlineFileName:\RifficFree-Bold.ttf
+DataFormat:sfntData
+FileLength:54332
+FileModTime:1459181794
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TwCenMT-BoldItalic
+FamilyName:Tw Cen MT
+StyleName:Bold Italic
+MenuName:Tw Cen MT
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Tw Cen MT Bold Italic
+WritingScript:Roman
+OutlineFileName:\Tw Cen MT Bold Italic.ttf
+DataFormat:sfntData
+FileLength:73856
+FileModTime:1276586840
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TwCenMT-Regular
+FamilyName:Tw Cen MT
+StyleName:Regular
+MenuName:Tw Cen MT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tw Cen MT
+WritingScript:Roman
+OutlineFileName:\Tw Cen MT.ttf
+DataFormat:sfntData
+FileLength:76252
+FileModTime:1276586840
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GrilledCheeseBTN
+FamilyName:GrilledCheese BTN
+StyleName:Regular
+MenuName:GrilledCheese BTN
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:GrilledCheese BTN
+WritingScript:Roman
+OutlineFileName:\ufonts.com_grilledcheese-btn-3.ttf
+DataFormat:sfntData
+FileLength:59576
+FileModTime:1485685251
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:VAGRound
+FamilyName:VAG Round
+StyleName:Regular
+MenuName:VAG Round
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:VAG Round
+WritingScript:Roman
+OutlineFileName:\VAG Round.ttf
+DataFormat:sfntData
+FileLength:56459
+FileModTime:1423921428
+%EndFont
+

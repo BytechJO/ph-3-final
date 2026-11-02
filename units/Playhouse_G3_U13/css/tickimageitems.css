@@ -1,0 +1,106 @@
+.all_cont{
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.screen_elements{
+    width: 90%;
+    height: 100%;
+}
+
+.orange_text{
+    color: #f26521;
+}
+
+.tii_group{
+    width: 95%;
+    max-width: 950px;
+    gap: 16px;
+    justify-content: center;
+}
+
+.tii_item{
+    width: 140px;
+}
+
+.tii_imgWrap{
+  position: relative;
+    border: 2px solid #f2a03d;
+    border-radius: 14px;
+    overflow: hidden;
+    height: 172px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    flex-wrap: wrap;
+}
+
+.tii_img{
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+}
+
+.tii_checkbox{
+    position: absolute;
+   bottom: 2px;
+    right: 2px;
+    width: 35px;
+    height: 35px;
+    border: 2px solid #f2a03d;
+    border-radius: 8px;
+    background: #fff;
+    cursor: pointer;
+}
+
+.tii_checkbox.tii_checked::after{
+    content: "";
+    position: absolute;
+top: 0px;
+    left: 10px;
+    width: 12px;
+    height: 29px;
+    border: solid #2f6fb3;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+/* 
+.que.tii_right .tii_checkbox.tii_checked::after{
+    border-color: #2f9e44;
+}
+.que.tii_right .tii_imgWrap{
+    outline: 3px solid #2f9e44;
+}
+.que.tii_wrong .tii_imgWrap{
+    outline: 3px solid #d9364a;
+} */
+
+.icon_wrap_holder{
+    position: absolute;
+        top: 0px;
+    left: 4px;
+    z-index: 3;
+}
+.icon_wrap .tick,
+.icon_wrap .cross{
+    display: none;
+    width: 26px;
+}
+.icon_wrap .tick img,
+.icon_wrap .cross img{
+    width: 100%;
+}
+
+
+/* ************************************************* */
+@media (max-width: 575.98px){
+    .tii_item{
+        width: 28%;
+    }
+    .tii_imgWrap{
+        height: 110px;
+    }
+}

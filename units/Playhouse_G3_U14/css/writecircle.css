@@ -1,0 +1,92 @@
+.wc_group {
+    width: 100%;
+    max-width: 750px;
+    margin: 10px auto 0 auto;
+    gap: 24px;
+}
+
+.wc_row {
+    gap: 10px;
+    font-size: 18px;
+    color: #1a1a1a;
+    position: relative;
+}
+
+.wc_qnum {
+    font-weight: bold;
+}
+
+.wc_sentence {
+    line-height: 1.8;
+}
+
+.wc_blank_input {
+    border: none;
+    border-bottom: 2px solid #1a1a1a;
+    background: transparent;
+    font-size: 18px;
+    text-align: center;
+    width: 160px;
+    margin: 0 4px;
+}
+
+.wc_blank_input:focus {
+    outline: none;
+    border-bottom-color: #25a4de;
+}
+
+.wc_locked_answer {
+    font-family: 'Comic Sans MS', 'Segoe Print', cursive, sans-serif;
+    color: #e2574c;
+    border-bottom: 2px solid #1a1a1a;
+    padding: 0 6px;
+    margin: 0 4px;
+}
+
+.wc_circleWrap {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    padding: 0 3px;
+}
+
+.wc_circleWrap.wc_locked {
+    cursor: default;
+}
+
+.wc_circle_svg {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    width: calc(100% + 16px);
+    height: calc(100% + 16px);
+    pointer-events: none;
+}
+
+.icon_wrap {
+    position: absolute;
+    right: -40px;
+    top: 0;
+}
+
+.icon_wrap .tick,
+.icon_wrap .cross {
+    width: 26px;
+    display: none;
+}
+
+.icon_wrap .tick img,
+.icon_wrap .cross img {
+    width: 100%;
+}
+
+/* ---------------- responsive ---------------- */
+@media (max-width: 767.98px) {
+    .wc_row {
+        font-size: 14px;
+    }
+    .wc_blank_input {
+        font-size: 14px;
+        width: 110px;
+    }
+}

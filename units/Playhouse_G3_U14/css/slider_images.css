@@ -1,0 +1,662 @@
+.box {
+  max-width: 1024px;
+  margin: auto;
+}
+ 
+a {
+  color: #575757;
+}
+ 
+a:hover {
+  color: #fd9644;
+  text-decoration: none;
+}
+ 
+.main {
+  color: #fd9644;
+  opacity: 0.2;
+  font-weight: 900;
+  margin-bottom: -30px;
+}
+ 
+/* =========================================
+   Video Player
+========================================= */
+ 
+.neo-video-player {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+ 
+/* =========================================
+   Video Controls
+========================================= */
+ 
+.video-control-part,
+.video-control-part > div,
+.video-neu-btn {
+  display: flex;
+  align-items: center;
+}
+ 
+.video-control-part {
+  justify-content: space-between;
+ 
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+ 
+  z-index: 5;
+ 
+  opacity: 1;
+ 
+  padding: 10px 15px;
+ 
+  background-color: #eff0f4;
+ 
+  transition: all 0.25s ease;
+}
+ 
+.video-control-part.playing {
+  opacity: 0;
+}
+ 
+.neo-video-player:hover .video-control-part {
+  opacity: 1;
+}
+ 
+/* =========================================
+   Video Buttons
+========================================= */
+ 
+.video-neu-btn {
+  position: relative;
+ 
+  justify-content: center;
+  align-items: center;
+ 
+  width: 40px;
+  height: 40px;
+ 
+  margin: 5px;
+ 
+  border-radius: 50px;
+ 
+  background: #eff0f4;
+ 
+  box-shadow:
+    6px 6px 15px #cbcccf,
+    -6px -6px 15px #ffffff;
+}
+ 
+.video-neu-btn::before {
+  content: "";
+ 
+  position: absolute;
+ 
+  top: 3px;
+  left: 3px;
+  right: 3px;
+  bottom: 3px;
+ 
+  border-radius: 100%;
+ 
+  background: linear-gradient(145deg, #ffffff, #d7d8dc);
+ 
+  transition: all 0.25s ease;
+}
+ 
+.video-neu-btn::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+ 
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+ 
+  display: inline-block;
+ 
+  font-style: normal;
+  font-variant: normal;
+ 
+  text-rendering: auto;
+ 
+  line-height: 1;
+ 
+  z-index: 1;
+ 
+  transition: all 0.25s ease;
+}
+ 
+.drop-btn > .video-neu-btn {
+  background: none;
+  box-shadow: none;
+}
+ 
+.drop-btn > .video-neu-btn::before {
+  background: none;
+}
+ 
+.video-neu-btn:hover::before {
+  opacity: 0;
+}
+ 
+.video-neu-btn:hover::after {
+  color: #fd9644;
+}
+ 
+/* =========================================
+   Play Button
+========================================= */
+ 
+.play-btn {
+  width: 60px;
+  height: 60px;
+}
+ 
+.play-btn::after {
+  content: "\f04b";
+}
+ 
+.play-btn.pause {
+  background: linear-gradient(145deg, #e4873d, #ffa149);
+}
+ 
+.play-btn.pause::before {
+  opacity: 0;
+}
+ 
+.play-btn.pause::after {
+  content: "\f04c";
+  color: #eff0f4;
+}
+ 
+.play-btn.pause:hover::after {
+  color: #575757;
+}
+ 
+/* =========================================
+   Control Icons
+========================================= */
+ 
+.sound-btn::after {
+  content: "\f028";
+}
+ 
+.sound-btn.low::after {
+  content: "\f027";
+}
+ 
+.sound-btn.mute::after {
+  content: "\f6a9";
+}
+ 
+.download-btn::after {
+  content: "\f381";
+}
+ 
+.setting-btn::after {
+  content: "\f013";
+}
+ 
+.fullscreen-btn::after {
+  content: "\f065";
+}
+ 
+/* =========================================
+   Progress Bar
+========================================= */
+ 
+.video-control-bar-part,
+.bar-bg {
+  width: 100%;
+}
+ 
+.bar-bg {
+  width: 100%;
+  height: 10px;
+ 
+  margin: 0 10px;
+ 
+  border-radius: 50px;
+ 
+  background: #eff0f4;
+ 
+  box-shadow:
+    inset 2px 2px 4px #cbcccf,
+    inset -2px -2px 4px #ffffff;
+}
+ 
+.bar-progress {
+  width: 100%;
+  height: 10px;
+}
+ 
+.bar-time {
+  position: relative;
+ 
+  width: 0%;
+  height: 10px;
+ 
+  border-radius: 50px;
+ 
+  background: #fd9644;
+ 
+  box-shadow:
+    inset 3px 3px 6px #d7803a,
+    inset -3px -3px 6px #ffad4e;
+}
+ 
+.bar-pin {
+  position: absolute;
+ 
+  top: -5px;
+  right: -10px;
+ 
+  width: 20px;
+  height: 20px;
+ 
+  border-radius: 50px;
+ 
+  background: #eff0f4;
+ 
+  box-shadow:
+    4px 4px 10px #cbcccf,
+    -4px -4px 10px #ffffff;
+}
+ 
+/* =========================================
+   Video Element
+========================================= */
+ 
+.video-element {
+  display: block;
+ 
+  width: 100%;
+  height: 100%;
+ 
+  min-width: 0;
+ 
+  margin: 0;
+ 
+  object-fit: contain;
+ 
+  background: #000;
+}
+ 
+/* =========================================
+   Sound Control
+========================================= */
+ 
+.box-sound {
+  position: absolute;
+ 
+  left: 0;
+ 
+  z-index: 1;
+ 
+  width: 0;
+  height: 40px;
+ 
+  padding: 17px 15px 0 40px;
+ 
+  opacity: 0;
+ 
+  overflow: hidden;
+ 
+  border-radius: 50px;
+ 
+  background: #eff0f4;
+ 
+  box-shadow:
+    6px 6px 15px #cbcccf,
+    -6px -6px 15px #ffffff;
+ 
+  transition: all 0.25s ease;
+}
+ 
+.drop-btn:hover .box-sound {
+  width: 120px;
+  opacity: 1;
+}
+ 
+.volume {
+  width: 100%;
+  height: 5px;
+ 
+  border-radius: 50px;
+ 
+  background: #eff0f4;
+ 
+  box-shadow:
+    inset 2px 2px 3px #cbcccf,
+    inset -2px -2px 3px #ffffff;
+}
+ 
+.bar-volume {
+  width: 100%;
+  height: 5px;
+ 
+  border-radius: 50px;
+ 
+  background: #fd9644;
+ 
+  box-shadow:
+    inset 3px 3px 6px #d7803a,
+    inset -3px -3px 6px #ffad4e;
+}
+ 
+/* =========================================
+   Fast Forward Box
+========================================= */
+ 
+.fastFwd-box {
+  display: none;
+ 
+  position: absolute;
+ 
+  top: -40px;
+  right: 0;
+ 
+  width: max-content;
+ 
+  border: 1px solid #00000026;
+  border-radius: 10px;
+ 
+  background: #eff0f4;
+}
+ 
+.setting-btn:hover .fastFwd-box {
+  display: block;
+}
+ 
+.fastFwd-box::before {
+  content: "";
+ 
+  display: block;
+ 
+  position: absolute;
+ 
+  right: 12px;
+  bottom: -6px;
+ 
+  width: 10px;
+  height: 10px;
+ 
+  transform: rotate(45deg);
+ 
+  border: solid #00000026;
+  border-width: 0 1px 1px 0;
+ 
+  background: #eff0f4;
+}
+ 
+.fastFwd:focus {
+  box-shadow: none;
+}
+ 
+/* =========================================
+   Time Box
+========================================= */
+ 
+.bar-time-box {
+  display: none;
+ 
+  position: absolute;
+ 
+  top: -65px;
+  right: -55px;
+ 
+  width: max-content;
+ 
+  padding: 10px;
+ 
+  border: 1px solid #00000026;
+  border-radius: 10px;
+ 
+  background: #eff0f4;
+}
+ 
+.bar-progress:hover .bar-time-box {
+  display: block;
+}
+ 
+.bar-time-box::before {
+  content: "";
+ 
+  display: block;
+ 
+  position: absolute;
+ 
+  right: 47%;
+  bottom: -6px;
+ 
+  width: 10px;
+  height: 10px;
+ 
+  transform: rotate(45deg);
+ 
+  border: solid #00000026;
+  border-width: 0 1px 1px 0;
+ 
+  background: #eff0f4;
+}
+ 
+/* =========================================
+   Video Container
+========================================= */
+ 
+#container {
+  width: 100%;
+ 
+  margin: 0 auto;
+ 
+  box-sizing: border-box;
+}
+ 
+/* =========================================
+   Monitor Frame
+========================================= */
+ 
+#monitor {
+  position: relative;
+ 
+   width: 100%;
+    /* max-width: 1450px; */
+ 
+  margin: 25px auto 0;
+ 
+  padding: 18px 18px 35px;
+ 
+  box-sizing: border-box;
+ 
+  background: #000;
+ 
+  border-top: 3px solid #888;
+  border-radius: 10px;
+  border-bottom-left-radius: 50% 2%;
+  border-bottom-right-radius: 50% 2%;
+ 
+  transition: margin-right 1s;
+}
+ 
+#monitor::after {
+  content: "";
+ 
+  display: block;
+ 
+  position: absolute;
+ 
+  left: 36%;
+  bottom: 3%;
+ 
+  width: 28%;
+  height: 3px;
+ 
+  border-radius: 50%;
+ 
+  background: #ddd;
+ 
+  box-shadow: 0 0 3px 0 #fff;
+}
+ 
+/* =========================================
+   Monitor Screen
+========================================= */
+ 
+#monitorscreen {
+  position: relative;
+ 
+  width: 100%;
+  height: 500px;
+ 
+  overflow: hidden;
+ 
+  background: #000;
+}
+ 
+/* =========================================
+   Player Inside Monitor
+========================================= */
+ 
+#monitorscreen .neo-video-player {
+  position: relative;
+ 
+  width: 100%;
+  height: 100%;
+ 
+  overflow: hidden;
+}
+ 
+#monitorscreen .video-element {
+  display: block;
+ 
+  width: 100%;
+  height: 100%;
+ 
+  min-width: 0;
+ 
+  margin: 0;
+ 
+  object-fit: contain;
+ 
+  background: #000;
+}
+ 
+#monitorscreen .video-control-part {
+  position: absolute;
+ 
+  left: 0;
+  right: 0;
+  bottom: 0;
+ 
+  z-index: 5;
+}
+ 
+/* =========================================
+   Monitor Animation
+========================================= */
+ 
+@media all and (min-width: 960px) {
+  #monitor {
+    -webkit-animation: tvflicker 0.2s infinite alternate;
+    -moz-animation: tvflicker 0.5s infinite alternate;
+    -o-animation: tvflicker 0.5s infinite alternate;
+    animation: tvflicker 0.5s infinite alternate;
+  }
+ 
+  @-webkit-keyframes tvflicker {
+    0% {
+      box-shadow: 0 0 100px 0 rgba(8, 9, 10, 0.4);
+    }
+ 
+    100% {
+      box-shadow: 0 0 95px 0 rgba(8, 9, 10, 0.45);
+    }
+  }
+ 
+  @-moz-keyframes tvflicker {
+    0% {
+      box-shadow: 0 0 100px 0 rgba(8, 9, 10, 0.4);
+    }
+ 
+    100% {
+      box-shadow: 0 0 60px 0 rgba(8, 9, 10, 0.6);
+    }
+  }
+ 
+  @-o-keyframes tvflicker {
+    0% {
+      box-shadow: 0 0 100px 0 rgba(8, 9, 10, 0.4);
+    }
+ 
+    100% {
+      box-shadow: 0 0 60px 0 rgba(8, 9, 10, 0.6);
+    }
+  }
+ 
+  @keyframes tvflicker {
+    0% {
+      box-shadow: 0 0 100px 0 rgba(8, 9, 10, 0.4);
+    }
+ 
+    100% {
+      box-shadow: 0 0 60px 0 rgba(8, 9, 10, 0.6);
+    }
+  }
+}
+ 
+/* =========================================
+   Responsive
+========================================= */
+ 
+@media (max-width: 1200px) {
+  #monitor {
+    width: 85%;
+  }
+ 
+  #monitorscreen {
+    height: 450px;
+  }
+}
+ 
+@media (max-width: 900px) {
+  #monitor {
+    width: calc(100% - 80px);
+ 
+    padding: 14px 14px 30px;
+  }
+ 
+  #monitorscreen {
+    height: 400px;
+  }
+}
+ 
+@media (max-width: 600px) {
+  #monitor {
+    width: calc(100% - 30px);
+ 
+    padding: 10px 10px 25px;
+  }
+ 
+  #monitorscreen {
+    height: 300px;
+  }
+ 
+  .video-control-part {
+    padding: 5px 8px;
+  }
+ 
+  .play-btn {
+    width: 45px;
+    height: 45px;
+  }
+ 
+  .video-neu-btn {
+    width: 32px;
+    height: 32px;
+  }
+}
+ 

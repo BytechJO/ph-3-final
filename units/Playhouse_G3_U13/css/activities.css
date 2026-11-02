@@ -1,0 +1,674 @@
+/* //  ****************************************** // */
+
+
+/* //  ActivitiesCSS - Version no: R-02
+/* //  Date created - July 13, 2020 
+/* // for grade 4,5,6
+/* //  ****************************************** // */
+
+
+/**************** general ***************/
+
+body {
+    background-color: #ffffff;
+}
+
+.mainTitleIcon {
+    /* top: -15px; */
+    right: 100px;
+}
+
+.orange_text{
+    color: #fa9702;
+}
+
+/* ***************************** */
+.unitTitle .audioIcon {
+    /* margin-right: 100px; */
+}
+/* ***************************** */
+
+/***************** screen Number ********/
+
+.screen_numbers_wrap {
+    position: fixed;
+    right: 0;
+    top: 0;
+    font-family: Arcon;
+    text-align: center;
+}
+
+.act_num {
+    width: 50px;
+    font-size: 27px;
+    color: black;
+    text-align: center;
+}
+
+.goToBtn {
+    width: 48px;
+    height: 48px;
+	cursor:pointer;
+}
+
+.goToBtn img {
+    width: 100%;
+    min-width: 100%;
+    vertical-align: top;
+}
+
+.numofscreen {
+    color: #fbead8;
+    font-size: 24px;
+}
+
+.mini_ribbon {
+    background: #c57929;
+    border: 2px solid #ffffff;
+    border-right: none;
+    border-top: none;
+    box-shadow: -3px 3px 3px #8122013d;
+    padding: 0 5px 5px;
+    color: white;
+    border-radius: 0;
+    border-bottom-left-radius: 12px;
+}
+
+#pgnum {
+    border: 2px solid #80421f;
+    color: black;
+    border-radius: 4px;
+    margin-top: 7px;
+}
+
+
+/***************** /screen Number  ********/
+
+
+/* feedback panel */
+
+.feedback {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: grid;
+    z-index: 1;
+}
+
+.feedback video {
+    width: 100%;
+    margin-top: -35px;
+}
+
+#video_1,
+#video_2 {
+    width: 100%;
+}
+
+.closeFeedback {
+    position: absolute;
+    margin: 1rem;
+    top: 0;
+    right: 0;
+    opacity: 1;
+    z-index: 2;
+}
+
+.closePop img {
+    width: 100%;
+}
+
+
+/* /feedback panel */
+
+
+/**************** general ***************/
+.nextNav  {
+    right: 0;
+}
+
+.backNav  {
+    left: 0;
+}
+
+/* .keyIcon {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+}
+
+.keyIcon img {
+    width: 100%;
+    vertical-align: baseline;
+}
+
+.activityHeading {
+    font-family: Arcon;
+    font-weight: bold;
+    color: rgb(0, 185, 242);
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.audioQuestionTitle {
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    width: fit-content;
+    max-width: 90%;
+} */
+
+/* .q-type-img-container {
+    height: 60px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.q-type-img-container img {
+    height: 100%;
+} */
+
+/* ========[[[[[[ Grade below 4 ]]]]]]========*/
+.activityTitle,
+.sub_title {
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.activity-heading,
+.activity-heading .heading_image,
+.activity-heading .heading_text {
+    font-family: Arcon !important;
+    font-weight: bold !important;
+    font-size: 32px !important;
+}
+
+.txt_box,
+.tickContent {
+    text-align: left;
+    font-family: Arcon;
+    font-size: 26px;
+}
+
+.word_dash {
+    font-family: Arcon;
+    font-size: 26px;
+}
+
+
+/********* //Grade below 4 end*************/
+
+
+/********* Grade 4 and above *************/
+
+
+/* .activityHeading {
+    font-size: 28px !important;
+    padding-left: 14px;
+}
+
+.activity-content {
+    font-size: 24px !important;
+}
+
+.activityTitle,
+.sub_title {
+    margin-left: 60px;
+    font-size: 26px !important;
+}
+
+.activity-heading,
+.activity-heading .heading_image,
+.activity-heading .heading_text {
+    font-family: Arcon !important;
+    font-weight: bold !important;
+    font-size: 28px !important;
+}
+
+.txt_box,
+.tickContent {
+    text-align: left;
+    font-family: Arcon;
+    font-size: 24px;
+}
+
+.word_dash {
+    font-size: 24px;
+} */
+
+
+/********* //Grade 4 and above end*************/
+
+.sub_footer {
+    position: fixed;
+    right: 0;
+    bottom: 40px;
+    left: 0;
+    z-index: 1039;
+    padding-bottom: 4px;
+}
+
+.checkBtn, .resetBtn {
+    width: 60px;
+    height: 60px;
+    min-width: 44px;
+}
+
+.func_ctrls {
+    width: 100%;
+    justify-content: center;
+}
+
+.activityCtrlPanel {
+    font-family: avantgardeitcbybt-Book;
+}
+
+.activityCtrlPanel .modal-header,
+.activityCtrlPanel .modal-body {
+    padding: 10px;
+}
+
+.activityCtrlPanel .modal-title {
+    font-family: Arcon;
+    font-size: 32px;
+    color: black;
+    letter-spacing: 1px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+
+.pop_title {
+    font-family: AvantGarde;
+    color: #0042f7;
+    font-size: 19px;
+}
+
+.activityCtrlPanel .modal-header {
+    background-color: #0f89ca;
+}
+
+.activityCtrlPanel .modal-body {
+    font-size: 20px;
+}
+
+.sub_footer_icon {
+    cursor: pointer;
+}
+
+.sub_footer_icon img {
+    width: 100%;
+    vertical-align: top;
+}
+
+.sub_footer_icon.act_showall {
+    padding: 3px;
+}
+
+
+/* activity custom */
+
+.icon_wrap_holder {
+    height: 42px;
+}
+
+.tick,
+.cross {
+    width: 42px;
+    height: 42px;
+}
+
+.tick img,
+.cross img {
+    width: 100%;
+    vertical-align: baseline;
+}
+
+.pick .icon_wrap {
+    position: absolute;
+    right: 5px;
+}
+
+.isCorrect {
+    border-color: green !important;
+}
+
+.isNotCorrect {
+    border-color: red !important;
+}
+
+.bgColorNone {
+    background-color: transparent;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: #2196f3;
+}
+
+.roundedCorners {
+    border-radius: 30px;
+}
+
+.noCorners {
+    border-radius: 50%;
+}
+
+.sharpCorners {
+    border-radius: 0;
+}
+
+.selectedDefault {
+    border-color: rgb(13, 137, 202) !important;
+}
+
+.selX {
+    position: absolute;
+    /*transform: scale(2,2);  */
+    height: 10px;
+    width: intrinsic;
+width: -moz-max-content;
+width: -webkit-max-content;
+width:max-content;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.selX svg {
+    width: 100%;
+}
+
+.fillWhite {
+    fill: white;
+}
+
+.fillBlue {
+    fill: #72c5f7;
+}
+
+.fillGreen {
+    fill: #8cc63f;
+}
+
+.fillRed {
+    fill: #f53656;
+}
+
+.tickBox .fa {
+    font-weight: 500;
+}
+
+.tickBox {
+    height: 58px;
+    width: 58px;
+    min-width: 58px;
+    border: 2px solid #a07c40;
+    background-color: white;
+    padding: 9px;
+    font-family: Arcon;
+    font-size: 26px;
+    margin: auto;
+    text-align: center;
+}
+
+.tickBox .selectTick {
+    height: 100%;
+    margin-top: -4px;
+}
+
+.modal-body video {
+    width: 100% !important;
+}
+
+
+/* activity custome end*/
+
+
+/* ====================================================== */
+
+
+/*              Media Queries Start                       */
+
+
+/* ====================================================== */
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 1199.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Large devices (desktops, less than 1200px) */
+
+@media (max-width: 1199.98px) {
+    #activity1 .act_head_group {
+        margin-left: 83px;
+    }
+    .act_num {
+        width: 30px;
+        font-size: 17px;
+    }
+    .numofscreen {
+        font-size: 14px;
+    }
+    .goToBtn {
+        width: 30px;
+        height: 30px;
+    }
+    #pgnum {
+        margin-top: 1px;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 991.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Medium devices (tablets, less than 992px) 768 to 991.98 */
+
+@media (max-width: 991.98px) {
+    #activity1 .act_head_group {
+        margin-left: 7px;
+        margin-right: 20px;
+    }
+    .act_head_group {
+        padding-right: 2px;
+    }
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 767.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Small devices (landscape phones, less than 768px) 576 to 767.98*/
+
+@media (max-width: 767.98px) {
+    #activity1 .act_head_group {
+        margin-left: 7px;
+        margin-right: 20px;
+    }
+    .fill_in .que .image_wrap {
+        width: 50%;
+    }
+    /* ========[[[[[[ Grade below 4 ]]]]]]========*/
+    /* ========[[[[[[ //Grade below 4 end]]]]]]========*/
+    /* ========[[[[[[ Grade 4 and above ]]]]]]========*/
+    /* .activityHeading {       
+        font-size: 24px !important;
+    }
+    .activityTitle,
+    .sub_title {
+        font-size: 22px;
+    }
+     .txt_box,
+    .tickContent {      
+        font-size: 21px;
+    }
+    .activity-content {
+        font-size: 21px !important;
+    }
+    .word_dash{
+        font-size: 21px;
+    }
+    .activity-heading,
+    .activity-heading .heading_image,
+    .activity-heading .heading_text {
+        font-family: Arcon !important;
+        font-weight: bold !important;
+        font-size: 24px !important;
+    }     */
+    /* ========[[[[[[ Grade 4 and above end ]]]]]]========*/
+}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 691.98px */
+
+
+/* ------------------------------------------------*/
+
+@media (max-width: 691.98px) {}
+
+
+/* ------------------------------------------------ */
+
+
+/* M Q max-width: 575.98px */
+
+
+/* ------------------------------------------------*/
+
+
+/* // Extra small devices (portrait phones, less than 576px) 476 to 576*/
+
+@media (max-width: 575.98px) {
+    /* ========[[[[[[ Grade below 4 ]]]]]]========*/
+    .activityHeading {
+        font-size: 26px;
+    }
+    .activity-heading,
+    .activity-heading .heading_image,
+    .activity-heading .heading_text {
+        font-family: Arcon !important;
+        font-weight: bold !important;
+        font-size: 26px !important;
+    }
+    .activityTitle,
+    .sub_title {
+        font-size: 24px;
+    }
+    .txt_box,
+    .tickContent {
+        font-size: 24px;
+    }
+    .word_dash {
+        font-size: 24px;
+    }
+    /* ========[[[[[[ Grade 4 and above ]]]]]]========*/
+    /* .activity-content {
+        font-size: 21px !important;
+    }
+    .activity-heading,
+    .activity-heading .heading_image,
+    .activity-heading .heading_text {
+        font-family: Arcon !important;
+        font-weight: bold !important;
+        font-size: 24px !important;
+    } */
+    /* ========[[[[[[ Grade 4 and above end ]]]]]]========*/
+}
+
+
+/* ------------------------------------------------ */
+
+
+/*              M Q max-width: 475.98px             */
+
+
+/* ------------------------------------------------*/
+
+
+/* body working fine 320 to 475 */
+
+@media (max-width: 475.98px) {
+    /* ========[[[[[[ Grade below 4 ]]]]]]========*/
+    .activityHeading {
+        font-size: 24px;
+    }
+    .activity-heading,
+    .activity-heading .heading_image,
+    .activity-heading .heading_text {
+        font-family: Arcon !important;
+        font-weight: bold !important;
+        font-size: 24px !important;
+    }
+    .activityTitle,
+    .sub_title {
+        font-size: 22px;
+    }
+    .txt_box,
+    .tickContent {
+        font-size: 22px;
+    }
+    .word_dash {
+        font-size: 22px;
+    }
+    /* ========[[[[[[ Grade 4 and above ]]]]]]========*/
+    /* 
+    .activity-heading,
+    .activity-heading .heading_image,
+    .activity-heading .heading_text {
+        font-family: Arcon !important;
+        font-weight: bold !important;
+        font-size: 23px !important;
+    }
+    .activityHeading {       
+        font-size: 23px !important;
+    }
+    .activityTitle,
+    .sub_title {
+        font-size: 21px;
+    }
+    .txt_box,
+    .tickContent {      
+        font-size: 20px;
+    }
+    .activity-content {
+        font-size: 20px !important;
+    }
+     .word_dash{
+        font-size: 20px;
+    }
+     */
+    /* ========[[[[[[ Grade 4 and above end ]]]]]]========*/
+}
